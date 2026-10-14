@@ -1,0 +1,5 @@
+# originales sin procesar (no hacen falta para ver la web)
+_fuentes/
+.claude/
+__pycache__/
+*.pyc
