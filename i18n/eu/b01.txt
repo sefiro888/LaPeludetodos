@@ -1,0 +1,260 @@
+0	+30 urte
+1	. Sakatu handitzeko.
+2	10 zerbitzu
+3	2 zerbitzu
+4	26 iritzi Googlen
+5	3 zerbitzu
+6	4,8 ★-ko batez bestekoa Googlen · 26 iritzi
+7	4,8 ★-ko batez bestekoa eta lagun asko
+8	4,8 ★ Googlen
+9	42 hitz
+10	48002 Bilbo (Bizkaia)
+11	48002 Bilbo, Bizkaia
+12	5 izarretik 5
+13	51 lan
+14	63X2+P3 Bilbo
+15	=
+16	Askotan buru-larruazalaren desoreka bat izaten da; produktu gogorrekin gehiegi garbitzeak okerrera eraman dezake.
+17	Askotan promozio berri eta interesgarriak izaten ditugu: galdetu WhatsAppez eta pozik emango dizugu informazioa.
+18	Kale mailan
+19	Batzuetan denboraldiko promozioak ateratzen ditugu. Galdetu WhatsAppez.
+20	Ireki Instagramen
+21	Ireki menua
+22	Ireki ibilbidea Google Mapsen
+23	Akabera
+24	Irisgarria
+25	Irisgarria eta inklusiboa
+26	Lehorgailuaren osagarria, airea banatzen duena kizkurrak hautsi eta harrotu gabe lehortzeko.
+27	Ekintza azkarrak
+28	Olio naturalak: tanta batzuk erdialdean eta puntetan jarrita, frizza kontrolatzen laguntzen dute.
+29	Olio puruak, silikonarik gabeko maskarak eta anpoila naturalak.
+30	Olio puruak, silikonarik gabeko maskarak, anpoila naturalak.
+31	Argiztatzea edo kolorea
+32	Argitzea eta jarraibideak
+33	Behar dena argitzen dugu, zuntza babestuz.
+34	Buru-larruazaleko mikrozirkulazioa aktibatzen du.
+35	Zure aurpegira egokitua
+36	=
+37	=
+38	Gainera, harro gaude LGBTQ+ kolektiboarekiko espazio ofizialki atsegina eta pertsona transentzako ingurune segurua izateaz (transgender safe space). Hemen zaren bezala adierazteko askatasun osoa duzu.
+39	Agur labanei, argizariari eta narritadurei.
+40	Agur frizzari, baita Bilboko euri-egunetan ere.
+41	Agur ileurdinei 5 minutu baino gutxiagoan
+42	Agur frizza, kaixo ispilu-leuna
+43	Bolumena definitu eta banatzeko egokitua.
+44	Egun handiaren aurretik xehetasun guztiak doitzen ditugu.
+45	Azken tonua doitzen dugu: beroa, hotza edo neutroa.
+46	Presioa eta erritmoa behar duzunera egokitzen ditugu.
+47	Tonuaren azken doikuntza, nahi ez diren islak (horiak, laranjak) neutralizatzeko edo berotasuna emateko.
+48	Alderantziz: ondo pentsatutako geruzek bolumena banatzen dute eta kizkurra definitzen dute.
+49	Erroa markatzen ez duenez, modu naturalean hazten da eta askoz denbora gehiagoz irauten du polit.
+50	Sakatzean Google Maps kargatzen da.
+51	Koloreztatzea erreserbatzean, gehitu presoterapia saio bat 5 € gehiagoren truke soilik. Kolorea zure ilerako eta ongizatea zure gorputzerako.
+52	Kolore-zerbitzua erreserbatzean, presoterapia saio bat gehi dezakezu 5 € gehiagoren truke soilik, eta lasai egon tindagaia finkatzen den bitartean.
+53	Koloreztatze-zerbitzua erreserbatzean, presoterapia saio bat gehi dezakezu 5 € gehiagoren truke soilik.
+54	=
+55	Alergiak, ideiak, bidaliko dituzun argazkiak…
+56	=
+57	Jakin beharko genukeen zerbait
+58	Leuntze profesionala
+59	Leuntzea eta keratina-tratamendua Bilbon: frizza kontrolatzen du, bolumena murrizten du eta distira ematen du. Ispilu-leuna, ilea astundu gabe.
+60	Leuntzeak eta keratina, frizzaren aurka
+61	Leuntzeak eta keratina, frizzaren aurka, Bilbon · La Pelu de Tod@s
+62	Leuntzeak eta keratina, frizzaren aurka, La Pelu de Tod@s-en
+63	LGBTQ+ kolektiboarekiko atsegina
+64	=
+65	Handitze-irudia erroa, folikulua, koipea edo ezkatak ikusteko.
+66	Handitu argazkia
+67	Handitu · Kolorea
+68	Handitu · Ile-mozketak
+69	Handitu · Fantasia
+70	Handitu · Leuna, kizkurra eta orrazkerak
+71	Handitu · Metxak eta balayagea
+72	Handitu · Landare-kolorea
+73	Ile-anpoila
+74	Zure ile-hariaren eta buru-larruazalaren osasuna sakon aztertzen dugu edozein esku-hartzeren aurretik, behar duzun errutina berreraikitzaile zehatza eskaintzeko.
+75	Ile-haria eta buru-larruazala aztertzen ditugu
+76	Aurpegia, testura, dentsitatea, zurrunbiloak eta ilearen egoera aztertzen ditugu ezer proposatu aurretik.
+77	Oinez
+78	Aurrekoa
+79	Lehen
+80	Edozein produktu kimiko aplikatu aurretik, eta tratamendurik gomendatu aurretik, begiratu egiten dugu. Ile-diagnostikoa zure buru-larruazalaren eta ile-zuntzaren egoeraren ebaluazioa da, eta zure ileak osasuntsu, indartsu eta distiratsu egoteko zer behar duen zehatz jakiteko aukera ematen digu.
+81	Guraizeak hartu aurretik, Cova zurekin esertzen da. Kontatzen diozu nola ikusten zaren, zer gustatzen zaizun eta zer ez, goizetan zenbat denbora ematen duzun orrazten eta beste ile-apaindegi batzuetan zerk frustratu zaituen. Horrekin, eta zure aurpegian eta ilean ikusten duenarekin, hasten da diseinua.
+82	Guraizeak sartu aurretik, entzun egiten dugu. Zer nahi duzun, zerk kezkatzen zaituen, nola orrazten zaren.
+83	Produktu kimikoen aurretik
+84	Kolore-aldaketa handi baten aurretik edo landare-kolorera igarotzeko trantsizio baten aurretik.
+85	Etorri aurretik
+86	Uda edo oporrak baino lehen, ileaz ahazteko.
+87	Lehen eta orain
+88	Saioaren aurretik eta ondoren
+89	Lehen: Distira eta kolorea landareekin
+90	Lehen: Harrotutik ispilu-leunera
+91	Lehen: Argia balayagearekin
+92	Frizzaren aurkakoa
+93	Denboraldiko frizzaren aurkako tratamendua
+94	Zuntzaren azterketa
+95	Buru-larruazalaren eta zuntzaren azterketa, edozein tratamendu edo produktu kimikoren aurretik.
+96	Ezarri maskara naturalak edo landare-olioak (koko, argan, jojoba) tonua aldatu gabe elikatzeko.
+97	Aplikazioa
+98	Laserraren aplikazioa, parametro pertsonalizatuekin.
+99	Pigmentua zehaztasunez eta modu uniformean aplikatzen dugu.
+100	Distira ematen du, islak zuzentzen ditu eta tonua freskatzen du, konpromisorik gabe.
+101	Hemen zaren bezala adierazteko askatasun osoa duzu
+102	Hemen zaren bezala adierazteko askatasun osoa duzu.
+103	Hemen zaren bezala adierazteko askatasun osoa duzu. Zure ileak ere bai.
+104	=
+105	Komun inklusiboak eta kale mailako lokala
+106	Aholkularitza
+107	Irudi-aholkularitza eta bisajismoa
+108	Irudi-aholkularitza eta bisajismoa Bilbon · La Pelu de Tod@s
+109	Irudi-aholkularitza eta bisajismoa Bilbon: zure aurpegiko ezaugarriak eta bizimodua aztertzen ditugu, ondo datorkizun itxura-aldaketa diseinatzeko.
+110	Irudi-aholkularitza eta bisajismoa La Pelu de Tod@s-en
+111	Aholkularitza ezkongaientzat eta gonbidatuentzat
+112	Aholkularitza, ile-mozketa eta kolorea elkarrekin diseinatuta, eraldaketa koherente baterako.
+113	Horrela aplikatzen dugu kolorea
+114	Horrelakoa da zure hitzordua
+115	Horrela funtzionatuko du Covaren benetako argazkiekin: eskuratu bezain laster, adibide hauen ordez jarriko dira.
+116	Horrela identifikatzen gaitu Googlek ere: LGBTQ+ kolektiboarekiko negozio atsegina.
+117	Horrela geratuko da zure mezua:
+118	Besapeak, goiko ezpaina, izterrondoak…
+119	Toxinak kentzen laguntzen du eta hantura hobetzen du.
+120	Ile-erorketa geldiarazten laguntzen du
+121	Koipearekin, narritadurarekin eta desorekekin laguntzen du.
+122	Batez ere urtaroko edo estresak eragindako erorketetan laguntzen du. Erorketa medikoa bada, espezialista batengana joatea gomendatuko dizugu.
+123	Gehitu presoterapia 5 €-tan (kolore-zerbitzuarekin)
+124	Covaren esperientzia-urteak
+125	Gehitu zure koloreztatzeari 5 € gehiagoren truke soilik, eta lasai egon tindagaiak eragiten duen bitartean.
+126	Gehitu zure koloreztatzeari eta lasai egon tindagaia finkatzen den bitartean.
+127	Oraindik ez dakit, aholkatzea nahi dut
+128	=
+129	Jaitsi edukira
+130	Ilearen azpian edo garondoan: nahi duzunean erakusten duzu.
+131	=
+132	Balayage, matiz, henna, keratina, fade… Besaulkian entzuten duzun guztia, lerro batean eta teknizismorik gabe.
+133	Bizarra + ile-mozketa
+134	Oinarri naturala, ileurdinen ehunekoa, aurreko kolorea eta zuntzaren egoera.
+135	Edan ura saioaren aurretik eta ondoren, drainatzeari laguntzeko.
+136	Onurak
+137	=
+138	Ondo aplikatuta, ilea leun uzten du, baina mugimendu naturalarekin.
+139	Ongizatea
+140	Bioestimulazioa
+141	Bob klasikoa, testuraduna edo long bob
+142	Bob eta long bob
+143	Bob, geruzak, fade, unisex eta haurrentzakoak
+144	Ezteiak, jaunartzeak, bataioak, afari berezi bat edo Urtezahar gaua: badira egun batzuk distiratsu ikusi nahi zarenak. La Pelu de Tod@s-en bilduma dotoreak, estiloa duten orrazkerak eta makillaje profesionala prestatzen dizkizugu, xehetasun bakoitzean eroso, seguru eta zu zeu sentitzeko.
+145	Kolore-bonua
+146	Presoterapia-bonua
+147	Solarium-bonua
+148	Bonuak
+149	Kolore-bonuak
+150	Kolore, presoterapia eta solarium bonuak
+151	Presoterapia eta solarium bonuak
+152	Bonuak eta promozioak
+153	Bonuak, konbinazioak eta xehetasunak
+154	Distiratu zure egun handian, zu zeu izanda
+155	Distira eta kolorea landareekin
+156	Distira eta argia produktu kimiko gogorrik gabe, % 100 naturalak.
+157	Distira eta mugimendua
+158	Distira eta leuntasuna
+159	Distira eta bolumena
+160	Brontzeztatze urrekara urte osoan
+161	Pixkanakako brontzeztatzea
+162	Bilatu: balayage, henna, matiz…
+163	Bilatu glosarioan
+164	Ile indartsuagoa erroetatik.
+165	Dentsitatea galdu duen edo meheago ikusten den ilea.
+166	Kolorearen, dekoloratzearen, plantxaren edo lehorgailuaren ondorioz kaltetutako ileak.
+167	Kontrol handiagoa (edo leuntze osoa) nahi duten ile kizkur edo uhindunak.
+168	Brontzeztatze-kabina araututa, urtaroa edozein dela ere tonu urrekara, uniforme eta osasuntsua lortzeko, eroso, seguru eta presarik gabe.
+169	Banakako kabina, itxaronaldirik gabe.
+170	Geruza, luzera eta kopete bakoitzak bere arrazoia du: orekatzea, bolumena ematea edo argiztatzea.
+171	Ile bakoitza mundu bat da. Zure kasua aztertzen dugu eta zuretzat egokiena den irtenbidea eskaintzen dizugu.
+172	Aukera bakoitzak bere botoia du: WhatsApp irekitzen dizu mezua idatzita, Covak prezioaren eta erabilgarritasunaren berri eman diezazun.
+173	Kizkur bakoitza bakarra da eta bere argiarekin distiratzea merezi du. Diagnostiko pertsonalizatua egiten dizugu eta zure testura naturala errespetatzen duten tratamenduak gomendatzen dizkizugu.
+174	Teknika bakoitza zure azal-tonura, oinarrira eta estilora egokitzen da. Eta beti ñabardura pertsonalizatu batekin amaitzen dugu (beroa, hotza edo neutroa), emaitza zuk bilatzen duzuna izan dadin.
+175	Gero eta jende gehiagok bilatzen ditu tindagai kimiko tradizionalen alternatibak. La Pelu de Tod@s-en % 100 landare-koloreztatzearekin lan egiten dugu, henna, indigoa, cassia edo amla bezalako landareen nahasketekin, besteak beste. Ura eta landare-hautsa besterik ez, tonu bakarrak lortzeko.
+176	Bisita bakoitza hitzordu bat baino gehiago da
+177	Aldatu beste paletara
+178	Aldatu kolore-paleta
+179	Itxura-aldaketa osoa
+180	Erorketa eta lehortasun handiagoa dakarten urtaro-aldaketak.
+181	Zure neurriko itxura-aldaketak
+182	Ibili eta mugitu: jarduerak zain-itzulera indartzen du.
+183	Kanalak
+184	Ilearen kanpoko geruza, ezkatez osatua. Itxita dagoenean argia islatzen du eta distira ematen du; irekita, ilea zakar ikusten da eta harrotu egiten da.
+185	Ileak ura eta produktuak xurgatzeko eta atxikitzeko duen gaitasuna. Ile oso porotsua lehenago lehortzen da eta kolorea lehenago galtzen du.
+186	Karamelua, eztia, txokolatea, hurra, kobrea, mochaccinoa edo beigea.
+187	Kargatu mapa interaktiboa
+188	=
+189	Circunvalación errepidea 15 · Errekalde, Bilbo
+190	Circunvalación errepidea, 15. zk., 5. lokala. Errekalde / Uretamendi auzoa, 48002 Bilbo. Kale mailako lokala, Betolatza parkearen ondoan.
+191	Circunvalación errepidea, 15
+192	Circunvalación errepidea, 15. zk., 5. lokala
+193	Zerbitzuen karta
+194	=
+195	=
+196	Kategoriak
+197	Gelditu nahi duzun urtaroko edo estresak eragindako ile-erorketa.
+198	Ile-erorketa, harrotzea, koipea, azkura, distira falta, punta irekiak… ile bakoitza mundu bat da. La Pelu de Tod@s-en zure kasua aztertzen dugu eta zuretzat egokiena den irtenbidea eskaintzen dizugu: tratamendu pertsonalizatuak, ile-kosmetika errespetuzkoa eta benetan funtzionatzen duten zaintza-errutinak.
+199	Zelulitisa gune setatietan.
+200	Etxetik gertu
+201	Hurbiltasuna
+202	Itxita
+203	Itxi
+204	Itxi menua
+205	Xanpu egokia eta lehen egunetan zer saihestu.
+206	Sulfatorik gabeko xanpua eta garbiketak tarteka.
+207	Xanpu morea astean behin ile-hori hotzak badituzu (ez gehiagotan, bestela itzali egiten dira).
+208	Garbitzaile leunak dituzten xanpuak, kolorea eraman eta ilea lehortzen ez dutenak.
+209	Hasierako solasaldia
+210	Egiaztapen-zerrenda ezkongaientzat eta gonbidatuentzat
+211	Circunvalación 15
+212	Circunvalación 15 · Errekalde
+213	Hitzordua
+214	Hitzorduak eta kontsultak
+215	Noski. Esaguzu erreserbatzean eta zure hitzorduan sartuko dugu.
+216	Noski. Nahi duzunarekin etor zaitezke, eta Wi-Fi doakoa dago itxaronaldietarako.
+217	Azala sailkatzeko modua, eguzkiaren aurrean nola erreakzionatzen duen kontuan hartuta. Gomendatutako solarium-denbora erabakitzen du.
+218	Bezero bat La Pelu de Tod@s-en logoa duen photocallaren aurrean
+219	Bezeroa · Instagram
+220	Bezeroak eta lagunak
+221	Klasikoak eta modernoak, emakumeentzat, gizonentzat, unisex eta txikienentzat. Ile-mozketa bakoitza zure aurpegirako, testurarako eta bizi-erritmorako pentsatua.
+222	Klasikoak, erromantikoak, baxuak, txirikordekin edo uhinekin.
+223	Ileurdinen estaldura
+224	Ileurdinen estaldura osoa eta tonu bizi eta iraunkorrak.
+225	Boten jartzea
+226	Kolorea
+227	Kolorea landareekin: edertasuna eta osasuna zure ilearentzat
+228	Kolorea prozesuan
+229	Kolore ezkutua
+230	Kolore express
+231	Kolore express eta lehen ileurdinak
+232	Zaintzen duen kolorea: henna, indigoa, cassia eta amla
+233	Ondo datorren kolorea
+234	Saioz saio eraikitzen den kolorea.
+235	Amoniakorik gabeko kolorea, distira eta ñabardura ematen dituena eta garbiketekin leuntzen joaten dena.
+236	Landare-kolorea
+237	Kolore bizia
+238	Kolore bizia, iraunkorra eta ile hidratatuarekin
+239	Kolorea eta ileurdinen estaldura landareekin, isla naturalekin.
+240	Kolorea · La Pelu de Tod@s
+241	Benetako kolorea, ile-mozketak eta kizkurrak
+242	Kolorea, metxak, ile-mozketak, kizkurrak eta landare-koloreztatzea. Covaren bezeroen benetako argazkiak, Instagramen argitaratuak.
+243	% 100 landare-koloreztatzea
+244	% 100 landare-koloreztatzea henna, indigo, cassia eta amlarekin. Amoniakorik, PPDrik eta erresortzinolik gabe. Ileurdinak estaltzen ditu isla naturalekin eta distira terapeutikoa uzten du.
+245	Koloreztatze botanikoa · landareak eta buztinak
+246	Landareekin koloreztatzea: edertasun naturala, benetako zaintza.
+247	Aplikazio eta esposizio laburreko koloreztatzea, denbora gutxi dagoenean ileurdinak estaltzeko.
+248	Koloreztatzea Bilbon: tindagai iraunkorrak eta erdi-iraunkorrak, ñabardurak, kobrea, ilehoriak eta ileurdinak estaltzeko zerbitzu expressa. Kolore-bonuak.
+249	Kutikula irekitzen duen eta pigmentua barruan uzten duen koloreztatzea. Ileurdinak estaltzen ditu eta ilea hazi arte irauten du.
+250	Landare-koloreztatzea
+251	Landare-koloreztatze osoa
+252	Landare-koloreztatzea landareekin
+253	Landare-koloreztatzea landareekin eta buztinekin
+254	Landare-koloreztatzea landareekin eta buztinekin Bilbon · La Pelu de Tod@s
+255	Landare-koloreztatzea landareekin eta buztinekin La Pelu de Tod@s-en
+256	Landare-koloreztatzea Bilbon landareekin eta buztinekin: henna, indigoa, cassia eta amla. Amoniakorik eta PPDrik gabe. Buru-larruazal sentikorrentzat aproposa.
+257	Landare-koloreztatzea, ile-diagnostikoak, ile-laserra, presoterapia eta solariuma. Beti ikasten.
+258	Landare-koloreztatzea, amoniakorik eta PPDrik gabe
+259	Koloreztatzea eta ileurdinen estaldura

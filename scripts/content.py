@@ -29,6 +29,9 @@ NEGOCIO = {
     "google_nota": "4,8",
     "google_resenas": 26,
     "marcas": ["Yunsey Professional", "Salerm Cosmetics", "Alfaparf"],
+    # Ficha de Google: identificador del sitio y enlace directo a «Escribir reseña»
+    "google_place_id": "ChIJr66v1DtRTg0R-Rn0DSQLkvI",
+    "resena_url": "https://search.google.com/local/writereview?placeid=ChIJr66v1DtRTg0R-Rn0DSQLkvI",
 }
 
 # Cabeceras de los servicios de peluquería y estilismo:
@@ -1106,4 +1109,116 @@ QUIZ = [
     ("Tengo una boda o evento", ["peinados-novias"]),
     ("Piernas cansadas o hinchadas", ["presoterapia"]),
     ("Quiero ponerme morena", ["solarium"]),
+]
+
+
+# ---------------------------------------------------------------------------
+# INSTAGRAM EN DIRECTO
+# ---------------------------------------------------------------------------
+# Dirección del feed JSON de Behold (https://behold.so). Mientras esté vacía,
+# la web muestra las publicaciones de INSTAGRAM_POSTS (copia fija).
+# Instrucciones en INSTAGRAM-EN-DIRECTO.md
+INSTAGRAM_FEED_URL = ""
+
+# Copia fija: (código de la publicación, foto local, texto)
+INSTAGRAM_POSTS = [
+    ("DPwpMXGgC64", "mechas-balayage-ondas", "¿Te apetece lucir unas balayage tan bonitas como estas? Solo tienes que agendar tu cita."),
+    ("DKjwTMbhOZz", "fantasia-rosa-lila", "¡Atrévete con el color! El verano es el momento perfecto para divertirse con tu cabello."),
+    ("DKIILzxMKOP", "vegetal-rizo-cobre", "Coloración con plantas: belleza natural, cuidado real."),
+    ("DPx82o4jAvI", "color-burdeos-liso", "¿Sueñas con una melena liso espejo como esta? Brillo, suavidad y un acabado impecable."),
+    ("DRK3pyVCayc", "rizo-corto", "Cómo cuidar tu cabello rizado, natural o con moldeado."),
+    ("DKfdTUTMZ4X", "recogido-rizos", "¿Tienes un evento a la vista? Bodas, comuniones, bautizos… te ayudamos a brillar."),
+    ("DRNd8mQlYz-", "corte-chico-cova", "Corte de pelo para chicos: fresco, definido y a tu estilo."),
+    ("DJSK0a7qSaF", "color-cobre-melena", "Expert@s en color, expert@s en ti."),
+    ("DRPZjTjDNsN", "corte-bob-cobre-2", "El corte bob: elegante, fresco y siempre de moda."),
+    ("DQoxnqVjdAO", "corte-ninos", "En La Pelu de Tod@s también mimamos a los más pequeñ@s."),
+    ("DQ_rIqLj7CG", "corte-bob-rubio", "¿Cabello encrespado, seco o sin brillo? La keratina puede ser tu mejor aliada."),
+    ("DQ6espWgSDw", "mechas-ombre-cobre", "Cómo cuidar tu coloración vegetal en casa."),
+]
+
+# ---------------------------------------------------------------------------
+# REELS (vídeos de Instagram)
+# ---------------------------------------------------------------------------
+# (código del reel, título, página donde también aparece o None)
+# Si guardas el vídeo como assets/video/<código>.mp4, se reproduce en la web
+# en bucle y sin sonido; si no, al pulsar se abre el reproductor oficial de Instagram.
+REELS = [
+    ("DEhGw37tpSz", "Cova te da la bienvenida", "sobre-cova"),
+    ("DdPWdNpDBG2", "Así aplicamos el color", "coloracion"),
+    ("Da2zbV8AZyI", "Adiós canas en menos de 5 minutos", "coloracion"),
+    ("DQcd9w_kW7Y", "Un día cualquiera en la pelu", "tratamientos-nutricion"),
+    ("DHA0-RLM6k0", "Color en proceso", "mechas-balayage"),
+    ("Cor0BncAoF2", "Brillo y movimiento", "alisados-keratina"),
+]
+
+# ---------------------------------------------------------------------------
+# ANTES Y DESPUÉS
+# ---------------------------------------------------------------------------
+# Pares reales: guarda las fotos de Cova en _fuentes/antes-despues/ como
+# <id>-antes.jpg y <id>-despues.jpg, añade aquí una entrada y ejecuta
+#   python scripts/prepare_antes_despues.py   y   python build.py
+# Guía completa en ANTES-DESPUES.md
+ANTES_DESPUES = [
+    # {"id": "vegetal-ane", "servicio": "coloracion-vegetal", "titulo": "Canas cubiertas con plantas",
+    #  "texto": "Henna e índigo en dos aplicaciones. Brillo y cuerpo desde la primera."},
+]
+# Mientras un servicio no tenga pares reales se enseñan estos ejemplos,
+# marcados como «Ejemplo de demostración». Pon False para ocultarlos.
+MOSTRAR_EJEMPLOS_AD = True
+EJEMPLOS_AD = [
+    {"id": "ejemplo-brillo", "servicio": "coloracion-vegetal", "titulo": "Brillo y color con plantas",
+     "texto": "De una melena apagada a un castaño con reflejos, brillo y cuerpo."},
+    {"id": "ejemplo-mechas", "servicio": "mechas-balayage", "titulo": "Luz con balayage",
+     "texto": "De un tono uniforme y oscuro a una melena con luz y dimensión."},
+    {"id": "ejemplo-alisado", "servicio": "alisados-keratina", "titulo": "Del encrespado al liso espejo",
+     "texto": "Volumen y frizz controlados: melena lisa, pesada y con brillo."},
+]
+
+# ---------------------------------------------------------------------------
+# GLOSARIO
+# ---------------------------------------------------------------------------
+# (término, categoría, definición, página relacionada o None)
+GLOSARIO = [
+    ("Amla", "Color vegetal", "Fruto indio en polvo que se añade a las mezclas de plantas para suavizar el tono, aportar brillo y fortalecer la fibra.", "coloracion-vegetal"),
+    ("Ampolla capilar", "Tratamiento", "Dosis concentrada de activos (nutrición, anticaída, brillo) que se aplica después del lavado.", "tratamientos-nutricion"),
+    ("Antiencrespamiento", "Tratamiento", "Tratamiento que sella la cutícula para que el pelo no absorba la humedad del ambiente y no se encrespe.", "alisados-keratina"),
+    ("Babylights", "Técnica", "Mechas muy finas y pegadas a la raíz que imitan el aclarado natural del pelo infantil. Dan una luz muy sutil.", "mechas-balayage"),
+    ("Balayage", "Técnica", "Iluminación pintada a mano, en degradado y sin marcar la raíz. Crece de forma natural y pide pocos retoques.", "mechas-balayage"),
+    ("Bob y long bob", "Corte", "Corte a la altura de la mandíbula (bob) o entre la mandíbula y los hombros (long bob). Recto, con textura o con flequillo.", "cortes"),
+    ("Cassia", "Color vegetal", "Planta conocida como «henna neutra». Aporta brillo y cuerpo y, en mezcla, reflejos dorados sobre las canas.", "coloracion-vegetal"),
+    ("Cobertura de canas", "Color", "Cuántas canas tapa un color: todas, una parte (fundido natural) o solo las primeras.", "coloracion"),
+    ("Color exprés", "Color", "Coloración de aplicación y exposición cortas para tapar canas cuando hay poco tiempo.", "coloracion"),
+    ("Colores fantasía", "Color", "Tonos no naturales (rosa, lila, azul, verde…) que suelen necesitar una base aclarada para lucir.", "colores-fantasia"),
+    ("Cutícula", "Salud capilar", "Capa exterior del cabello, formada por escamas. Cerrada refleja la luz y da brillo; abierta, el pelo se ve áspero y se encrespa.", None),
+    ("Decoloración", "Técnica", "Proceso que elimina pigmento del cabello para aclararlo. Se controla para proteger la fibra.", "mechas-balayage"),
+    ("Degradado (fade)", "Corte", "Corte que pasa de muy corto en la nuca y los laterales a más largo arriba, sin saltos.", "cortes"),
+    ("Despuntar o sanear", "Corte", "Cortar solo las puntas dañadas para que la melena se vea fuerte y crezca sana.", "cortes"),
+    ("Diagnóstico capilar", "Salud capilar", "Análisis del cuero cabelludo y de la fibra antes de cualquier tratamiento o química.", "diagnostico-capilar"),
+    ("Difusor", "Herramienta", "Accesorio del secador que reparte el aire para secar los rizos sin romperlos ni encresparlos.", "rizos-permanentes"),
+    ("Drenaje linfático", "Bienestar", "Estímulo de la circulación linfática para eliminar líquidos retenidos. Es lo que hace la presoterapia.", "presoterapia"),
+    ("Fibra capilar", "Salud capilar", "El propio pelo: cutícula, córtex y médula. Cuidarla es cuidar su elasticidad, su brillo y su resistencia.", None),
+    ("Folículo piloso", "Salud capilar", "Pequeña cavidad de la piel donde nace y crece cada pelo.", "laser-capilar"),
+    ("Fototipo", "Bienestar", "Clasificación de la piel según cómo reacciona al sol. Decide el tiempo de solárium recomendado.", "solarium"),
+    ("Henna", "Color vegetal", "Planta (Lawsonia inermis) que tiñe en tonos rojizos y cobrizos, fortalece y aporta brillo. Es la base de muchas mezclas vegetales.", "coloracion-vegetal"),
+    ("Hidratación y nutrición", "Tratamiento", "Hidratar es aportar agua (pelo seco y sin elasticidad); nutrir es aportar lípidos (pelo áspero, puntas abiertas).", "tratamientos-nutricion"),
+    ("Índigo", "Color vegetal", "Planta que aporta tonos fríos y oscuros. Mezclada con henna da castaños y negros.", "coloracion-vegetal"),
+    ("Keratina", "Tratamiento", "Proteína del cabello. El tratamiento de keratina rellena y alisa la fibra para controlar el volumen y el frizz.", "alisados-keratina"),
+    ("Láser capilar", "Salud capilar", "Luz de baja intensidad que estimula el folículo para ayudar a frenar la caída. No tiene nada que ver con la depilación láser.", "laser-capilar"),
+    ("Liso espejo", "Acabado", "Liso pulido con un brillo intenso, como un espejo.", "alisados-keratina"),
+    ("Matiz", "Color", "Ajuste final del tono para neutralizar reflejos no deseados (amarillos, naranjas) o darle calidez.", "mechas-balayage"),
+    ("Mechas", "Técnica", "Mechones aclarados u oscurecidos para dar luz y dimensión: tradicionales, finas, premium, vintage…", "mechas-balayage"),
+    ("Moldeado", "Textura", "Ondulación suave y duradera que da cuerpo. Es más ligera que una permanente.", "rizos-permanentes"),
+    ("Ombré", "Técnica", "Degradado marcado de raíz oscura a puntas claras. Su versión suave se llama sombré.", "mechas-balayage"),
+    ("Oxidante", "Color", "Producto que se mezcla con el tinte para que el color se desarrolle. Su volumen marca cuánto aclara.", "coloracion"),
+    ("Permanente", "Textura", "Proceso que cambia la forma del pelo de liso a rizado de manera duradera.", "rizos-permanentes"),
+    ("Porosidad", "Salud capilar", "Capacidad del pelo para absorber y retener agua y productos. Un pelo muy poroso se seca y pierde el color antes.", None),
+    ("PPD", "Color", "Parafenilendiamina: pigmento de muchos tintes químicos y causa frecuente de alergias. La coloración vegetal no lo lleva.", "coloracion-vegetal"),
+    ("Presoterapia", "Bienestar", "Masaje con botas de presión de aire que activa el retorno venoso y el drenaje linfático.", "presoterapia"),
+    ("Recogido", "Peinado", "Peinado en el que el pelo se sujeta (moño, trenzas, semirrecogido). Típico de bodas y eventos.", "peinados-novias"),
+    ("Reflejos", "Color", "Toques de color dentro del tono base que aportan brillo y movimiento.", "coloracion"),
+    ("Semipermanente", "Color", "Color sin amoniaco que aporta brillo y matiz y se va suavizando con los lavados.", "coloracion"),
+    ("Sin sulfatos", "Cuidado en casa", "Champús con limpiadores suaves que no arrastran el color ni resecan el pelo.", None),
+    ("Tinte permanente", "Color", "Coloración que abre la cutícula y deja el pigmento dentro. Cubre canas y dura hasta que el pelo crece.", "coloracion"),
+    ("Tricoscopia", "Salud capilar", "Observación ampliada del cuero cabelludo y del pelo con una microcámara. Es la base del diagnóstico capilar.", "diagnostico-capilar"),
+    ("Visagismo", "Imagen", "Estudio de las proporciones del rostro para elegir el corte, el volumen y el color que más favorecen.", "asesoria-imagen"),
 ]

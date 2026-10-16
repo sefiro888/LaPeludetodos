@@ -1,0 +1,364 @@
+1400	Guztientzako espazio bat: tod
+1401	Guztientzako espazio bat
+1402	Guztientzako espazio bat · LGBTQ+ friendly · La Pelu de Tod@s
+1403	Guztientzako espazio bat: LGBTQ+ friendly eta transgender safe space.
+1404	Fade bat, testuradun mozketa bat edo klasiko bat buruaren formara, zurrunbiloetara eta ile motara egokitzen dira.
+1405	Itxura oso eta koherentea, leku bakarrean.
+1406	Bisiten arteko mantentze-ñabardura batek tonua freskatzen du.
+1407	Auzoko apaindegi bat, atsegina eta dotorea, Circunvalación errepidean: topagune bat.
+1408	Apaindegi inklusiboa, LGBTQ+ kolektiboarekiko atsegina eta pertsona transentzako espazio segurua. Hemen pertsona oro ongi etorria da, den bezalakoa.
+1409	Ileurdinak denbora gutxian estaltzeko zerbitzu azkarra, agenda estua baduzu aproposa.
+1410	Dena esaten duen a bildu bat
+1411	Kutikula osasuntsu bat gutxiago harrotzen da.
+1412	Asteroko maskara batek distira mantentzen du.
+1413	Guztiei eskainitako eta guztientzako ile-apaindegia. Tratua hurbila den, entzutea benetakoa den eta inork nola ikusi nahi duen azaldu beharrik ez duen lekua.
+1414	Hilean behin, normalean astelehen goiz batean, La Pelu de Tod@s-ek laser bidezko depilazio-saioa egiten du. Azken belaunaldiko laser-teknologiarekin azal leunagoa, garbiagoa eta iletxorik gabea lortzeko unea da.
+1415	Bizitza bat guraizeen artean
+1416	Uniformea
+1417	Erabili sulfatorik eta gatzik gabeko xanpua.
+1418	Erabili sulfatorik gabeko xanpua eta ur epela: ur oso beroak kutikula irekitzen du eta pigmentua eramaten du.
+1419	Erabili zure buru-larruazalerako xanpu leun eta espezifikoak.
+1420	Erabili xanpu leunak, sulfatorik eta silikonarik gabeak, kolorea kontserbatzeko eta ez lehortzeko.
+1421	Erabili etxean zure buru-larruazalerako gomendatzen dizkizugun produktuak.
+1422	Erabili babes termikoa plantxaren edo lehorgailuaren aurretik.
+1423	Erabili beti babes-betaurrekoak.
+1424	Balorazioa
+1425	Kizkur mota, egoera eta aurreko prozesuak baloratzen ditugu.
+1426	Zure kasua eta laserra egokia den baloratzen ditugu.
+1427	Zure azal mota eta eguzkiarekiko historia baloratzen ditugu.
+1428	Baloratu gaitzazu Googlen
+1429	Bilbobusen hainbat linea Errekalde erdigunearekin lotzen dute. Kontsultatu ibilbidea denbora errealean Google Mapsen edo Bilbobusen aplikazioan.
+1430	Landare-kolorea
+1431	Landare-kolorea · La Pelu de Tod@s
+1432	Dentsitatea, zurrunbiloak, hazkunde-lerroa eta punten osasuna begiratzen ditugu.
+1433	Zure oinarria eta zer tonu lor daitekeen begiratzen ditugu.
+1434	Zure oinarria, ileurdinak eta tindagai kimikoaren arrastorik dagoen begiratzen ditugu, bateragarritasuna ziurtatzeko.
+1435	Etorri gu ikustera
+1436	Etorri ilea normalean daramazun bezala, bildu gabe, bere erorketa naturala ikus dezagun.
+1437	Etorri ilea aurreko egunean garbituta: bildumek hobeto eusten dute.
+1438	Etorri kremarik, desodoranterik eta makillajerik gabe eremuan.
+1439	Abantailak
+1440	Ikusi koloreztatzea
+1441	Ikusi auzoa
+1442	Ikusi bideoa: Agur ileurdinei 5 minutu baino gutxiagoan
+1443	Ikusi bideoa: Horrela aplikatzen dugu kolorea
+1444	Ikusi bideoa: Distira eta mugimendua
+1445	Ikusi bideoa: Kolorea prozesuan
+1446	Ikusi bideoa: Covak ongietorria ematen dizu
+1447	Ikusi bideoa: Ile-apaindegiko edozein egun
+1448	Ikusi Google Mapsen
+1449	Ikusi galeria osoa
+1450	Ikusi gehiago @lapeludet2-n
+1451	Ikusi presoterapia
+1452	Ikusi zerbitzuak
+1453	Ikusi bere lana
+1454	Ikusi zerbitzu guztiak
+1455	Ostirala
+1456	Prozesua zaintzen dugu hidratazioa babesteko.
+1457	Bisajismoa
+1458	Bisita gaitzazu
+1459	Bolumena ondo banatuta
+1460	Bolumena eta frizza kontrolpean: ile leuna, astuna eta distiratsua.
+1461	Itzuli hasierara
+1462	Erakusketa-webgunea · Argazkiak: @lapeludet2 eta Unsplash
+1463	=
+1464	WhatsApp eta erreserbak
+1465	Wi-Fi doakoa
+1466	Wi-Fi doakoa itxaroten duzun bitartean
+1467	Wi-Fi doakoa ·
+1468	Eta egiten dugun guztian bezala, ilearen osasuna ahaztu gabe. Gaur zure ilean zer den posible eta nahi duzun emaitzara nola iritsi aholkatzen dizugu, bi urratsetan izan arren.
+1469	Eta onena: La Pelu de Tod@s-en zure kolorea finkatzen den bitartean egin dezakezu. Koloreztatze-zerbitzua erreserbatzean, gehitu presoterapia-saio bat 5 € gehiagoren truke soilik. Kolorea zure ilerako eta ongizatea zure gorputzerako, bisita berean.
+1470	Eta produktu kimikorik gabe egin nahi baduzu, gure espezialitatearen beste erdia dugu: landareekin egindako landare-koloreztatzea, ileurdinak isla naturalekin estaltzen dituena eta ilea indartzen duena.
+1471	Eta «ispilu-leun» ile bat amesten baduzu, distirarekin eta oharkabean pasatzen ez den akabera bikainarekin, gure leuntze profesionalak ilea zetatsu eta mugimendu naturalarekin uzten du, astundu gabe.
+1472	Eta beti oinak lurrean: zure ilea mehea bada, zurrunbiloak badituzu edo egunero plantxa erabiltzeko gogorik ez baduzu, diseinuak kontuan hartzen du. Itxurarik onena hiru aste geroago ere ondo geratzen zaizuna da.
+1473	Eta baita amabitxiak, jaunartzeko txikiak…
+1474	«Leuntzeak eta keratina, frizzaren aurka» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1475	«Irudi-aholkularitza eta bisajismoa» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1476	«Landare-koloreztatzea landareekin eta buztinekin» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1477	«Koloreztatzea eta ileurdinen estaldura» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1478	«Fantasiazko koloreak» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1479	«Emakume, gizon eta txikientzako ile-mozketak» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1480	«Laser bidezko depilazioa» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1481	«Ile-diagnostiko pertsonalizatua» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1482	«Ile-laser bioestimulatzailea» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1483	«Metxak, balayagea eta islak» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1484	«Presoterapia» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1485	«Bildumak, ezkongaiak eta ekitaldiak» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1486	«Kizkurrak, permanenteak eta moldeatuak» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1487	«Solariuma» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1488	«Elikadura- eta hidratazio-tratamenduak» aukeratu dugu zuretzat formularioan. Asteartetik ostiralera 9:30etik 18:00etara, ordutegi jarraituan. Larunbatetan 9:00etatik 14:00etara, aurretiko hitzorduarekin bakarrik.
+1489	Uda baino lehen azala prestatzeko, kolorea urte osoan mantentzeko edo, besterik gabe, asteburu berezi batean itxura hobea izateko, hemen duzu zure eguzki-txokoa Bilbotik atera gabe. Eta sarri etortzen bazara, galdetu gure solarium-bonuei buruz.
+1490	Itxura erromantikoa, modernoa edo klasikoa izan, garrantzitsuena eroso, seguru eta eder sentitzea da.
+1491	Dagoeneko bezeroa naiz
+1492	=
+1493	=
+1494	Besapeak, izterrondoak, hankak, goiko ezpaina bezalako eremuak… (galdetu).
+1495	Eremu handiak
+1496	Eremu txikiak
+1497	Eremu txikiak minutu gutxitan.
+1498	Googlen
+1499	izarra
+1500	Ausartu kolorearekin! Uda da zure ilearekin dibertitzeko unerik onena.
+1501	Noski! Ile laburrean ikusgarria geratzen da, gure galeriako arrosa eta lila bezala.
+1502	Noski! Elkar ulertzeko modurik onena dira. Zure ile motarekin zer lor daitekeen zintzotasunez esango dizugu.
+1503	Kaixo Cova!
+1504	Kaixo Cova! Glosarioa irakurri dut eta zalantza bat dut.
+1505	Kaixo Cova! Iritziak irakurri ditut eta hitzordua eskatu nahiko nuke.
+1506	Kaixo Cova! Galeria ikusi dut eta asko gustatu zait. Hitzordua emango didazu?
+1507	Kaixo Cova! Ezagutu eta hitzordua eskatu nahiko nuke.
+1508	Kaixo Cova! Bonuei buruzko informazioa nahiko nuke.
+1509	Kaixo Cova! Hitzordua eskatu nahiko nuke La Pelu de Tod@s-en.
+1510	Kaixo Cova! Hitzordua eskatu nahiko nuke.
+1511	Kaixo Cova! «Leuntzeak eta keratina, frizzaren aurka» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1512	Kaixo Cova! «Irudi-aholkularitza eta bisajismoa» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1513	Kaixo Cova! «Landare-koloreztatzea landareekin eta buztinekin» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1514	Kaixo Cova! «Koloreztatzea eta ileurdinen estaldura» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1515	Kaixo Cova! «Fantasiazko koloreak» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1516	Kaixo Cova! «Emakume, gizon eta txikientzako ile-mozketak» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1517	Kaixo Cova! «Laser bidezko depilazioa» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1518	Kaixo Cova! «Ile-diagnostiko pertsonalizatua» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1519	Kaixo Cova! «Ile-laser bioestimulatzailea» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1520	Kaixo Cova! «Metxak, balayagea eta islak» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1521	Kaixo Cova! «Presoterapia» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1522	Kaixo Cova! «Bildumak, ezkongaiak eta ekitaldiak» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1523	Kaixo Cova! «Kizkurrak, permanenteak eta moldeatuak» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1524	Kaixo Cova! «Solariuma» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1525	Kaixo Cova! «Elikadura- eta hidratazio-tratamenduak» zerbitzua interesatzen zait. Hitzordua emango didazu?
+1526	Kaixo Cova! Hau interesatzen zait: Leuntze profesionala (Leuntzeak eta keratina, frizzaren aurka). Informazioa eta hitzordua emango didazu?
+1527	Kaixo Cova! Hau interesatzen zait: Denboraldiko frizzaren aurkako tratamendua (Leuntzeak eta keratina, frizzaren aurka). Informazioa eta hitzordua emango didazu?
+1528	Kaixo Cova! Hau interesatzen zait: Aholkularitza ezkongaientzat eta gonbidatuentzat (Irudi-aholkularitza eta bisajismoa). Informazioa eta hitzordua emango didazu?
+1529	Kaixo Cova! Hau interesatzen zait: Balayage (Metxak, balayagea eta islak). Informazioa eta hitzordua emango didazu?
+1530	Kaixo Cova! Hau interesatzen zait: Bizarra + ile-mozketa (Emakume, gizon eta txikientzako ile-mozketak). Informazioa eta hitzordua emango didazu?
+1531	Kaixo Cova! Hau interesatzen zait: Bob klasikoa, testuraduna edo long bob (Emakume, gizon eta txikientzako ile-mozketak). Informazioa eta hitzordua emango didazu?
+1532	Kaixo Cova! Hau interesatzen zait: Kolore-bonua (Koloreztatzea eta ileurdinen estaldura). Informazioa eta hitzordua emango didazu?
+1533	Kaixo Cova! Hau interesatzen zait: Presoterapia-bonua (Presoterapia). Informazioa eta hitzordua emango didazu?
+1534	Kaixo Cova! Hau interesatzen zait: Solarium-bonua (Solariuma). Informazioa eta hitzordua emango didazu?
+1535	Kaixo Cova! Hau interesatzen zait: Bonuak eta promozioak (Laser bidezko depilazioa). Informazioa eta hitzordua emango didazu?
+1536	Kaixo Cova! Hau interesatzen zait: Itxura-aldaketa osoa (Irudi-aholkularitza eta bisajismoa). Informazioa eta hitzordua emango didazu?
+1537	Kaixo Cova! Hau interesatzen zait: Kolore ezkutua (Fantasiazko koloreak). Informazioa eta hitzordua emango didazu?
+1538	Kaixo Cova! Hau interesatzen zait: Landare-koloreztatze osoa (Landare-koloreztatzea landareekin eta buztinekin). Informazioa eta hitzordua emango didazu?
+1539	Kaixo Cova! Hau interesatzen zait: Denboraldiko koloreak (Koloreztatzea eta ileurdinen estaldura). Informazioa eta hitzordua emango didazu?
+1540	Kaixo Cova! Hau interesatzen zait: Haurrentzako ile-mozketa (Emakume, gizon eta txikientzako ile-mozketak). Informazioa eta hitzordua emango didazu?
+1541	Kaixo Cova! Hau interesatzen zait: Mutilentzako ile-mozketa (Emakume, gizon eta txikientzako ile-mozketak). Informazioa eta hitzordua emango didazu?
+1542	Kaixo Cova! Hau interesatzen zait: Kizkurrentzako ile-mozketa (Kizkurrak, permanenteak eta moldeatuak). Informazioa eta hitzordua emango didazu?
+1543	Kaixo Cova! Hau interesatzen zait: Unisex ile-mozketa (Emakume, gizon eta txikientzako ile-mozketak). Informazioa eta hitzordua emango didazu?
+1544	Kaixo Cova! Hau interesatzen zait: Ile-diagnostiko osoa (Ile-diagnostiko pertsonalizatua). Informazioa eta hitzordua emango didazu?
+1545	Kaixo Cova! Hau interesatzen zait: Kolorearen aurretiko diagnostikoa (Ile-diagnostiko pertsonalizatua). Informazioa eta hitzordua emango didazu?
+1546	Kaixo Cova! Hau interesatzen zait: Hidratazioa + landareak (Landare-koloreztatzea landareekin eta buztinekin). Informazioa eta hitzordua emango didazu?
+1547	Kaixo Cova! Hau interesatzen zait: Hidratazio naturala landare-kolorerako (Elikadura- eta hidratazio-tratamenduak). Informazioa eta hitzordua emango didazu?
+1548	Kaixo Cova! Hau interesatzen zait: Kizkurrentzako hidratazioa (Kizkurrak, permanenteak eta moldeatuak). Informazioa eta hitzordua emango didazu?
+1549	Kaixo Cova! Hau interesatzen zait: Hidratazio sakona (Elikadura- eta hidratazio-tratamenduak). Informazioa eta hitzordua emango didazu?
+1550	Kaixo Cova! Hau interesatzen zait: Keratina + ile-mozketa (Leuntzeak eta keratina, frizzaren aurka). Informazioa eta hitzordua emango didazu?
+1551	Kaixo Cova! Hau interesatzen zait: Laserra + tratamendu topikoa (Ile-laser bioestimulatzailea). Informazioa eta hitzordua emango didazu?
+1552	Kaixo Cova! Hau interesatzen zait: Makillaje profesionala (Bildumak, ezkongaiak eta ekitaldiak). Informazioa eta hitzordua emango didazu?
+1553	Kaixo Cova! Hau interesatzen zait: Landareekin egindako metxak (Landare-koloreztatzea landareekin eta buztinekin). Informazioa eta hitzordua emango didazu?
+1554	Kaixo Cova! Hau interesatzen zait: Landareekin egindako metxak (Metxak, balayagea eta islak). Informazioa eta hitzordua emango didazu?
+1555	Kaixo Cova! Hau interesatzen zait: Fantasiazko metxak (Fantasiazko koloreak). Informazioa eta hitzordua emango didazu?
+1556	Kaixo Cova! Hau interesatzen zait: Premium metxak (Metxak, balayagea eta islak). Informazioa eta hitzordua emango didazu?
+1557	Kaixo Cova! Hau interesatzen zait: Metxa tradizionalak (Metxak, balayagea eta islak). Informazioa eta hitzordua emango didazu?
+1558	Kaixo Cova! Hau interesatzen zait: Vintage metxak (Metxak, balayagea eta islak). Informazioa eta hitzordua emango didazu?
+1559	Kaixo Cova! Hau interesatzen zait: Ile osoa fantasiazkoa (Fantasiazko koloreak). Informazioa eta hitzordua emango didazu?
+1560	Kaixo Cova! Hau interesatzen zait: Ile luzea eta geruzak (Emakume, gizon eta txikientzako ile-mozketak). Informazioa eta hitzordua emango didazu?
+1561	Kaixo Cova! Hau interesatzen zait: Moldeatua (Kizkurrak, permanenteak eta moldeatuak). Informazioa eta hitzordua emango didazu?
+1562	Kaixo Cova! Hau interesatzen zait: Elikadura intentsiboa / elikadura extra (Elikadura- eta hidratazio-tratamenduak). Informazioa eta hitzordua emango didazu?
+1563	Kaixo Cova! Hau interesatzen zait: Ezkongaien pack-a (Bildumak, ezkongaiak eta ekitaldiak). Informazioa eta hitzordua emango didazu?
+1564	Kaixo Cova! Hau interesatzen zait: Jaunartzeko orrazkera (Bildumak, ezkongaiak eta ekitaldiak). Informazioa eta hitzordua emango didazu?
+1565	Kaixo Cova! Hau interesatzen zait: Jai-orrazkerak (Bildumak, ezkongaiak eta ekitaldiak). Informazioa eta hitzordua emango didazu?
+1566	Kaixo Cova! Hau interesatzen zait: Permanentea (Kizkurrak, permanenteak eta moldeatuak). Informazioa eta hitzordua emango didazu?
+1567	Kaixo Cova! Hau interesatzen zait: Saio-plana (Ile-laser bioestimulatzailea). Informazioa eta hitzordua emango didazu?
+1568	Kaixo Cova! Hau interesatzen zait: Presoterapia + kolorea (5 € gehiago) (Presoterapia). Informazioa eta hitzordua emango didazu?
+1569	Kaixo Cova! Hau interesatzen zait: Lehen ileurdinak (Koloreztatzea eta ileurdinen estaldura). Informazioa eta hitzordua emango didazu?
+1570	Kaixo Cova! Hau interesatzen zait: Bildumak (Bildumak, ezkongaiak eta ekitaldiak). Informazioa eta hitzordua emango didazu?
+1571	Kaixo Cova! Hau interesatzen zait: Islak eta ñabardurak (Metxak, balayagea eta islak). Informazioa eta hitzordua emango didazu?
+1572	Kaixo Cova! Hau interesatzen zait: Ile-mozketa berritzea (Irudi-aholkularitza eta bisajismoa). Informazioa eta hitzordua emango didazu?
+1573	Kaixo Cova! Hau interesatzen zait: Landare-kolorezko erro-ukitua (Landare-koloreztatzea landareekin eta buztinekin). Informazioa eta hitzordua emango didazu?
+1574	Kaixo Cova! Hau interesatzen zait: Gorri bizia (Fantasiazko koloreak). Informazioa eta hitzordua emango didazu?
+1575	Kaixo Cova! Hau interesatzen zait: Jarraipena (Ile-diagnostiko pertsonalizatua). Informazioa eta hitzordua emango didazu?
+1576	Kaixo Cova! Hau interesatzen zait: Erdi-iraunkorra eta ñabardurak (Koloreztatzea eta ileurdinen estaldura). Informazioa eta hitzordua emango didazu?
+1577	Kaixo Cova! Hau interesatzen zait: Kolore express zerbitzua (Koloreztatzea eta ileurdinen estaldura). Informazioa eta hitzordua emango didazu?
+1578	Kaixo Cova! Hau interesatzen zait: Ile-laser saioa (Ile-laser bioestimulatzailea). Informazioa eta hitzordua emango didazu?
+1579	Kaixo Cova! Hau interesatzen zait: Banakako saioa (Solariuma). Informazioa eta hitzordua emango didazu?
+1580	Kaixo Cova! Hau interesatzen zait: Presoterapia-saio solte bat (Presoterapia). Informazioa eta hitzordua emango didazu?
+1581	Kaixo Cova! Hau interesatzen zait: Tindagai iraunkorra (Koloreztatzea eta ileurdinen estaldura). Informazioa eta hitzordua emango didazu?
+1582	Kaixo Cova! Hau interesatzen zait: Kolore-trantsizioa (Irudi-aholkularitza eta bisajismoa). Informazioa eta hitzordua emango didazu?
+1583	Kaixo Cova! Hau interesatzen zait: Tindagai kimikotik trantsizioa (Landare-koloreztatzea landareekin eta buztinekin). Informazioa eta hitzordua emango didazu?
+1584	Kaixo Cova! Hau interesatzen zait: Keratina-tratamendua (Leuntzeak eta keratina, frizzaren aurka). Informazioa eta hitzordua emango didazu?
+1585	Kaixo Cova! Hau interesatzen zait: Tratamendu elikagarria masajearekin (Elikadura- eta hidratazio-tratamenduak). Informazioa eta hitzordua emango didazu?
+1586	Kaixo Cova! Hau interesatzen zait: Buru-larruazalerako tratamenduak (Elikadura- eta hidratazio-tratamenduak). Informazioa eta hitzordua emango didazu?
+1587	Kaixo Cova! Hau interesatzen zait: Eremu handiak (Laser bidezko depilazioa). Informazioa eta hitzordua emango didazu?
+1588	Kaixo Cova! Hau interesatzen zait: Eremu txikiak (Laser bidezko depilazioa). Informazioa eta hitzordua emango didazu?
+1589	Kaixo Cova! Zuen zerbitzuei buruzko informazioa nahi nuen.
+1590	Kaixo Cova! Tratamendu bati buruzko zalantza bat dut.
+1591	Kaixo!
+1592	Kaixo! Hitzordua eskatu nahi nuen.
+1593	Mimatu zeure burua 5 € gehiagoren truke soilik! Gehitu presoterapia-saio bat zure kolore-zerbitzuari.
+1594	© 2026 La Pelu de Tod@s · Covadonga Izquierdo
+1595	«Kolorearekin asmatu zuen»
+1596	«Prezio ona»
+1597	=
+1598	«Saio batekin nahikoa da.»
+1599	«Sarri mozteak ilea azkarrago hazten du.»
+1600	=
+1601	«Zenbat eta saio gehiago jarraian, orduan eta beltzaranago.»
+1602	=
+1603	«Balayagea hilero ukitu behar da.»
+1604	«Bob-a aurpegi meheei bakarrik datorkie ondo.»
+1605	«Ile-laserrak erre edo min egiten du.»
+1606	«Laserrak azal argietan bakarrik funtzionatzen du.»
+1607	«Ile laburra ez zait ondo geratuko.»
+1608	«Ilea lehor geratzen da.»
+1609	«Ile kizkurra ezin da geruzetan moztu.»
+1610	«La Pelu de Tod@s-en ez dugu ilea bakarrik zaintzen… barreak, berriketak, konfiantza eta etxean bezala sentitzen zarenean sortzen den energia polit hori ere partekatzen ditugu.»
+1611	=
+1612	«Normala da udazkenean ilea galtzea, ez dago ezer egiterik.»
+1613	«Estetika hutsa da.»
+1614	=
+1615	=
+1616	«Eskerrik asko nigan konfiantza izateagatik. Eskerrik asko ni gomendatzeagatik. Eskerrik asko zuen ilea mimatzeko ile-apaindegi txiki hau aukeratzeagatik.» — Cova
+1617	=
+1618	«Profesional handia»
+1619	«Hauts-ezkatak ez garbitzeagatik dira.»
+1620	«Landareekin koloreztatzeak ez ditu ileurdinak estaltzen.»
+1621	«Keratinak ilea zurrun uzten du.»
+1622	«Presoterapiak argaltzen du.»
+1623	=
+1624	«Metxak ilehoriak bakarrik dira.»
+1625	«Permanenteek beti hondatzen dute ilea.»
+1626	«Gizonen ile-mozketa guztiak berdinak dira.»
+1627	«Fantasiazkoak bi garbiketatan joaten dira.»
+1628	«Konfiantzaz sentitu nintzen»
+1629	«Oso atsegina»
+1630	=
+1631	«Ezin da tindagai kimikora itzuli.»
+1632	«Ezin da tonu desberdinik lortu.»
+1633	=
+1634	«Fantasiazkoa eramateko dena dekoloratu behar da.»
+1635	=
+1636	«Aldaketa bat egiteko dena batera egin behar da.»
+1637	=
+1638	«Ilea koipetsua bada, ez du hidratazio beharrik.»
+1639	«Ileurdin gutxi baditut, osorik tindatu behar dut.»
+1640	«Ile oso kizkurrentzat bakarrik balio du.»
+1641	=
+1642	«Benetan entzuten dizute»
+1643	«Tindatzeak beti hondatzen du ilea.»
+1644	=
+1645	«Tratu hurbila eta familiarra»
+1646	«Apaindegi inklusiboa, segurua eta zu modu hurbilean zaintzeko pentsatua, non pertsona oro ongi etorria den.»
+1647	«Tratamendu batek dena konpontzen du betiko.»
+1648	Larunbatetan irekitzen duzue?
+1649	Gizonak eta txikiak hartzen dituzue?
+1650	Neskak eta mutilak hartzen dituzue?
+1651	Zenbatero moztu behar ditut kizkurrak?
+1652	Zenbatero moztu beharko nuke ilea?
+1653	Zenbatero egin beharko nuke?
+1654	Zenbatero ukitzen dira?
+1655	Zenbatero ukitu behar dut?
+1656	Zenbat denbora lehenago erreserbatu?
+1657	Gizonei ilea mozten diezue?
+1658	Ile kizkurra lehorrean ala bustian mozten duzue?
+1659	Ondo estaltzen ditu ileurdinak?
+1660	Noiz da hurrengo saioa?
+1661	Noiz nabaritzen dira emaitzak?
+1662	Zenbat saio behar dira?
+1663	Zenbat saio behar ditut?
+1664	Zenbat kostatzen da kolorearekin batera gehitzea?
+1665	Zenbat irauten du hitzorduak?
+1666	Zenbat irauten du fantasiazko kolore batek?
+1667	Zenbat irauten du keratina-tratamendu batek?
+1668	Zenbat irauten du permanente batek?
+1669	Zenbat denbora erreserbatu behar dut?
+1670	Nola funtzionatzen dute kolore-bonuek?
+1671	Nola eskatu hitzordua beste izen bat erabiltzea nahi badut?
+1672	Nola eskatu hitzordua?
+1673	Min ematen du ile-laserrak?
+1674	Min ematen du edo molestatzen du?
+1675	Min ematen du?
+1676	Non zaudete zehazki?
+1677	Diagnostikoak dermatologoa ordezkatzen du?
+1678	Zertan datza?
+1679	Azal sentikorrentzat egokia da?
+1680	Ile-laserraren berdina da?
+1681	Laser bidezko depilazioaren berdina da?
+1682	Beharrezkoa da proba?
+1683	Niretzat da?
+1684	Lehen aldiz zatoz La Pelu-ra?
+1685	Espazio segurua da LGBTQ+ pertsonentzat?
+1686	Bat falta da? Galdetu Covari WhatsAppez eta gehituko dugu.
+1687	Hitz egingo dugu?
+1688	Gizonentzako itxura-aldaketak egiten dituzue?
+1689	Konpromisorik gabeko diagnostikoa egiten duzue?
+1690	Makillajea egiten duzue?
+1691	Ilehoriak ez diren tonuetan metxak egiten dituzue?
+1692	Keratina-promozioak egiten dituzue?
+1693	Gizonentzako kizkurrak egiten dituzue?
+1694	Bonurik badago?
+1695	Promoziorik badago?
+1696	Aholkularitzak kostu gehigarria du?
+1697	Metxek ilea hondatzen dute?
+1698	Ilea berehala garbitzen dut?
+1699	Prezioak generoaren araberakoak dira?
+1700	Goizean ala arratsaldean hobe?
+1701	Hitzordua behar dut?
+1702	Dekoloratu behar dut?
+1703	Ile zikinarekin ala garbiarekin etorri behar dut?
+1704	Ez duzu zure erantzuna aurkitzen? Idatziguzu eta pozik erantzungo dizugu.
+1705	Lekualdatzen zarete?
+1706	Gonbidatuak eta txikiak orrazten dituzue?
+1707	Zergatik ez dut garbitu behar 48 orduan?
+1708	Landareekin argitu dezaket ilea?
+1709	Presoterapiarekin konbina dezaket?
+1710	Kolorearekin konbina dezaket?
+1711	Beste zerbitzu batzuekin konbina dezaket?
+1712	Ilea moztera bakarrik etorri arren egin dezaket?
+1713	Ile laburrean egin dezaket?
+1714	Metxak egin ditzaket henna edo landare-kolorea badaramat?
+1715	Presoterapia egin dezaket tindagaiak eragiten duen bitartean?
+1716	Erreferentziazko argazkiak ekar ditzaket?
+1717	Tindagai kimikotik landare-kolorera igaro naiteke?
+1718	Unisex ile-mozketa eska dezaket?
+1719	Lehen ileurdinak bakarrik estal ditzaket?
+1720	Tinda naiteke permanentea badaramat?
+1721	Tinda naiteke keratina egiten badut?
+1722	Lagunduta etor naiteke?
+1723	Hurrengoa izan nahi duzu?
+1724	Nork ez du solariuma erabili behar?
+1725	Zer alde dago metxen eta balayagearen artean?
+1726	Zer egun datozkizu ondo?
+1727	Zer da kolore expressa?
+1728	Zer da 5 €-ko presoterapia hori?
+1729	Zer egin zerbaitek deseroso sentiarazten banau?
+1730	Zer gertatzen zaie zure ileari eta buru-larruazalari?
+1731	Zer marka erabiltzen dituzue?
+1732	Zer behar du zure ileak gaur?
+1733	Zer gertatzen da diagnostikoaren ondoren?
+1734	Zer gertatzen da nire ilea oso kaltetuta badago?
+1735	Zer landare erabiltzen dituzue?
+1736	Zer produktu erabili kizkurretarako?
+1737	Zer arropa eraman?
+1738	Zer duzu gogoko?
+1739	Zer tratamendu behar dut?
+1740	Edozein ile-erorketa motarako balio du?
+1741	Ile kizkurrerako balio du?
+1742	Horrelako ispilu-leun ile bat amesten duzu? Distira, leuntasuna eta akabera bikaina.
+1743	Horrelako balayage politak eraman nahi dituzu? Hitzordua hartzea besterik ez duzu.
+1744	Menderatzea kostatzen zaizu? Ez dakizu zer ile-mozketa datorkien ondo zure kizkurrei? Diagnostiko pertsonalizatu batekin laguntzen dizugu.
+1745	Hitzordua emango dizugu?
+1746	Zain izango zaitugu?
+1747	Zalantzarik geratu zaizu?
+1748	Galdu egin zara?
+1749	Bonurik baduzue?
+1750	Wifirik baduzue?
+1751	Kontraindikaziorik du?
+1752	Ekitaldiren bat duzu laster? Ezteiak, jaunartzeak, bataioak… distiratzen laguntzen dizugu.
+1753	Ile-erorketa tratatzen duzue?
+1754	Etxerako produktuak saltzen dituzue?
+1755	Tindagai kimikotik nator, igaro naiteke?
+1756	Eta azkenean ausartzen ez banaiz?
+1757	Eta apaindegi batean lehen aldia bada eta lotsa ematen badit?
+1758	Eta gero nire kolorera itzuli nahi badut?
+1759	Ezagutzen gaituzu dagoeneko?
+1760	Indigoa
+1761	Azken belaunaldia
+1762	— Cova Izquierdo
+1763	— Cova, beti zuekin

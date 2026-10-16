@@ -1,0 +1,280 @@
+540	Folikulua estimulatzen du eta erroa indartzen du.
+541	Izarra
+542	Zure aurpegiko ezaugarriak, ilearen testura eta egunerokoa aztertzen ditugu, ondo datorkizun eta etxean orrazten jakingo duzun ile-mozketa eta kolorea diseinatzeko.
+543	Aurpegiko ezaugarrien eta ilearen azterketa
+544	Aurpegiaren proportzioen azterketa, gehien mesede egiten duten ile-mozketa, bolumena eta kolorea aukeratzeko.
+545	Estetika
+546	Estetika eta ongizatea
+547	Estetika · Gorputzaren ongizatea
+548	Estetika · Brontzeztatzea
+549	Estetika · Laser-saioa hilean behin
+550	Zirkulazio linfatikoaren estimulazioa, atxikitako likidoak kentzeko. Hori da presoterapiak egiten duena.
+551	=
+552	Buru-larruazala eta zuntza ebaluatzen ditugu edozein produktu kimiko aplikatu aurretik.
+553	Saihestu plantxen eta lehorgailuen bero handiegia.
+554	Saihestu kloroa eta eguzki zuzena babesik gabe.
+555	Saihestu eguzkia eta autobrontzeatzailea aurreko asteetan.
+556	Lehortzean ez igurtzi: mikrozuntza edo kotoizko kamiseta, leunki sakatuz.
+557	Ez garbitu ilea lehen 48 orduetan: pigmentuak finkatzen dira eta kolorea bizitu egiten da.
+558	Saihestu orrazkera oso tenkatuak eta bero handiegia.
+559	Ez bildu ilea goma estuekin lehen egunetan.
+560	Lekualdatzeko aukera dago: kontsultatu data eta lekua.
+561	Badaude bob klasikoa, testuraduna eta long boba. Ondo egokituta, ia edozein aurpegi-formari ondo dator.
+562	Kolorean aditu, zuregan aditu.
+563	Adierazi zeure burua
+564	Adierazi zeure burua kolorearekin. Muga zure irudimena da
+565	=
+566	Fade edo degradatua, testuradun mozketak, mozketa labur klasikoa edo kizkur definituak.
+567	Gezurra. Ileurdinak estaltzen dira, emaitza naturalagoarekin: zure oinarrizko tonuarekin bat egiten duten islak.
+568	Gezurra: karamelua, txokolatea, kobrekarak, beigeak, gorriak… eta baita landareekin egindako metxak ere.
+569	Fantasia
+570	Fantasia · La Pelu de Tod@s
+571	Zain-itzulera errazten du eta hanka astunen sentsazioa murrizten du.
+572	Data, soinekoa, estiloa eta erreferentziak.
+573	Ile-zuntza
+574	Festak, enpresako afariak, Urtezahar gaua edo edozein egun berezi.
+575	Emaitza finkatzen dugu eta zure errutina ematen dizugu.
+576	Tratamendua zuntzean finkatzen dugu.
+577	Iragazi estiloaren arabera
+578	Ile-folikulua
+579	Aurpegiaren forma, lepoa, profila, testura, dentsitatea, hazkunde-norabidea eta zuntzaren egoera.
+580	Formulazioa
+581	Zuntza indartzen du
+582	Covaren bezeroen argazkiak, hemen argitaratuak:
+583	Fototipoa
+584	Saioen maiztasuna eta etxeko errutina.
+585	Ile-erorketa geldiarazten du eta erroa indartzen du
+586	Indiako fruitu bat, hautsetan, landare-nahasketei gehitzen zaiena tonua leuntzeko, distira emateko eta zuntza indartzeko.
+587	Mantentzeko erraza
+588	Orrazteko erraza
+589	Neurriko formula
+590	Babes-betaurrekoak eta kabina zuretzat prest.
+591	Galeria
+592	Lanen galeria
+593	La Pelu de Tod@s-en benetako lanen galeria: kolorea, metxak, balayagea, fantasiazko koloreak, landare-koloreztatzea, ile-mozketak, kizkurrak eta bildumak.
+594	Lanen galeria · La Pelu de Tod@s · Bilbo
+595	Galeria: besaulkitik atera berriak
+596	Glosarioa
+597	Ile-apaindegiko glosarioa · La Pelu de Tod@s · Bilbo
+598	Ile-apaindegiko glosarioa: balayage, matiz, henna, indigoa, keratina, fade, babylights eta gehiago, La Pelu de Tod@s-ek modu errazean azalduta.
+599	=
+600	=
+601	Koipea, hauts-ezkatak, azkura edo sentikortasuna, kontrolpean.
+602	Koipea, azkura edo hauts-ezkatak: ile-diagnostiko baten ondoren.
+603	Behar den guztia hitz egiten dugu. Zalantzarik baduzu, hobe gaur urrats bat eta hurrengo bisitan beste bat.
+604	Hitz egin dezagun zure ileaz
+605	Aurretik diagnostiko batekin baloratu behar da. Landareekin egindako metxak ere egin diezazkizukegu.
+606	Egin proba aste batzuk lehenago, soinekoaren eta osagarrien argazkiekin.
+607	La Pelu-n egina
+608	=
+609	Tresna
+610	Ondo hidratatu azala, brontzeztatzeak iraun dezan.
+611	Hidratatu azala ondoren: brontzeztatzeak gehiago irauten du.
+612	Hidratazioa
+613	Hidratazioa + landareak
+614	Hidratazio zaindua
+615	Hidratazio naturala landare-kolorerako
+616	Kizkurrentzako hidratazioa
+617	Hidratazio sakona
+618	Hidratazio sakona, elikadura intentsiboa eta tratamendu pertsonalizatuak kaltetutako, lehortutako, deshidratatutako edo eguzkiak, kloroak edo koloreak zigortutako ileentzat.
+619	Hidratazio sakona: maskara elikagarriak astean behin edo bitan.
+620	Hidratazioa beti: xanpu eta maskara elikagarriak, kizkurrak hezetasuna galtzen duelako.
+621	Hidratazioa eta elikadura
+622	Hidratazioa eta eguzki-babesa hurrengo egunetan.
+623	Hidratazioa, definizioa edo permanentea, kasuaren arabera.
+624	Hidratatzea ura ematea da (ile lehorra eta elastikotasunik gabea); elikatzea lipidoak ematea (ile zakarra, punta irekiak).
+625	Ile-mozketa definitua bilatzen duten gizonak: degradatuarekin, testurarekin edo klasikoa, baita bizarrarekin ere.
+626	Ordutegia
+627	Ordutegi jarraitua
+628	Arreta-ordutegia
+629	Gaur
+630	Ohiturak, garbiketak, produktuak, elikadura, estresa, azken aldaketak.
+631	Ideia eta diagnostikoa
+632	Buru-larruazal sentikorrentzat edo alergiak dituzten pertsonentzat aproposa.
+633	Azal sentikorrentzat, azkurentzat edo alergientzat aproposa.
+634	Aproposa erraz puzten bazara.
+635	=
+636	Argiztatze naturala, dimentsioarekin
+637	Eskuz margotutako argiztatzea, degradatuan eta erroa markatu gabe. Modu naturalean hazten da eta ukitu gutxi eskatzen ditu.
+638	Errotik argiztatzen dute eta kontraste naturala sortzen dute. Inoiz huts egiten ez duen klasiko bat.
+639	Aurpegiaren inguruan argiztatzeak berehala gaztetzen du.
+640	Irudia
+641	Inklusiboa eta segurua
+642	Inklusioa
+643	Minik gabea
+644	Osagai naturalak eta errutina jasangarriagoa.
+645	Hasiera
+646	Iraganeko hamarkadetan inspiratuak, izaera duten itxurak maite dituenarentzat.
+647	=
+648	Gonbidatuak, amabitxiak eta familiak ezteietan, jaunartzeetan eta bataioetan.
+649	=
+650	=
+651	Osteguna
+652	=
+653	Keratina + ile-mozketa
+654	=
+655	=
+656	La Pelu
+657	=
+658	=
+659	La Pelu de Tod@s Bilboko apaindegi inklusiboa da: LGBTQ+ friendly, transgender safe space, etiketarik gabeko ile-mozketak eta komun inklusiboak.
+660	La Pelu de Tod@s · Bilbo
+661	La Pelu de Tod@s · Covadonga Izquierdo · 1983tik
+662	La Pelu de Tod@s · Ile-apaindegia, landare-koloreztatzea eta ongizatea Bilbon
+663	La Pelu de Tod@s · hasiera
+664	La Pelu · Glosarioa
+665	La Pelu · Inklusioa
+666	La Pelu · Iritziak
+667	La Pelu · Guri buruz
+668	La Pelu · Benetako lanak
+669	Aholkularitza zure ile-mozketa edo kolore zerbitzuaren parte da: beti hitz egiten dugu zurekin hasi aurretik. Kontsulta luzeagoa edo aldaketa osoa nahi baduzu, galdetu WhatsAppez eta orientabidea emango dizugu.
+670	Urtaroko ile-erorketa ohikoa da, baina ohitura onekin eta tratamenduekin zaintzeak ilea berreskuratzen laguntzen du.
+671	Landare-koloreztatzeak ez du ilean sartzen: inguratu egiten du, ile-zuntza babesten eta indartzen duen kolore-geruza bat sortuz. Emaitza tonu naturalak, isla argitsuak eta aplikazio bakoitzarekin ile osasuntsuagoa, trinkoagoa, indartsuagoa eta distiratsuagoa dira. Ez du tindatu bakarrik egiten: tratatu eta babestu ere egiten du.
+672	Landare-koloreztatzeak ez du tindatu bakarrik egiten: tratatu eta babestu ere egiten du. Aplikazio bakoitzarekin, zure ilea indartsuago dago.
+673	Konbinaziorik osoena.
+674	Hitzordua eskatzeko modurik azkarrena WhatsApp da. Kontaiguzu zer nahi duzun, eta Covak besaulkian dagoen bezeroarekin amaitu bezain laster erantzungo dizu.
+675	Marka logoan ageri den data batekin jaio zen: 1983tik. Guraizeak, orrazia eta ofizio handia.
+676	=
+677	La pelu bideoan
+678	Laranja-azala leunago eta gutxiago markatuta ikusten da.
+679	Presoterapia nabaritzen diren… eta eskertzen diren tratamendu horietako bat da. Presio pneumatiko kontrolatuko boten bidez, oinetatik gora doan masaje bat egiten da, zain-itzulera eta drainatze linfatikoa erraztuz. Lehen saiotik arintasun-sentsazio sinestezina nabarituko duzu.
+680	Erroa koipetsua izan daiteke eta puntak deshidratatuta egon. Horregatik egiten dugu diagnostikoa aurretik.
+681	Saioa
+682	Saioa hilean behin egiten da, normalean astelehen goiz batean. Instagramen eta Facebooken iragartzen dugu; idatziguzu WhatsAppez erreserbatzeko.
+683	Iraupen luzea
+684	Metxek beren denbora behar dute. WhatsApp bidez erreserbatzean, kontaiguzu zer nahi duzun eta tarte egokia gordeko dizugu.
+685	Metxak ez dira ilehoriak bakarrik. Gaur egun tonu bero, hotz, natural edo biziekin jolas dezakegu, zure ileari argia, mugimendua eta sakontasuna emateko, gehiegi argitu beharrik gabe. Karamelua eta eztia gaztain-oinarrien gainean, txokolatea eta hurra dimentsioa emateko, kobrekarak nortasunarekin edo mochaccinoa eta beigea argitasun dotore baterako.
+686	Metxak zure azal-tonura, oinarrira eta estilora egokitzen dira. Ez dago mota bakarra: aukera-mundu bat dago.
+687	Metxa tradizionalek errotik argiztatzen dute; balayagea eskuz margotzen da degradatuan, eta erro-efekturik gabe hazten da.
+688	La pelu-ko hitzak, azalduta
+689	Bezero errepikariek oso tratu hurbila nabarmentzen dute, denborarekin adiskidetasun bihurtzen dena, eta non guraizeak sartu aurretik konfiantza eta entzute aktiboa nagusitzen diren.
+690	Tradizionalak, 2–3 hilean behin; balayageak gehiago iraun dezake zure hazkundearen arabera.
+691	Garbitu ur hotzarekin edo epelarekin: ur beroak pigmentua eramaten du.
+692	Garbitu ur epelarekin eta ile-ontzaile egokiarekin: kutikula zigilatzen laguntzen du.
+693	Garbiketa egokia zuntza prestatzeko.
+694	Prestaketa-garbiketa
+695	Garbiketa eta diagnostikoa
+696	Garbiketa eta masajea, zuntza berritzen duen tratamendu esfoliatzailearekin.
+697	Garbiketa, tratamendua eta orrazkera
+698	Irakurri iritzi guztiak
+699	Letrak
+700	Cova Izquierdok zuzendua, 30 urtetik gorako esperientziarekin, abangoardiako ile-apainketa, buztinezko koloreztatze naturala eta tratamendu estetiko aurreratuak uztartuz.
+701	Sakon garbitzen dugu tratamendua sar dadin.
+702	Garbiketa
+703	Ispilu-leuna
+704	Iraupen luzeko ispilu-leuna, zetatsua eta mugimenduarekin.
+705	Leun leundua, distira biziarekin, ispilu baten modukoa.
+706	Leuna eta leundua, mugimenduarekin eta lasaia, edo luzeagoa beldurrik gabeko aldaketa baterako.
+707	Leuna, uhinduna edo kizkurra: ile bakoitza modu desberdinean mozten da.
+708	Leuna, baina bizitasunarekin. Astundu gabe.
+709	Leuna, kizkurra eta orrazkerak
+710	Leuna, kizkurra eta orrazkerak · La Pelu de Tod@s
+711	Deiak eta informazioa
+712	Deitu
+713	Iritsi
+714	Iristea erraza da
+715	Eraman aurretik irekitzen den alkandora bat, orrazkera ez hondatzeko.
+716	Ahalik eta lehenen
+717	Onena 4–8 astean behin da, zure ilearen eta tonuaren arabera.
+718	Azkarrena WhatsAppez da, 676 67 98 07 zenbakira. Irekita gauden orduetan 946 24 04 79 zenbakira ere dei dezakezu.
+719	Covari buruz esaten dutena
+720	Gehien errepikatzen dena
+721	Mugiarazten gaituena
+722	Guretzat zer esan nahi duen
+723	Diagnostiko batekin jakingo dugu: ez da gauza bera ur falta edo elikadura edo indar falta.
+724	Covak Instagramen argitaratzen duen azkena, hementxe bertan.
+725	Kale mailako lokala
+726	Kale mailako lokala eta komun inklusiboak.
+727	Kale mailako lokala, eskailerarik gabe.
+728	Lortu brontzeztatze natural eta uniformea giro lasaian, urteko edozein sasoitan.
+729	Fantasiazko koloreak ez dira itxura-aldaketa bat bakarrik: zure nortasuna erakusteko modu bat dira. La Pelu de Tod@s-en irudimenari bide ematen diogu. Metxa urdin bat, garondo arrosa eta lila bat, beltzarekin zatitutako gorri bizi bat edo ile osoa arrosa uhindunean: zuk amesten duzu eta Covak egia bihurtzen du.
+730	Egungo ekipoek fototipo desberdinak tratatzeko aukera ematen dute, parametro egokituekin.
+731	Tratamenduak zure azal eta ile motaren arabera pertsonalizatzen dira, saio azkar eta seguruekin. Datak hilean behin direnez eta hitzorduak hegan doazenez, sare sozialetan hurrengo saio bakoitzaren berri ematen dizugu eta aldez aurretik erreserbatzea gomendatzen dizugu.
+732	Tratamenduek laguntzen dute; jarraitasunak eta etxeko errutinak egiten dute aldea.
+733	Itxura ona izan ekitaldi batean edo ezteietan.
+734	Astelehena eta igandea itxita
+735	Astelehena
+736	Argia balayagearekin
+737	Intentsitate baxuko argia, folikulua estimulatzen duena ile-erorketa geldiarazten laguntzeko. Ez du zerikusirik laser bidezko depilazioarekin.
+738	Argia eta distira % 100 naturala, produktu kimiko gogorrik gabe.
+739	Argia eta dimentsioa
+740	Argia, mugimendua eta dimentsioa zure ilearentzat
+741	Laserra + tratamendu topikoa
+742	Ile-laserra
+743	Ile-laser bioestimulatzailea
+744	Ile-laser bioestimulatzailea Bilbon · La Pelu de Tod@s
+745	Ile-laser bioestimulatzailea La Pelu de Tod@s-en
+746	Ile-laserra Bilbon: argi bidezko tratamendu bioestimulatzailea, ile-erorketa geldiarazteko, erroa indartzeko eta buru-larruazala osasuntzeko.
+747	Ile-laserra: zure erroa esnatzen duen argia
+748	Zuntza konpontzen duten lipidoak eta osagai aktiboak.
+749	Brontzeztatzea mantendu udaren ondoren.
+750	Zure esentzia mantendu, baina forma, mugimendu eta freskura berriekin.
+751	Mantentzea 4–8 astean behin, zuntza indartuz.
+752	Mantentze erosoa
+753	Mantendu tonu urrekara neguan ere.
+754	Mantendu zure metxak argitsu
+755	Mantendu bitamina eta mineraletan aberatsa den elikadura.
+756	Makillaje profesionala
+757	Marka profesionalak
+758	Marka profesionalak eta kosmetika naturala
+759	=
+760	Asteartea
+761	Asteartetik ostiralera
+762	=
+763	=
+764	Ar–Or 9:30–18:00
+765	Aire-presioko botekin egindako masajea, zain-itzulera eta drainatze linfatikoa aktibatzen dituena.
+766	Presio kontrolatuko botekin egindako masaje pneumatikoa, drainatze linfatikoa aktibatzen duena, hanken astuntasuna arintzen duena, likido-atxikipena murrizten duena eta zelulitisarekin laguntzen duena.
+767	Igurtzi leunki buru-larruazala zirkulazioa estimulatzeko.
+768	Asteroko maskara hidratatzailea: ile argituak ura eskatzen du.
+769	Maskara elikagarria astean behin edo bitan.
+770	Maskara, anpoila edo errituala masajearekin.
+771	Tonu bereko maskara pigmentatuak, bisiten artean freskatzeko.
+772	Ñabardura
+773	Neurriko ñabardura
+774	Ñabardura pertsonalizatua
+775	Goiza
+776	Berdin zait
+777	Metxak
+778	Landareekin egindako metxak
+779	Fantasiazko metxak
+780	Oso metxa finak eta errotik hurbil, haurren ilearen argitze naturala imitatzen dutenak. Argi oso sotila ematen dute.
+781	Premium metxak
+782	Metxa tradizionalak
+783	Metxa tradizionalak, balayagea, premium eta vintage metxak, islak eta ñabardura pertsonalizatuak. Ilehorietan, beigeetan eta tonu biziean adituak, hidratazioa zainduz.
+784	Vintage metxak
+785	Metxak eta balayagea
+786	Metxak eta balayagea Bilbon: ilehoriak, karamelua, txokolatea, kobrekarak, beigea eta landareekin egindako metxak. Ñabardura pertsonalizatuak eta zuntzaren zaintza.
+787	Metxak eta balayagea · La Pelu de Tod@s
+788	Metxak, balayagea eta islak
+789	Metxak, balayagea eta islak Bilbon · La Pelu de Tod@s
+790	Metxak, balayagea eta islak La Pelu de Tod@s-en
+791	Argia eta dimentsioa emateko argitutako edo ilundutako ile-sortak: tradizionalak, finak, premium, vintage…
+792	Sorta bakoitzean, maskara bat bezala, ile garbiaren gainean.
+793	Sorta bakoitzean, esposizio-denbora egokiarekin.
+794	Googleko batez bestekoa · 26 iritzi
+795	Eguerdia
+796	Zelulitisa hobetzen du
+797	Zirkulazioa hobetzen du
+798	Ile osoa fantasiazkoa
+799	Landareekin tindatutako ile kizkur kobrekara
+800	Ile leuna, distiratsua eta orrazteko erraza
+801	Ile luzea eta geruzak
+802	Kolorearen edo beroaren ondorioz kaltetutako ileak, diziplina eta distira behar dituztenak.
+803	Ile ahulduak, meheak edo kaltetuak, gorputza eta indarra behar dituztenak.
+804	Ile harrotuak, lehorrak edo distirarik gabeak.
+805	Leunak ala kizkurrak diren ez dakiten ile uhindunak.
+806	Bolumen gehiegirik gabe definitzeko ile-mozketa espezifikoa behar duten ile kizkurrak.
+807	Ile lehorrak, zakarrak, itzaliak edo deshidratatuak.
+808	Adingabeak, brontzeztatzen ez den azal oso argia dutenak, azaleko minbiziaren aurrekariak dituztenak, haurdunak edo botika fotosentsibilizatzaileak hartzen dituztenak. Zalantzarik baduzu, galdetu zure medikuari.
+809	Bero gutxiago: murriztu plantxa eta lehorgailua, utzi ileari arnasten.
+810	Frizz gutxiago
+811	Lehorgailu eta plantxa denbora gutxiago goizero.
+812	Menua
+813	Mugikorreko menua
+814	Neurriko nahasketa
+815	Zure oinarrirako, ileurdinetarako eta bilatzen duzun tonurako nahasten dugu, errezeta orokorrik gabe.
+816	Henna, indigoa, cassia eta amla bezalako landareen nahasketak, besteak beste, urarekin bakarrik prestatuak.
+817	Nire ilea itzalita dago
+818	Eragiten duen bitartean…
+819	Zure kolorea finkatzen den bitartean, lasaitu hankak eta hobetu zirkulazioa. Atera ile-apaindegitik gorputza eta ilea berrituta.

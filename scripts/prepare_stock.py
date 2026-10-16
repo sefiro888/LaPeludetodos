@@ -31,6 +31,7 @@ STOCK = {
     "rizos": ("1579119159780-51419861f69f", 0.5, "Melena de rizos definidos"),
     "peinados": ("1672788725446-c303ec2b318e", 0.55, "Recogido de novia con tocado"),
     "tratamientos": ("1717160675643-53a7a2ebaa9f", 0.6, "Tratamiento en el lavacabezas"),
+    "glosario": ("1595475884562-073c30d45670", 0.5, "Manos con cepillos, tijeras y pincel de tinte"),
 }
 
 

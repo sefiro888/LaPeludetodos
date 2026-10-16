@@ -1,0 +1,300 @@
+1100	Bolumena murrizten du
+1101	Likido-atxikipena murrizten du
+1102	Murriztu gatza likidoak atxikitzen badituzu.
+1103	=
+1104	Islak
+1105	Islak eta ñabardurak
+1106	Zuntza birsortzen du
+1107	Lasaitu, deskonprimitu eta ongizate sakoneko sentsazioa uzten du.
+1108	Erlaxazioa
+1109	Bete nahi duzuna eta WhatsApp irekiko dugu mezua idatzita. Ez dugu daturik gordetzen.
+1110	Ile-mozketa berritzea
+1111	Erreserba
+1112	Erreserbatu aldez aurretik: ezkontza-denboraldian datak hegan doaz.
+1113	Erreserbatu aldez aurretik: itxura-aldaketek beren denbora behar dute eta hura eman nahi dizugu.
+1114	Erreserba gidatua
+1115	Bezeroen iritziak
+1116	Google, Treatwell eta Instagrameko benetako iritziak. Gehien errepikatzen dena: Covak benetan entzuten duela, kolorearekin asmatzen duela eta etxean bezala sentitzen zarela.
+1117	Buru-larruazala errespetatzen du
+1118	Errespetatu adierazten dizugun saioen arteko tartea.
+1119	Errespetatu denborak eta saioen arteko atsedena.
+1120	Zure testura errespetatzen du
+1121	Kizkur bakoitzaren forma naturala errespetatuz.
+1122	Emaitza naturala
+1123	Emaitzak eta plana
+1124	Likido-atxikipena (beroagatik, botikengatik, ordu asko zutik edo eserita egoteagatik).
+1125	Kendu makillajea, lurrinak eta kremak saioaren aurretik.
+1126	Ukitu 4–8 astean behin zure ilearen eta tonuaren arabera, bisita bakoitzean zuntza indartuz.
+1127	Ukitu erroa 4–6 astean behin, koloreak beti uniforme distira dezan.
+1128	Landare-kolorezko erro-ukitua
+1129	Tratamendu batean zehar bilakaeraren berrikuspena.
+1130	Ile leunentzako kizkur iraunkorra, leunenetik markatuenera.
+1131	Kizkur definituak eta biziak
+1132	Kizkurrak Bilbon: ile kizkurrerako mozketa, permanenteak, moldeatuak eta zaintza-errutinak. Kizkur definituak, hidratatuak eta mugimendudunak.
+1133	Kizkur askeak, definituak eta biziak
+1134	Kizkur markatuak, hodei-efekturik gabe.
+1135	Definizioa eta frizz gutxiago nahi duten kizkur naturalak.
+1136	Kizkurrak, permanenteak eta moldeatuak
+1137	Kizkurrak, permanenteak eta moldeatuak Bilbon · La Pelu de Tod@s
+1138	Kizkurrak, permanenteak eta moldeatuak La Pelu de Tod@s-en
+1139	Gorri bizia
+1140	Gorri biziak, gereziak eta izaera duten kobreak.
+1141	Kolorearen lautasuna hausten dute eta edozein luzerari mugimendua ematen diote.
+1142	Ile-apaindegi zurrunekin haustea
+1143	Arropa erosoa. Erreserbatzean dena azaltzen dizugu.
+1144	Arrosa pastela, urdin elektrikoa, sirena-berdea, mertxika, lila edo gorri bizi bat. Fantasiazko kolore biziak, uniformeak eta zure ilearen osasuna arriskuan jarri gabe.
+1145	Arrosa, urdina, lila, gorria… adierazi zeure burua
+1146	Arrosa, lila, urdina, berdea, mertxika… ile osoan.
+1147	Ibilbidea
+1148	Etxerako errutina
+1149	Benetako errutina
+1150	Gehiago jakin
+1151	Badakizu zer gertatzen zaion zure ileari
+1152	=
+1153	Badakizula ateratzen zara zer produktu erabili, nola lehortu eta nola berreskuratu forma etxean.
+1154	Joan edukira
+1155	Osasuna lehenik
+1156	Ile-osasuna
+1157	Buru-larruazala osasuntzen du
+1158	Behar dena osasuntzen dugu, ilea indartsu eta distiratsu ikus dadin.
+1159	Ilea erortzen zait
+1160	Lehen saiotik nabaritzen da ukimenean.
+1161	Bai, egin daiteke. Itzulera nola egin azaltzen dizugu, pixkanaka eta zainduta.
+1162	Ziztada arin bat edo beroa sentitzen da, oso jasangarria.
+1163	Lehortu erroa lehenik: bolumena eta forma han erabakitzen dira.
+1164	Lehortu beti ilea: busti-busti lo egiteak frizza errazten du.
+1165	Difusorearekin lehortzea
+1166	Lehortzea eta orrazkera; etxean errepikatzeko trikimailua erakusten dizugu.
+1167	Jarraipena
+1168	Kolorea, argia, orrazkerak eta une politak sortzen jarraitzen dugu, baita ile-apaindegitik iritsi zinenean baino hobeto sentituz ateratzeko sentsazio hori ere.
+1169	Zure estiloaren, ile motaren eta egunerokoaren arabera.
+1170	Zure soinekoaren, aurpegiaren eta ekitaldiaren estiloaren arabera.
+1171	Kutikula zigilatzen du hezetasunaren eta erasoen aurka.
+1172	Beroz zigilatzea
+1173	Zigilatzea eta aholkuak
+1174	Zigilatzea eta orrazkera
+1175	Kolorea zigilatzen dugu eta irauteko jarraibideak ematen dizkizugu.
+1176	Zigilatu, elikatu eta distira mantentzen erakusten dizugu.
+1177	Erdi-iraunkorra
+1178	Erdi-iraunkorra eta ñabardurak
+1179	Zerbitzua
+1180	Zerbitzu izarra
+1181	Zerbitzu izarra · Koloreztatze botanikoa
+1182	Kolore express zerbitzua
+1183	Zerbitzuak
+1184	Guztientzako zerbitzuak
+1185	Lotutako zerbitzuak
+1186	Zerbitzuak · La Pelu de Tod@s · Bilbo
+1187	Banakako saioak edo bonuarekin.
+1188	Saio azkarrak
+1189	Saioa
+1190	Laser-saioa
+1191	Ile-laser saioa
+1192	Banakako saioa
+1193	Hileko saioa · azal leuna
+1194	Presoterapia-saio solte bat
+1195	Etapa berri baterako aldaketa erradikal bat bilatzen baduzu.
+1196	Ilehori, beige edo karamelu argitsu bat bilatzen baduzu, baina ilea zainduz.
+1197	Zure lehen ileurdinak ikusten hasi bazara eta ez baduzu ile osoa tindatu nahi.
+1198	Ile-erorketa bortitza edo plaketan bada, kontsultatu dermatologo batekin ere.
+1199	Ile-erorketa bizia edo bat-batekoa bada, kontsultatu zure medikuarekin edo dermatologoarekin ere.
+1200	Zer produktu erabili ez badakizu, ezerk ez dizulako funtzionatzen.
+1201	Ohi baino ile gehiago erortzen zaizula nabaritzen baduzu
+1202	Ohi baino ile gehiago erortzen zaizula nabaritzen baduzu.
+1203	Zure ilea itzalita ikusten baduzu eta aldaketa erradikalik gabe bizia eman nahi badiozu.
+1204	Aukera naturalak nahiago badituzu: landareekin egindako metxak ere egiten ditugu.
+1205	Ileurdinak erabat eta modu uniformean estali nahi badituzu.
+1206	Hasierako ileurdinak argiarekin disimulatu nahi badituzu, tindagai oso baten ordez.
+1207	Zure ileurdinak erakusten hasi edo landare-koloreztatzera igaro nahi baduzu eta nondik hasi ez badakizu.
+1208	Kolore-ukitu diskretu bat nahi baduzu (ilearen azpian, garondoan, metxa batean).
+1209	Nahi baduzu, 5 € gehiagoren truke soilik, gozatu presoterapia-saio batez.
+1210	Urteak daramatzazula orrazkera berarekin sentitzen baduzu eta berritu nahi baduzu.
+1211	Ausartu eta zure irudiarekin dibertitu nahi baduzu.
+1212	Tonu-aldaketa bat nahi baduzu: kobrekarak, txokolateak, ilehoriak, gorriak, mocha…
+1213	Hainbat ideiaren artean erabakitzea kostatzen bazaizu eta iritzi profesional zintzo bat behar baduzu.
+1214	Itxura alternatiboak gustatzen bazaizkizu eta hori ulertzen duen apaindegi bat nahi baduzu.
+1215	Izaera duten itxurak gustatzen bazaizkizu (vintage metxak, kobrekarak, gorriak).
+1216	Aldizka tindatzen bazara, aurreztu gure bonuekin.
+1217	Azkura, hauts-ezkatak, narritadura edo koipe gehiegi baduzu.
+1218	Denbora gutxi baduzu eta kolore azkar eta ondo egindako bat behar baduzu.
+1219	Bizitzan aldaketa bat baduzu (lana, hiria, etapa) eta zure irudiak lagun egitea nahi baduzu.
+1220	Zure egungo ile-mozketak etxean funtzionatzen ez badizu eta zergatik ez badakizu.
+1221	Zure ilea leuna bada eta uhinak amesten badituzu, asteetan zehar testura eta gorputza ematen duten permanenteak eta moldeatuak egiten ditugu. Eta zure kizkurrak naturalak badira, ile-mozketa egokiarekin eta benetan funtzionatzen duen errutina batekin indartzen laguntzen dizugu.
+1222	Zure ileak dentsitatea, bolumena edo distira galdu baditu.
+1223	Kolorea aldatzera bazoaz, egin 1–2 aste lehenago, natural ikus dadin.
+1224	Sarri etortzen bazara, erosoagoa eta merkeagoa.
+1225	Sarri etortzen bazara eta kolore-bonu bat aprobetxatu nahi baduzu.
+1226	Aldizka etortzen bazara, aprobetxatu gure bonuak: erosoak, merkeak eta zure erritmora egokituak.
+1227	Aldizka etortzen bazara, bonuak zure bisitetan aurrezteko aukera ematen dizu. Kontsultatu ile-apaindegian dauden aukerak.
+1228	Beti ile-diagnostiko batekin hasten gara: horrela badakigu laserra behar duzun, zenbatero eta nola konbinatu emaitzarik onenak lortzeko.
+1229	Hurrengoa
+1230	Orratzik eta molestiarik gabe: lasai zaitez eragiten duen bitartean.
+1231	Amoniakorik, PPDrik eta erresortzinolik gabe.
+1232	Erro-efektu nabarmenik gabe, degradatu-teknikei esker.
+1233	Kerik gabe
+1234	Epaiketarik gabe: hemen pertsona bakoitza nahi duen moduan adierazten da.
+1235	Bainujantziaren markarik eta ahaztutako gunerik gabe.
+1236	Presarik gabe
+1237	Produktu kimiko gogorrik gabe
+1238	Sulfatorik gabe
+1239	Covari buruz
+1240	Cova Izquierdori buruz · La Pelu de Tod@s · Bilbo
+1241	Aurretiko hitzorduarekin bakarrik
+1242	Solariuma
+1243	Solariuma Bilbon (Errekalde): pixkanakako brontzeztatze uniformea urte osoan. Saio solteak eta solarium-bonuak.
+1244	Solariuma Bilbon · La Pelu de Tod@s
+1245	Solariuma La Pelu de Tod@s-en
+1246	=
+1247	Lr 9:00–14:00 (hitzorduarekin)
+1248	Larunbata
+1249	Larunbatak
+1250	Izan jarraitua saioekin: emaitzak jarraitutasunarekin iristen dira.
+1251	Izan jarraitua: bonuek saio solteek baino emaitza hobeak ematen dituzte.
+1252	Bai, askotan. Galdetu eta pozik emango dizugu informazioa.
+1253	Bai, ile-mozketa doitzen dugu definituta eta bolumen gehiegirik gabe gera dadin.
+1254	Bai, aprobetxatu zure bisita ile-apaindegira.
+1255	Bai, edozein tratamenduk bezala: tronbosia, bihotz-arazoak, haurdunaldia, infekzioak edo zauriak, besteak beste. Hasi aurretik galdetzen dizugu eta, edozein zalantzaren aurrean, kontsultatu zure medikuarekin.
+1256	Bai, aurretiko diagnostikoarekin, bateragarritasuna ziurtatzeko eta trantsizioa planifikatzeko.
+1257	Bai, makillaje profesionaleko zerbitzua dugu zure itxura osatzeko.
+1258	Bai, 9:00etatik 14:00etara, aurretik programatutako hitzorduarekin bakarrik.
+1259	Bai, kizkurrentzat, uhindunentzat eta bihurrientzat aproposa da. Kizkurra mantendu nahi baduzu, begiratu gure kizkurren orria.
+1260	Bai, koloreak eragiten duen bitartean saio batez goza dezakezu 5 € gehiagoren truke soilik.
+1261	Bai, zerbitzu batetik bestera denborak ondo antolatuz. Aholkatzen dizugu.
+1262	Bai, baina komeni da aurretik diagnostiko bat egitea. Trantsizioa nola egin landare-koloreztatzearen orrian azaltzen dizugu.
+1263	Bai, galdetu WhatsAppez eta zure ilean zer den posible ikusiko dugu.
+1264	Bai, lehen aldia
+1265	Bai, banakako saioak edo bonuarekin. Galdetu aukerei buruz.
+1266	Bai, presoterapiako bonu bereziak ditugu: erosoagoak, merkeagoak eta emaitza hobeekin.
+1267	Bai, doako wifia bezeroentzat itxaronaldietan edo prozesu teknikoetan.
+1268	Bai, eta esku oso onarekin txiki urduriekin. Giro eroso eta familiarra.
+1269	Bai, eta oso gomendagarria da koloreak distira gehiago izan dezan.
+1270	Bai. Zure aurpegia, ilea eta bizarra aztertzen ditugu, zurekin hobekien bat egiten duen ile-mozketa proposatzeko.
+1271	Bai. Emaitza tindagai batena baino naturalagoa da: ileurdinak zure oinarriarekin bat egiten duten isla bihurtzen dira.
+1272	Bai. Ile birjinentzat edo ileurdin oso gutxi dituztenentzat pentsatutako zerbitzua da: ileurdina estaltzen dugu zure tonua aldatu gabe.
+1273	Bai. La Pelu de Tod@s gara: ile-mozketak emakumeentzat, gizonentzat, unisex eta neska-mutilentzat.
+1274	Bai. Apaindegi inklusiboa gara, LGBTQ+ kolektiboarekiko atsegina eta pertsona transentzako espazio segurua. Hemen zaren bezala adieraz zaitezke.
+1275	Bai. Zerbitzuen ordena egokia gomendatzen dizugu, biek distira dezaten.
+1276	Bai: koloreztatzea erreserbatzean presoterapia-saio bat gehi dezakezu 5 € gehiagoren truke soilik.
+1277	Bai: kolore, presoterapia eta solarium bonuak. Galdetu dauden aukerei buruz.
+1278	Bai: karamelua, eztia, txokolatea, hurra, kobrekarak, gorriak, mochaccinoa eta beigea.
+1279	Bai: ile-diagnostiko batekin hasten gara eta, hala badagokio, ile-laserrarekin.
+1280	Bai: fade edo degradatua, testuradun mozketak, mozketa labur klasikoa, kizkurrak eta bizarra + ile-mozketa.
+1281	Bai: gonbidatuak, amabitxiak, jaunartzeak eta bataioak.
+1282	Jarraitu gaitzazu
+1283	5,0 ere Treatwellen eta 5,0 Facebooken (% 100ek gomendatzen dute).
+1284	Ongizatea ere ematen du: zirkulazioa eta atseden-sentsazioa hobetzen ditu.
+1285	Hori ere gezurra. Zure kolore naturala argitzen ez badu ere, tonu sorta zabala ahalbidetzen du nahasketaren eta esposizio-denboraren arabera.
+1286	Deiak ere bai
+1287	Baita distira eta diziplina nahi duten ile uhindun, bihurri edo kaltetuentzat ere.
+1288	Ekitaldiaren aurretik ilea ere prestatzen dugu: osasuntsu eta distiratsu egoteko tratamenduak, eta landare-koloreztatzearekin aukera naturalak.
+1289	Zure ileurdinak denbora gutxian estaltzen ditugu, edo lehenengoak bakarrik zure kolore naturala aldatu gabe. Azkarra, diskretua eta naturala.
+1290	Zure ileurdinak denbora gutxian estaltzen ditugu, kalitateari uko egin gabe.
+1291	Zure ileurdinak denbora tarte laburrean estaltzen ditugu. Agenda estuentzat ezin hobea.
+1292	Arratsaldea
+1293	Landare-kolorera modu seguruan igarotzen laguntzen dizugu.
+1294	Hurrengo hileko saioan izena ematen dizugu.
+1295	Zure fototipoaren arabera saioen kopuruari eta iraupenari buruz aholkatzen dizugu, brontzeztatzea polita, uniformea eta zure azalarekiko errespetuzkoa izan dadin.
+1296	Tonu beroak, hotzak edo neutroak aukeratzen laguntzen dizugu, zure azalaren eta begien arabera.
+1297	Zure ileari buruzko egia esaten dizugu, nahiz eta «gaur ez, hobe bi urratsetan» izan.
+1298	Etxean urratsez urrats zaintzen erakusten dizugu.
+1299	Orrazten erakusten dizugu eta zaintza eta produktu egokiak gomendatzen dizkizugu.
+1300	Orrazten erakusten dizugu
+1301	Entzuten zaitugu
+1302	Errekalden zain gaituzu
+1303	Lehen 48 orduetan nola zaindu azaltzen dizugu, koloreak oxidatzen jarraitzen duen bitartean.
+1304	Nola garbitu azaltzen dizugu, gehiago iraun dezan.
+1305	Nola lehortu eta zer produktu erabili azaltzen dizugu.
+1306	Gomendatzen dizugun ile-mozketa eta kolorea eta zergatik azaltzen dizkizugu. Zuk erabakitzen duzu.
+1307	Ikusten duguna eta zer tratamendu gomendatzen dugun azaltzen dizugu.
+1308	Aukeratutako tratamenduaren arabera lehen garbiketa noiz egin esaten dizugu.
+1309	Hitzordua eskatzean esaten dizugu; normalean hobe da ez garbitzea justu aurretik.
+1310	Zure osasunari eta helburuei buruz galdetzen dizugu, kontraindikazioak baztertzeko.
+1311	Behar duzuna bakarrik proposatzen dizugu.
+1312	Plan bat proposatzen dizugu: apaindegiko tratamenduak, ile-laserra hala badagokio eta etxerako errutina bat.
+1313	Zure ileak benetan behar duena gomendatzen dizugu.
+1314	Zure ile motarako produktu egokiak gomendatzen dizkizugu; galdetu ile-apaindegian.
+1315	WhatsApp bidez erreserbatzea gomendatzen dizugu, zure tokia ziurtatzeko.
+1316	Sartu orduko gustura sentitzen zara
+1317	Esaten diguzun izenarekin eta izenordainekin tratatzen zaitugu. Galdera deserosorik gabe.
+1318	Argi-teknologia, ile-erorketa geldiarazten, ile-folikulua estimulatzen, zuntza errotik birsortzen eta buru-larruazala osasuntzen laguntzeko diseinatua.
+1319	Egungo laser-teknologia, azkarra eta segurua.
+1320	Telefonoa
+1321	Frizz handia dut
+1322	Denbora gutxi eta ileurdin asko ditut
+1323	Ezteiak edo ekitaldi bat ditut
+1324	Ile-terapia · Diagnostikoa
+1325	Ile-terapia · Argi-teknologia
+1326	Terapiak
+1327	Ile-terapiak
+1328	Terapiak eta estetika
+1329	Test azkarra
+1330	Testura
+1331	Testura ile leunentzat
+1332	Esposizio-denbora
+1333	Esposizio-denbora erosoa eta molestiarik gabea.
+1334	Tindagai iraunkorra
+1335	Tindagai iraunkorrak eta erdi-iraunkorrak, ñabardurak, islak eta presaka zabiltzanean ileurdinak estaltzeko zerbitzu expressa. Kolorean aditu, zuregan aditu.
+1336	Tindagaiak, ñabardurak, kolore expressa eta bonuak
+1337	Kizkur mota, porositatea, dentsitatea eta aurreko prozesuak.
+1338	Sakatu zure kasuaren antzekoena eta nondik hasi iradokiko dizugu.
+1339	Sakatu aldatzeko
+1340	Dena
+1341	Urte osoan
+1342	Guztiz kontrakoa: landareek indartu egiten dute eta distira ematen dute, ilea trinkoago eta osasuntsuago utziz.
+1343	Praktikoa den guztia: nola eskatu hitzordua, ordutegiak, bonuak eta zer aurkituko duzun.
+1344	Zuregatik egin dezakegun guztia
+1345	Denak
+1346	Reel guztiak
+1347	Zerbitzu guztiak
+1348	Tonu ez-naturalak (arrosa, lila, urdina, berdea…), distira dezaten normalean oinarri argitua behar dutenak.
+1349	Oinarrizko tonuaren barruko kolore-ukituak, distira eta mugimendua ematen dituztenak.
+1350	Osoa edo partziala
+1351	Osoa, partziala edo lehen ileurdinena bakarrik, zuk nahiago duzun bezala.
+1352	Yunsey Professional, Salerm Cosmetics eta Alfaparf bezalako marka profesionalekin lan egiten dugu, baita % 100 landare-koloreztatzearekin ere.
+1353	Yunsey Professional, Salerm Cosmetics eta Alfaparf bezalako marka profesionalekin lan egiten dugu, baita % 100 landare-koloreztatzearekin eta -kosmetikarekin ere.
+1354	Lehen mailako marka profesionalekin lan egiten dugu, hala nola Yunsey Professional, Salerm Cosmetics eta Alfaparf, eta nahasketa bakoitza neurrira formulatzen dugu: zure oinarria, ileurdinen ehunekoa, kolore-historia eta bilatzen duzun emaitza. Horregatik kolore perfektuak bere denbora behar du… eta horregatik komeni da aldez aurretik erreserbatzea.
+1355	Zehaztasunez lan egiten dugu, prozesu osoan emaitza zurekin berrikusiz.
+1356	Ile-mozketa mota guztiak lantzen ditugu: bob leundu edo testuradunetik hasi eta geruzadun ile luzeetara, pixieak, gizonentzako degradatudun mozketak eta haurrentzako mozketak pazientzia handiz. Eta bai, unisex ere bai: hemen ile-mozketa pertsonarentzat da, ez etiketa batentzat.
+1357	La Pelu de Tod@s-en benetako lana
+1358	Lanak
+1359	Benetako lanak
+1360	Lanak eta abisuak
+1361	Ekarri gustatzen zaizunaren argazkiak… eta gustatzen ez zaizunarenak ere bai: asko laguntzen du.
+1362	=
+1363	Kolore-trantsizioa
+1364	Tindagai kimikotik trantsizioa
+1365	Tratamendua
+1366	Neurriko tratamendua
+1367	Tratamendu jarraitua emaitza hobeetarako (galdetu bonuei buruz).
+1368	Keratina-tratamendua
+1369	Tratamendu intentsiboa kizkur lehor edo harrotuentzat.
+1370	Tratamendu elikagarria masajearekin
+1371	Kutikula zigilatzen duen tratamendua, ileak inguruko hezetasuna xurga ez dezan eta harrotu ez dadin.
+1372	Tratamendua eta orrazkera
+1373	Ile-tratamenduak Bilbon: hidratazio sakona, elikadura intentsiboa, udaren ondorengo berreskurapena eta kosmetika naturala ile kaltetuentzat.
+1374	Keratina-tratamenduak eta leuntze profesionalak, bolumena kontrolatzen dutenak, frizza kentzen dutenak eta kutikula hezetasunaren aurka zigilatzen dutenak. «Ispilu-leun» ospetsua.
+1375	Elikadura- eta hidratazio-tratamenduak
+1376	Elikadura- eta hidratazio-tratamenduak Bilbon · La Pelu de Tod@s
+1377	Elikadura- eta hidratazio-tratamenduak La Pelu de Tod@s-en
+1378	Buru-larruazalerako tratamenduak
+1379	Tratamenduak eta kolorea aurreko asteetan, behar badira.
+1380	Ibilbidea
+1381	=
+1382	Trikoskopia
+1383	Zure hitzordua hiru ukitutan
+1384	Zure edertasun- eta ongizate-gunea Bilbon.
+1385	Zure eguzki-txokoa Bilbotik atera gabe
+1386	Zure izena
+1387	Zure iritziak auzoko beste pertsona batzuei gu aurkitzen laguntzen die.
+1388	Zure ilea hobe daiteke. Lagunduko dizugu
+1389	Zure errutina
+1390	Teknika
+1391	Teknika aurreratua emaitza landuagoa lortzeko, dimentsio eta distira handiagoarekin.
+1392	Zuntza errespetatzen duten teknikak eta produktuak, ilea lehor gera ez dadin.
+1393	Zuk amestu kolorea eta nik egia bihurtuko dut. — Cova
+1394	Ukimenean nabaritzen den akabera zetatsua.
+1395	Ile-mozketa ona da guztiaren oinarria. Hari esker erortzen da ilea ondo garbitu berritan, distiratzen du koloreak eta ez duzu ordu erdiko lehorgailurik behar etxetik ateratzeko. La Pelu de Tod@s-en teknikaz eta lasai mozten dugu, zure ilea nola mugitzen den eta gero nola eramango duzun begiratuz.
+1396	Aldaketa polita ez da argazkian ateratzen dena: ispiluan begiratzean zure burua ezagutzen duzuna eta zuk zeuk orrazten dakizuna da.
+1397	Zu entzutearekin hasten den itxura-aldaketa
+1398	Ondo egindako ile-mozketak asteak geroago ere mantentzen du forma.
+1399	Ile-apaindegiko edozein egun

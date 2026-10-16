@@ -14,9 +14,13 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from content import (NEGOCIO as N, HORARIO, HORARIO_FILAS, RESENAS, CATEGORIAS,  # noqa: E402
-                     SERVICIOS, SERV, FAQ_GENERAL, QUIZ, CABECERAS_PELU)
+                     SERVICIOS, SERV, FAQ_GENERAL, QUIZ, CABECERAS_PELU, GLOSARIO, REELS,
+                     INSTAGRAM_POSTS, INSTAGRAM_FEED_URL, ANTES_DESPUES, EJEMPLOS_AD, MOSTRAR_EJEMPLOS_AD)
+import unicodedata  # noqa: E402
 
-VERSION = "4"
+SITE = "https://sefiro888.github.io/LaPeludetodos/"
+
+VERSION = "10"
 IA = ROOT / "assets" / "img" / "ia"
 e = escape
 
@@ -51,6 +55,7 @@ ICONOS = {
     "calendario": '<rect x="3.5" y="5" width="17" height="15.5" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>',
     "persona": '<circle cx="12" cy="8" r="4" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M4 21a8 8 0 0 1 16 0" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>',
     "mas": '<path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+    "play": '<path d="M8 5.5v13l11-6.5z" fill="currentColor"/>',
     "ruta": '<path d="M6 19a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM18 11a3 3 0 1 0 0-6 3 3 0 0 0 0 6ZM8.5 14.5 15.5 9.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>',
 }
 
@@ -110,9 +115,10 @@ def header(activo):
     <span class="estado" data-estado><span class="dot"></span><span class="estado-txt">Consultando horario…</span></span>
     <span class="topbar-mid">Carretera Circunvalación 15 · Errekalde, Bilbao</span>
     <span class="topbar-right">
+      <span class="lang" role="group" aria-label="Idioma / Hizkuntza"><a href="__HREF_ES__" hreflang="es" lang="es"__CUR_ES__>ES</a><a href="__HREF_EU__" hreflang="eu" lang="eu"__CUR_EU__>EU</a></span>
       <a href="tel:{N['tel_fijo_href']}">{ico('tel')} {N['tel_fijo']}</a>
-      <a href="{N['instagram']}" target="_blank" rel="noopener" aria-label="Instagram">{ico('ig')}</a>
-      <a href="{N['facebook']}" target="_blank" rel="noopener" aria-label="Facebook">{ico('fb')}</a>
+      <a class="sn sn--ig" href="{N['instagram']}" target="_blank" rel="noopener" aria-label="Instagram @lapeludet2">{ico('ig')}<span>Instagram</span></a>
+      <a class="sn sn--fb" href="{N['facebook']}" target="_blank" rel="noopener" aria-label="Facebook">{ico('fb')}<span>Facebook</span></a>
     </span>
   </div>
 </div>
@@ -129,12 +135,13 @@ def header(activo):
         {nav_mega()}
       </div>
       <div class="nav-item has-drop">
-        <button class="nav-link nav-btn" aria-expanded="false" aria-controls="drop-pelu"{' aria-current="page"' if activo == 'pelu' else ''}>La Pelu <span class="chev"></span></button>
+        <button class="nav-link nav-btn" aria-expanded="false" aria-controls="drop-pelu"{' aria-current="page"' if activo in ('pelu', 'glosario') else ''}>La Pelu <span class="chev"></span></button>
         <div class="drop" id="drop-pelu">
           <a href="sobre-cova.html"><strong>Sobre Cova</strong><span>Más de 30 años de oficio</span></a>
           <a href="espacio-para-todos.html"><strong>Un espacio para tod@s</strong><span>Inclusivo y seguro</span></a>
           <a href="galeria.html"><strong>Galería de trabajos</strong><span>Color, cortes y rizos reales</span></a>
           <a href="opiniones.html"><strong>Opiniones</strong><span>4,8 ★ en Google</span></a>
+          <a href="glosario.html"><strong>Glosario</strong><span>Las palabras de la pelu, explicadas</span></a>
         </div>
       </div>
       {a('ubicacion.html', 'Cómo llegar', 'ubicacion')}
@@ -178,17 +185,20 @@ def menu_movil():
       <a href="espacio-para-todos.html" class="mm-link"><em>04</em>Espacio para tod@s</a>
       <a href="galeria.html" class="mm-link"><em>05</em>Galería</a>
       <a href="opiniones.html" class="mm-link"><em>06</em>Opiniones</a>
-      <a href="ubicacion.html" class="mm-link"><em>07</em>Cómo llegar</a>
-      <a href="contacto.html" class="mm-link"><em>08</em>Contacto y cita</a>
+      <a href="glosario.html" class="mm-link"><em>07</em>Glosario</a>
+      <a href="ubicacion.html" class="mm-link"><em>08</em>Cómo llegar</a>
+      <a href="contacto.html" class="mm-link"><em>09</em>Contacto y cita</a>
     </nav>
     <div class="mm-actions">
       <a class="btn btn-brass" href="{wa('¡Hola Cova! Me gustaría pedir cita en La Pelu de Tod@s.')}" target="_blank" rel="noopener">{ico('wa')} WhatsApp</a>
       <a class="btn btn-ghost-light" href="tel:{N['tel_fijo_href']}">{ico('tel')} Llamar</a>
       <a class="btn btn-ghost-light" href="{N['maps_dir']}" target="_blank" rel="noopener">{ico('pin')} Cómo llegar</a>
     </div>
+    <div class="lang lang--menu" role="group" aria-label="Idioma / Hizkuntza"><a href="__HREF_ES__" hreflang="es" lang="es"__CUR_ES__>Castellano</a><a href="__HREF_EU__" hreflang="eu" lang="eu"__CUR_EU__>Euskara</a></div>
+    <p class="mm-social-t">Síguenos</p>
     <div class="mm-social">
-      <a href="{N['instagram']}" target="_blank" rel="noopener">{ico('ig')} @lapeludet2</a>
-      <a href="{N['facebook']}" target="_blank" rel="noopener">{ico('fb')} La pelu de todos</a>
+      <a class="sn-big sn--ig" href="{N['instagram']}" target="_blank" rel="noopener">{ico('ig')}<span><strong>Instagram</strong><small>@lapeludet2</small></span></a>
+      <a class="sn-big sn--fb" href="{N['facebook']}" target="_blank" rel="noopener">{ico('fb')}<span><strong>Facebook</strong><small>La pelu de todos</small></span></a>
     </div>
     <button class="paleta mm-paleta" data-paleta type="button"><span class="paleta-sw"></span><span class="paleta-txt"><span data-paleta-nombre>Paleta latón</span><small>Cambiar a la otra paleta</small></span></button>
     <div class="pride-line" aria-hidden="true"></div>
@@ -202,7 +212,7 @@ def hero(clave, eyebrow, h1, intro, ctas="", extra="", alto="", banco=False):
     stock = ROOT / "assets" / "img" / "stock" / f"{clave}.webp"
     if ia.exists():  # imagen generada por IA guardada por el cliente
         src_d = src_l = src_m = f"assets/img/ia/hero-{clave}.webp"
-    elif banco and CABECERAS_PELU == "banco" and stock.exists():  # banco de imágenes
+    elif (banco == "siempre" or (banco and CABECERAS_PELU == "banco")) and stock.exists():  # banco de imágenes
         src_d, src_l, src_m = (f"assets/img/stock/{clave}-1920.webp", f"assets/img/stock/{clave}.webp",
                                f"assets/img/stock/{clave}-m.webp")
     else:
@@ -281,7 +291,7 @@ def carrusel_resenas(titulo="Lo que dicen de Cova", sub="4,8 ★ de media en Goo
       </div>
     </div>
     <div class="carousel" data-carousel tabindex="0" aria-label="Reseñas de clientas">{cards}</div>
-    <p class="center mt-l"><a href="opiniones.html" class="link-light">Leer todas las opiniones {ico('flecha')}</a></p>
+    <p class="center mt-l rev-links"><a href="opiniones.html" class="link-light">Leer todas las opiniones {ico('flecha')}</a><a href="{N['resena_url']}" target="_blank" rel="noopener" class="link-light">{ico('estrella')} Valóranos en Google</a></p>
   </div>
 </section>"""
 
@@ -348,7 +358,7 @@ def cta_final(texto="¿Te damos cita?", sub="Escríbenos por WhatsApp y te respo
 <section class="cta-final">
   <div class="cta-bg" style="background-image:url('assets/img/hero/contacto-1920.webp')"></div>
   <div class="wrap cta-in">
-    <img src="assets/img/brand/logo-claro.png" alt="" class="cta-logo" loading="lazy">
+    <div class="cta-mark">{sello("sello--cta", "s2")}<img src="assets/img/brand/logo-claro.png" alt="" class="cta-logo" loading="lazy"></div>
     <h2 class="h2">{texto}</h2>
     <p class="lead lead--light">{sub}</p>
     <div class="btn-row center">
@@ -357,6 +367,45 @@ def cta_final(texto="¿Te damos cita?", sub="Escríbenos por WhatsApp y te respo
     </div>
   </div>
 </section>"""
+
+
+def banda_redes():
+    """Banda «Síguenos» con tarjetas grandes de cada red. Va antes del pie en todas las páginas."""
+    fotos = "".join(f'<img src="{foto(f, True)}" alt="" loading="lazy">' for _, f, _ in INSTAGRAM_POSTS[:3])
+    return f"""
+<section class="redes" aria-labelledby="t-redes">
+  <div class="wrap">
+    <div class="redes-head">
+      <p class="eyebrow">Síguenos</p>
+      <h2 id="t-redes" class="h2">El día a día de la pelu, en tus redes</h2>
+      <p class="lead">Trabajos recién hechos, trucos de Cova, promociones y los avisos de horario. Lo publicamos primero en Instagram y Facebook.</p>
+    </div>
+    <div class="redes-grid">
+      <a class="red red--ig" href="{N['instagram']}" target="_blank" rel="noopener">
+        <span class="red-top"><span class="red-ico">{ico('ig')}</span><span><strong>Instagram</strong><small>@lapeludet2</small></span></span>
+        <span class="red-fotos" aria-hidden="true">{fotos}</span>
+        <span class="red-datos"><b>+1.600</b> publicaciones · trabajos, reels y trucos</span>
+        <span class="red-btn">Seguir en Instagram {ico('flecha')}</span>
+      </a>
+      <a class="red red--fb" href="{N['facebook']}" target="_blank" rel="noopener">
+        <span class="red-top"><span class="red-ico">{ico('fb')}</span><span><strong>Facebook</strong><small>La pelu de todos</small></span></span>
+        <span class="red-big">5,0 <small>★</small></span>
+        <span class="red-datos"><b>+670</b> seguidores · el 100 % nos recomienda</span>
+        <span class="red-btn">Seguir en Facebook {ico('flecha')}</span>
+      </a>
+      <a class="red red--wa" href="{wa('¡Hola Cova! Me gustaría pedir cita.')}" target="_blank" rel="noopener">
+        <span class="red-top"><span class="red-ico">{ico('wa')}</span><span><strong>WhatsApp</strong><small>{N['movil']}</small></span></span>
+        <span class="red-big red-big--txt">Citas, dudas y fotos de lo que te apetece</span>
+        <span class="red-datos">Te respondemos en cuanto terminamos con la clienta del sillón</span>
+        <span class="red-btn">Escribir por WhatsApp {ico('flecha')}</span>
+      </a>
+    </div>
+  </div>
+</section>
+<aside class="sdock" aria-label="Redes sociales">
+  <a class="sn--ig" href="{N['instagram']}" target="_blank" rel="noopener" aria-label="Instagram @lapeludet2">{ico('ig')}<span>Instagram</span></a>
+  <a class="sn--fb" href="{N['facebook']}" target="_blank" rel="noopener" aria-label="Facebook">{ico('fb')}<span>Facebook</span></a>
+</aside>"""
 
 
 def footer():
@@ -369,14 +418,15 @@ def footer():
       <img src="assets/img/brand/logo-claro.png" alt="La Pelu de Tod@s · Covadonga Izquierdo · desde 1983" class="footer-logo" loading="lazy">
       <p>Peluquería, coloración natural con plantas, terapias capilares y bienestar en Errekalde, Bilbao. Un salón inclusivo, seguro y cercano, donde cada persona es bienvenida.</p>
       <div class="footer-social">
-        <a href="{N['instagram']}" target="_blank" rel="noopener" aria-label="Instagram">{ico('ig')}</a>
-        <a href="{N['facebook']}" target="_blank" rel="noopener" aria-label="Facebook">{ico('fb')}</a>
-        <a href="{wa('¡Hola!')}" target="_blank" rel="noopener" aria-label="WhatsApp">{ico('wa')}</a>
+        <a class="sn--ig" href="{N['instagram']}" target="_blank" rel="noopener" aria-label="Instagram">{ico('ig')}</a>
+        <a class="sn--fb" href="{N['facebook']}" target="_blank" rel="noopener" aria-label="Facebook">{ico('fb')}</a>
+        <a class="sn--wa" href="{wa('¡Hola!')}" target="_blank" rel="noopener" aria-label="WhatsApp">{ico('wa')}</a>
       </div>
+      <a class="f-review" href="{N['resena_url']}" target="_blank" rel="noopener">{estrellas()}<span>¿Ya nos conoces? <strong>Déjanos tu reseña en Google</strong></span></a>
     </div>
     <div><p class="f-title">Peluquería</p><ul>{serv('pelu')}</ul></div>
     <div><p class="f-title">Terapias y estética</p><ul>{serv('terapia')}{serv('estetica')}</ul>
-      <p class="f-title mt">La Pelu</p><ul><li><a href="sobre-cova.html">Sobre Cova</a></li><li><a href="espacio-para-todos.html">Espacio para tod@s</a></li><li><a href="galeria.html">Galería</a></li><li><a href="opiniones.html">Opiniones</a></li></ul></div>
+      <p class="f-title mt">La Pelu</p><ul><li><a href="sobre-cova.html">Sobre Cova</a></li><li><a href="espacio-para-todos.html">Espacio para tod@s</a></li><li><a href="galeria.html">Galería</a></li><li><a href="opiniones.html">Opiniones</a></li><li><a href="glosario.html">Glosario</a></li></ul></div>
     <div>
       <p class="f-title">Visítanos</p>
       <p>{e(N['direccion'])}<br>{e(N['barrio'])}<br>{N['cp']} {N['ciudad']} ({N['provincia']})</p>
@@ -387,7 +437,8 @@ def footer():
   </div>
   <div class="wrap footer-bottom">
     <span>© 2026 La Pelu de Tod@s · Covadonga Izquierdo</span>
-    <span>Web de demostración · Fotos: @lapeludet2</span>
+    <span class="lang lang--foot" role="group" aria-label="Idioma / Hizkuntza"><a href="__HREF_ES__" hreflang="es" lang="es"__CUR_ES__>Castellano</a><a href="__HREF_EU__" hreflang="eu" lang="eu"__CUR_EU__>Euskara</a></span>
+    <span>Web de demostración · Fotos: @lapeludet2 y Unsplash</span>
   </div>
 </footer>
 <nav class="actionbar" aria-label="Acciones rápidas">
@@ -397,6 +448,7 @@ def footer():
 </nav>
 <button class="paleta" data-paleta type="button" aria-label="Cambiar paleta de colores"><span class="paleta-sw"></span><span class="paleta-txt"><span data-paleta-nombre>Paleta latón</span><small>Toca para cambiar</small></span></button>
 <a class="wa-float" href="{wa('¡Hola Cova! Me gustaría pedir cita.')}" target="_blank" rel="noopener" aria-label="Escribir por WhatsApp">{ico('wa')}<span>¿Hablamos?</span></a>
+<div class="reel-modal" data-reel-modal hidden><div class="rm-box"><button class="rm-close" aria-label="Cerrar">{ico('x')}</button><div class="rm-frame"></div><a class="rm-link" href="{N['instagram']}" target="_blank" rel="noopener">{ico('ig')} Abrir en Instagram</a></div></div>
 <div class="lightbox" data-lightbox hidden><button class="lb-close" aria-label="Cerrar">{ico('x')}</button><button class="lb-prev" aria-label="Anterior">{ico('flecha', 'ico flip')}</button><img alt=""><button class="lb-next" aria-label="Siguiente">{ico('flecha')}</button><p class="lb-cap"></p></div>"""
 
 
@@ -419,7 +471,7 @@ def pagina(archivo, titulo, desc, activo, cuerpo, og="assets/img/brand/og.jpg", 
     if jsonld:
         ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>'
     html = f"""<!doctype html>
-<html lang="es">
+<html lang="__LANG__">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -430,11 +482,23 @@ def pagina(archivo, titulo, desc, activo, cuerpo, og="assets/img/brand/og.jpg", 
 <script>try{{if(localStorage.getItem("lpdt-paleta")==="mono")document.documentElement.dataset.theme="mono"}}catch(e){{}}</script>
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="La Pelu de Tod@s · Bilbao">
-<meta property="og:locale" content="es_ES">
+<meta property="og:locale" content="__LOCALE__">
+<link rel="alternate" hreflang="es" href="__ABS_ES__">
+<link rel="alternate" hreflang="eu" href="__ABS_EU__">
 <meta property="og:title" content="{e(titulo)}">
 <meta property="og:description" content="{e(desc)}">
-<meta property="og:image" content="{og}">
+<meta property="og:url" content="__ABS_SELF__">
+<meta property="og:image" content="__OGIMG__">
+<meta property="og:image:secure_url" content="__OGIMG__">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Logo de La Pelu de Tod@s · Covadonga Izquierdo · desde 1983">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{e(titulo)}">
+<meta name="twitter:description" content="{e(desc)}">
+<meta name="twitter:image" content="__OGIMG__">
+<link rel="canonical" href="__ABS_SELF__">
 <link rel="icon" href="assets/img/brand/favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="assets/img/brand/apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -444,44 +508,270 @@ def pagina(archivo, titulo, desc, activo, cuerpo, og="assets/img/brand/og.jpg", 
 {ld}
 </head>
 <body data-page="{activo}">
+<div class="splash" data-intro aria-hidden="true"><div class="splash-in"><img src="assets/img/brand/logo-claro.png" alt="" class="splash-logo"><div class="splash-cut"><span class="splash-line"></span><span class="splash-tijera">{ico('tijera')}</span></div></div></div>
+<script>(function(){{var d=document.querySelector("[data-intro]");try{{if(sessionStorage.getItem("lpdt-intro")||matchMedia("(prefers-reduced-motion: reduce)").matches){{d.remove();return}}sessionStorage.setItem("lpdt-intro","1")}}catch(e){{d.remove();return}}setTimeout(function(){{d&&d.remove()}},2300)}})();</script>
 {header(activo)}
 <main id="main">
 {cuerpo}
 </main>
+{banda_redes()}
 {footer()}
 <script>window.HORARIO={horario_js};</script>
 <script src="assets/js/site.js?v={VERSION}" defer></script>
 </body>
 </html>
 """
+    PAGINAS.append((archivo, html))
+    escribe(archivo, html, "es")
+    return archivo
+
+
+PAGINAS = []  # (archivo, html sin rematar) para generar la versión en euskera
+
+
+def escribe(archivo, html, lang):
+    """Remata la página (idioma, «@», medidas de imágenes, rutas) y la guarda."""
+    if lang == "es":
+        cambios = {"__HREF_ES__": archivo, "__HREF_EU__": f"eu/{archivo}", "__CUR_ES__": ' aria-current="true"', "__CUR_EU__": "",
+                   "__LANG__": "es", "__LOCALE__": "es_ES"}
+    else:
+        cambios = {"__HREF_ES__": f"../{archivo}", "__HREF_EU__": archivo, "__CUR_ES__": "", "__CUR_EU__": ' aria-current="true"',
+                   "__LANG__": "eu", "__LOCALE__": "eu_ES"}
+    cambios.update({"__ABS_ES__": SITE + archivo, "__ABS_EU__": SITE + "eu/" + archivo,
+                    "__ABS_SELF__": SITE + ("" if lang == "es" else lang + "/") + ("" if archivo == "index.html" else archivo),
+                    "__OGIMG__": SITE + "assets/img/brand/" + ("og.jpg" if lang == "es" else f"og-{lang}.jpg") + f"?v={VERSION}"})
+    for k, v in cambios.items():
+        html = html.replace(k, v)
     # la «@» de Fraunces es poco legible: en el texto visible se compone con Manrope
     cab, sep, resto = html.partition("<body")
+
     def _at(m):
         txt = m.group(1)
         if "@s" not in txt:
             return m.group(0)
         return '><span class="atw">' + txt.replace("@s", '<span class="at">@</span>s') + "</span><"
     resto = re.sub(r">([^<]*)<", _at, resto)
-    resto = re.sub(r'(<option[^>]*>)([^<]*)<span class="at">@</span>s', r"@s", resto)
     html = cab + sep + resto
     # ancho y alto en cada imagen local: reserva su hueco y evita saltos al cargar
-    html = re.sub(r'<img src="(assets/[^"]+)"(?![^>]*width=)', _con_medidas, html)
-    (ROOT / archivo).write_text(html, encoding="utf-8")
-    return archivo
+    html = re.sub(r'<img src="(assets/[^"]+)"(?![^>]*width=)', _con_medidas, html)
+    destino = ROOT / archivo
+    if lang != "es":
+        html = re.sub(r'((?:src|href|srcset|poster|data-lb|data-img|data-src|data-video)=")assets/', r"\1../assets/", html)
+        html = html.replace("url('assets/", "url('../assets/")
+        destino = ROOT / lang / archivo
+        destino.parent.mkdir(exist_ok=True)
+    destino.write_text(html, encoding="utf-8")
 
 
 JSONLD_NEGOCIO = {
-    "@context": "https://schema.org", "@type": "HairSalon", "name": "La Pelu de Tod@s",
-    "image": "assets/img/brand/og.jpg", "telephone": "+34946240479",
+    "@context": "https://schema.org", "@type": "HairSalon", "@id": SITE + "#negocio",
+    "name": "La Pelu de Tod@s", "alternateName": "La Pelu De Todos · Covadonga Izquierdo",
+    "slogan": "Una peluquería dedicada a tod@s y para tod@s",
+    "url": SITE, "image": SITE + "assets/img/brand/og.jpg", "logo": SITE + "assets/img/brand/logo-negro.png",
+    "telephone": "+34946240479", "priceRange": "€€", "currenciesAccepted": "EUR",
     "address": {"@type": "PostalAddress", "streetAddress": "Carretera Circunvalación 15, local 5",
                 "addressLocality": "Bilbao", "postalCode": "48002", "addressRegion": "Bizkaia", "addressCountry": "ES"},
     "geo": {"@type": "GeoCoordinates", "latitude": N["lat"], "longitude": N["lng"]},
-    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "26"},
+    "hasMap": N["maps"],
+    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.8", "reviewCount": "26", "bestRating": "5"},
     "openingHoursSpecification": [
         {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday", "Wednesday", "Thursday", "Friday"], "opens": "09:30", "closes": "18:00"},
         {"@type": "OpeningHoursSpecification", "dayOfWeek": "Saturday", "opens": "09:00", "closes": "14:00"}],
-    "sameAs": [N["instagram"], N["facebook"]],
+    "contactPoint": [{"@type": "ContactPoint", "telephone": "+34676679807", "contactType": "reservations", "availableLanguage": ["es"]}],
+    "founder": {"@type": "Person", "name": "Covadonga Izquierdo", "jobTitle": "Estilista y colorista"},
+    "amenityFeature": [
+        {"@type": "LocationFeatureSpecification", "name": "Wi-Fi gratuito", "value": True},
+        {"@type": "LocationFeatureSpecification", "name": "Acceso a pie de calle", "value": True},
+        {"@type": "LocationFeatureSpecification", "name": "Aseos inclusivos", "value": True},
+        {"@type": "LocationFeatureSpecification", "name": "LGBTQ+ friendly", "value": True}],
+    "makesOffer": [{"@type": "Offer", "itemOffered": {"@type": "Service", "name": s["nombre"], "url": SITE + s["slug"] + ".html"}}
+                   for s in SERVICIOS],
+    "sameAs": [N["instagram"], N["facebook"], N["treatwell"], N["maps"]],
 }
+
+
+# ------------------------------------------------------------------ detalles de autor: sello y corte
+def sello(cls="", uid="s"):
+    """Sello circular con el lema que gira al hacer scroll."""
+    return (f'<div class="sello {cls}" aria-hidden="true" data-sello><svg viewBox="0 0 200 200">'
+            f'<defs><path id="sello-{uid}" d="M100,100 m-78,0 a78,78 0 1,1 156,0 a78,78 0 1,1 -156,0"/></defs>'
+            f'<text><textPath href="#sello-{uid}" startOffset="0">LA PELU DE TOD@S · DESDE 1983 · COVADONGA IZQUIERDO ·</textPath></text>'
+            f'</svg><span class="sello-c">{ico("tijera")}</span></div>')
+
+
+def corte():
+    """Línea discontinua que unas tijeras «cortan» al aparecer en pantalla."""
+    return f'<div class="corte reveal" aria-hidden="true"><span class="corte-linea"></span><span class="corte-tijera">{ico("tijera")}</span></div>'
+
+
+# ------------------------------------------------------------------ antes y después
+AD_DIR = ROOT / "assets" / "img" / "antes-despues"
+
+
+def pares_ad(servicio=None):
+    """Pares reales (si existen) o, si no, los ejemplos de demostración."""
+    reales = [p for p in ANTES_DESPUES if (AD_DIR / f"{p['id']}-antes.webp").exists()
+              and (servicio is None or p["servicio"] == servicio)]
+    if reales:
+        return [(p, False) for p in reales]
+    if not MOSTRAR_EJEMPLOS_AD:
+        return []
+    return [(p, True) for p in EJEMPLOS_AD if servicio is None or p["servicio"] == servicio]
+
+
+def ba_slider(p, ejemplo):
+    base = f"assets/img/antes-despues/{p['id']}"
+    demo = '<span class="ba-demo">Ejemplo de demostración</span>' if ejemplo else ""
+    serv = SERV.get(p["servicio"])
+    enlace = f'<a class="link" href="{serv["slug"]}.html">{e(serv["nombre"])} {ico("flecha")}</a>' if serv else ""
+    return f"""
+<figure class="ba reveal">
+  <div class="ba-box" data-ba style="--pos:50%">
+    <img src="{base}-despues.webp" alt="Después: {e(p['titulo'])}" class="ba-img" loading="lazy" draggable="false">
+    <div class="ba-before"><img src="{base}-antes.webp" alt="Antes: {e(p['titulo'])}" loading="lazy" draggable="false"></div>
+    <span class="ba-tag ba-tag--a">Antes</span><span class="ba-tag ba-tag--d">Después</span>
+    <span class="ba-handle" aria-hidden="true"><i>{ico('flecha', 'ico flip')}{ico('flecha')}</i></span>
+    <input type="range" min="0" max="100" value="50" class="ba-range" aria-label="Desliza para comparar el antes y el después">
+    {demo}
+  </div>
+  <figcaption><strong>{e(p['titulo'])}</strong><span>{e(p['texto'])}</span>{enlace}</figcaption>
+</figure>"""
+
+
+def seccion_antes_despues(servicio=None, titulo="Antes y después", sub="Desliza la barra para comparar."):
+    pares = pares_ad(servicio)
+    if not pares:
+        return ""
+    if servicio:
+        pares = pares[:2]
+    nota = ""
+    if any(ej for _, ej in pares):
+        nota = ('<p class="ba-note">' + ico("chispa") + '<span><strong>Ejemplo de demostración.</strong> Así funcionará con las '
+                'fotos reales de Cova: en cuanto las tengamos, sustituyen a estos ejemplos.</span></p>')
+    sliders = "".join(ba_slider(p, ej) for p, ej in pares)
+    return f"""
+<section class="section ad-sec" id="antes-despues" aria-labelledby="t-ad-{servicio or 'todo'}">
+  <div class="wrap">
+    <div class="sec-head"><p class="eyebrow">Desliza y compara</p><h2 id="t-ad-{servicio or 'todo'}" class="h2">{e(titulo)}</h2>
+    <p class="lead">{e(sub)}</p>{nota}</div>
+    <div class="ba-grid ba-grid--{len(pares)}">{sliders}</div>
+  </div>
+</section>"""
+
+
+# ------------------------------------------------------------------ reels
+def reel_card(codigo, titulo):
+    video = ROOT / "assets" / "video" / f"{codigo}.mp4"
+    poster = f"assets/img/reels/{codigo}.webp"
+    if video.exists():
+        media = (f'<video class="reel-video" muted loop playsinline preload="none" poster="{poster}" data-autoplay>'
+                 f'<source src="assets/video/{codigo}.mp4" type="video/mp4"></video>')
+        data_video = f"assets/video/{codigo}.mp4"
+    else:
+        media = f'<img src="{poster}" alt="" loading="lazy">'
+        data_video = ""
+    return f"""
+<figure class="reel reveal">
+  <button class="reel-btn" type="button" data-reel="{codigo}" data-video="{data_video}" aria-label="Ver el vídeo: {e(titulo)}">
+    {media}
+    <span class="reel-play">{ico('play')}</span>
+    <span class="reel-ig">{ico('ig')} Reel</span>
+    <span class="reel-title">{e(titulo)}</span>
+  </button>
+</figure>"""
+
+
+def seccion_reels(lista, titulo, sub):
+    if not lista:
+        return ""
+    cards = "".join(reel_card(c, t) for c, t, _ in lista)
+    return f"""
+<section class="section section--ink reels-sec" aria-labelledby="t-reels-{lista[0][0]}">
+  <div class="wrap">
+    <div class="sec-head sec-head--row">
+      <div><p class="eyebrow eyebrow--light">En vídeo · @lapeludet2</p><h2 id="t-reels-{lista[0][0]}" class="h2">{e(titulo)}</h2>
+      <p class="lead lead--light">{e(sub)}</p></div>
+      <a class="btn btn-ghost-light" href="{N['instagram']}reels/" target="_blank" rel="noopener">{ico('ig')} Todos los reels</a>
+    </div>
+    <div class="reels reels--{min(len(lista), 4)}" data-reels>{cards}</div>
+  </div>
+</section>"""
+
+
+# ------------------------------------------------------------------ Instagram en directo
+def muro_instagram():
+    posts = "".join(
+        f'<a class="ig-post" href="https://www.instagram.com/p/{c}/" target="_blank" rel="noopener">'
+        f'<img src="{foto(f, True)}" alt="Publicación de @lapeludet2" loading="lazy">'
+        f'<span class="ig-cap">{ico("ig")}<span>{e(t)}</span></span></a>'
+        for c, f, t in INSTAGRAM_POSTS[:8])
+    return f"""
+<section class="section section--bone ig-sec" aria-labelledby="t-ig">
+  <div class="wrap">
+    <div class="sec-head sec-head--row">
+      <div><p class="eyebrow"><span class="live" data-ig-live hidden><i></i> En directo</span> @lapeludet2</p>
+      <h2 id="t-ig" class="h2">Recién salidas del sillón</h2>
+      <p class="lead">Lo último que publica Cova en Instagram, aquí mismo.</p></div>
+      <div class="btn-row"><a class="btn btn-outline" href="galeria.html">Galería</a><a class="btn btn-ink" href="{N['instagram']}" target="_blank" rel="noopener">{ico('ig')} Síguenos</a></div>
+    </div>
+    <div class="ig-grid" data-ig-feed="{e(INSTAGRAM_FEED_URL)}">{posts}</div>
+  </div>
+</section>"""
+
+
+# ------------------------------------------------------------------ glosario
+def _sin_tildes(t):
+    return "".join(c for c in unicodedata.normalize("NFD", t.lower()) if unicodedata.category(c) != "Mn")
+
+
+def _id_termino(t):
+    return "t-" + re.sub(r"[^a-z0-9]+", "-", _sin_tildes(t)).strip("-")
+
+
+def chips_glosario(slug):
+    terminos = [t for t, _, _, rel in GLOSARIO if rel == slug]
+    if not terminos:
+        return ""
+    chips = "".join(f'<a class="gl-chip" href="glosario.html#{_id_termino(t)}">{e(t)}</a>' for t in terminos)
+    return f'<div class="gl-chips"><p class="gl-chips-t">{ico("lupa")} Palabras que oirás en la cita</p>{chips}</div>'
+
+
+def pagina_glosario():
+    h = hero("glosario", "La Pelu · Glosario", "Las palabras de la pelu, explicadas",
+             "Balayage, matiz, henna, keratina, fade… Todo lo que oyes en el sillón, contado en una línea y sin tecnicismos.",
+             ctas_cita("¡Hola Cova! He leído el glosario y tengo una duda.", ("Ver servicios", "servicios.html")), banco="siempre")
+    orden = sorted(GLOSARIO, key=lambda x: _sin_tildes(x[0]))
+    grupos = {}
+    for item in orden:
+        grupos.setdefault(_sin_tildes(item[0])[0].upper(), []).append(item)
+    letras = "".join(f'<a href="#letra-{l.lower()}">{l}</a>' for l in grupos)
+    bloques = ""
+    for letra, items in grupos.items():
+        cards = ""
+        for t, cat, d, rel in items:
+            enlace = f'<a class="link" href="{rel}.html">{e(SERV[rel]["nombre"])} {ico("flecha")}</a>' if rel in SERV else ""
+            buscar = e(_sin_tildes(f"{t} {cat} {d}"))
+            cards += (f'<article class="gl-item" id="{_id_termino(t)}" data-gl="{buscar}"><p class="gl-cat">{e(cat)}</p>'
+                      f'<h3>{e(t)}</h3><p>{e(d)}</p>{enlace}</article>')
+        bloques += f'<div class="gl-group" id="letra-{letra.lower()}" data-gl-group><h2 class="gl-letter">{letra}</h2><div class="gl-cards">{cards}</div></div>'
+    cuerpo = f"""{h}
+<section class="section gl-sec" aria-label="Glosario">
+  <div class="wrap gl-wrap">
+    <aside class="gl-tools">
+      <label class="gl-search">{ico('lupa')}<input type="search" placeholder="Busca: balayage, henna, matiz…" data-gl-search aria-label="Buscar en el glosario"></label>
+      <nav class="gl-letras" aria-label="Letras">{letras}</nav>
+      <p class="gl-count" data-gl-count>{len(GLOSARIO)} palabras</p>
+      <p class="muted small">¿Falta alguna? Pregúntale a Cova por WhatsApp y la añadimos.</p>
+    </aside>
+    <div class="gl-list">{bloques}<p class="gl-empty" data-gl-empty hidden>No encontramos esa palabra. Escríbenos y te la explicamos.</p></div>
+  </div>
+</section>
+{cta_final('¿Te ha quedado alguna duda?', 'Cova te lo explica encantada antes de empezar cualquier servicio.', '¡Hola Cova! Tengo una duda sobre un tratamiento.')}"""
+    return pagina("glosario.html", "Glosario de peluquería · La Pelu de Tod@s · Bilbao",
+                  "Glosario de peluquería: balayage, matiz, henna, índigo, keratina, fade, babylights y más, explicados de forma sencilla por La Pelu de Tod@s.",
+                  "glosario", cuerpo,
+                  jsonld={"@context": "https://schema.org", "@type": "DefinedTermSet", "name": "Glosario de peluquería · La Pelu de Tod@s",
+                          "hasDefinedTerm": [{"@type": "DefinedTerm", "name": t, "description": d} for t, _, d, _ in GLOSARIO]})
 
 
 # ------------------------------------------------------------------ asistente de cita
@@ -529,6 +819,8 @@ def pagina_servicio(s):
     migas = f'<nav class="crumbs wrap" aria-label="Ruta"><a href="index.html">Inicio</a><span>/</span><a href="servicios.html">Servicios</a><span>/</span><span>{e(cat_t)}</span></nav>'
     toc_items = [("que-es", "Qué es"), ("beneficios", "Beneficios"), ("para-quien", "Para quién"), ("pasos", "La sesión"),
                  ("opciones", "Opciones")]
+    if pares_ad(s["slug"]):
+        toc_items.append(("antes-despues", "Antes y después"))
     if s["galeria"]:
         toc_items.append(("trabajos", "Trabajos"))
     toc_items += [("cuidados", "Cuidados")]
@@ -602,6 +894,7 @@ def pagina_servicio(s):
       <h2 id="t-que" class="h2">¿En qué consiste?</h2>
       {que}
       <blockquote class="pull">{e(s['destacado'])}</blockquote>
+      {chips_glosario(s['slug'])}
     </div>
     <div class="split-media reveal">
       <figure class="frame"><img src="{foto(galeria_lateral)}" alt="{e(s['nombre'])} en La Pelu de Tod@s" loading="lazy"></figure>
@@ -642,7 +935,10 @@ def pagina_servicio(s):
     <div class="opts">{opciones}</div>
   </div>
 </section>
+{seccion_antes_despues(s['slug'])}
 {gal}
+{seccion_reels([r for r in REELS if r[2] == s['slug']], "Míralo en vídeo", "Procesos y resultados reales grabados en el salón.") if any(r[2] == s['slug'] for r in REELS) else ""}
+{corte()}
 <section class="section" id="cuidados" aria-labelledby="t-cuid">
   <div class="wrap split">
     <div class="split-txt">
@@ -656,6 +952,7 @@ def pagina_servicio(s):
   </div>
 </section>
 {mitos}
+{corte()}
 <section class="section section--bone" id="preguntas" aria-labelledby="t-faq">
   <div class="wrap faq-grid">
     <div><p class="eyebrow">Dudas frecuentes</p><h2 id="t-faq" class="h2">Preguntas sobre {e(s['nombre'].lower())}</h2>
@@ -691,7 +988,8 @@ def pagina_servicio(s):
 {cta_final()}"""
     return pagina(f"{s['slug']}.html", f"{s['nombre']} en Bilbao · La Pelu de Tod@s", s["meta"],
                   "servicios", cuerpo, jsonld={"@context": "https://schema.org", "@type": "Service", "name": s["nombre"],
-                                               "provider": {"@type": "HairSalon", "name": "La Pelu de Tod@s"},
+                                               "provider": {"@type": "HairSalon", "@id": SITE + "#negocio", "name": "La Pelu de Tod@s"},
+                                               "url": SITE + s["slug"] + ".html",
                                                "areaServed": "Bilbao", "description": s["meta"]})
 
 
@@ -725,6 +1023,7 @@ def pagina_inicio():
       <p class="eyebrow">Nuestra filosofía</p>
       <h2 id="t-intro" class="display">«Un salón inclusivo, seguro y pensado para cuidar de ti de forma cercana, donde cada persona es bienvenida.»</h2>
       <p class="sign">— Cova Izquierdo</p>
+      {sello("sello--intro", "s1")}
     </div>
     <div class="intro-stats">
       <div class="stat reveal"><strong data-count="1983">1983</strong><span>Desde entonces con tijeras en la mano</span></div>
@@ -772,6 +1071,7 @@ def pagina_inicio():
   </div>
 </section>
 
+{corte()}
 <section class="section section--bone quiz" aria-labelledby="t-quiz">
   <div class="wrap">
     <div class="sec-head center"><p class="eyebrow">Test rápido</p><h2 id="t-quiz" class="h2">¿Qué necesita tu pelo hoy?</h2>
@@ -840,13 +1140,9 @@ def pagina_inicio():
   </div>
 </section>
 
-<section class="section section--bone strip-sec" aria-labelledby="t-strip">
-  <div class="wrap sec-head sec-head--row">
-    <div><p class="eyebrow">@lapeludet2</p><h2 id="t-strip" class="h2">Recién salidas del sillón</h2></div>
-    <div class="btn-row"><a class="btn btn-outline" href="galeria.html">Galería</a><a class="btn btn-ink" href="{N['instagram']}" target="_blank" rel="noopener">{ico('ig')} Síguenos</a></div>
-  </div>
-  <div class="strip" data-strip><div class="strip-track">{strip}{strip}</div></div>
-</section>
+{seccion_antes_despues(None, "Antes y después", "Desliza la barra y compara. Así cambia una melena en manos de Cova.")}
+{seccion_reels(REELS, "La pelu en vídeo", "Procesos, trucos y resultados grabados en el salón. Pulsa para verlos.")}
+{muro_instagram()}
 
 {carrusel_resenas()}
 
@@ -860,8 +1156,8 @@ def pagina_inicio():
 
 {bloque_visita()}
 {cta_final()}"""
-    return pagina("index.html", "La Pelu de Tod@s · Peluquería, coloración vegetal y bienestar en Bilbao",
-                  "Peluquería en Errekalde (Bilbao) de Cova Izquierdo: corte, color, coloración vegetal con plantas, diagnóstico y láser capilar, presoterapia y solárium. Espacio inclusivo. 4,8 ★ en Google.",
+    return pagina("index.html", "La Pelu de Tod@s ✂️ Peluquería y bienestar en Bilbao",
+                  "La peluquería de Cova Izquierdo en Errekalde desde 1983. Corte, color y coloración 100 % vegetal, terapias capilares y bienestar en un espacio para tod@s. ★ 4,8 en Google · Pide tu cita por WhatsApp.",
                   "inicio", cuerpo, jsonld=JSONLD_NEGOCIO)
 
 
@@ -949,6 +1245,7 @@ def pagina_cova():
     </div>
   </div>
 </section>
+{seccion_reels([r for r in REELS if r[2] == "sobre-cova"], "Cova, en primera persona", "Pulsa y escucha a Cova contarte cómo trabaja.")}
 <section class="section section--bone" aria-labelledby="t-tl">
   <div class="wrap">
     <div class="sec-head"><p class="eyebrow">Trayectoria</p><h2 id="t-tl" class="h2">Una vida entre tijeras</h2></div>
@@ -1078,6 +1375,8 @@ def pagina_galeria():
     <p class="center mt-l"><a class="btn btn-ink" href="{N['instagram']}" target="_blank" rel="noopener">{ico('ig')} Ver más en @lapeludet2</a></p>
   </div>
 </section>
+{seccion_antes_despues(None, "Antes y después", "Desliza para comparar.")}
+{muro_instagram()}
 {cta_final('¿Quieres ser la siguiente?')}"""
     return pagina("galeria.html", "Galería de trabajos · La Pelu de Tod@s · Bilbao",
                   "Galería de trabajos reales de La Pelu de Tod@s: color, mechas, balayage, colores fantasía, coloración vegetal, cortes, rizos y recogidos.",
@@ -1123,7 +1422,7 @@ def pagina_opiniones():
     <p class="eyebrow">¿Ya nos conoces?</p>
     <h2 id="t-tu" class="h2">Cuéntanos qué tal tu experiencia</h2>
     <p class="lead">Tu opinión ayuda a otras personas del barrio a encontrarnos.</p>
-    <div class="btn-row center"><a class="btn btn-ink" href="{N['maps']}" target="_blank" rel="noopener">{estrellas()} Dejar reseña en Google</a></div>
+    <div class="btn-row center"><a class="btn btn-ink" href="{N['resena_url']}" target="_blank" rel="noopener">{estrellas()} Escribir mi reseña en Google</a></div>
   </div>
 </section>
 {cta_final()}"""
@@ -1245,8 +1544,24 @@ def pagina_404():
     return pagina("404.html", "Página no encontrada · La Pelu de Tod@s", "Página no encontrada.", "", cuerpo)
 
 
-if __name__ == "__main__":
+def genera():
     hechas = [pagina_inicio(), pagina_servicios()]
     hechas += [pagina_servicio(s) for s in SERVICIOS]
-    hechas += [pagina_cova(), pagina_espacio(), pagina_galeria(), pagina_opiniones(), pagina_ubicacion(), pagina_contacto(), pagina_404()]
-    print(f"{len(hechas)} páginas generadas")
+    hechas += [pagina_cova(), pagina_espacio(), pagina_galeria(), pagina_opiniones(), pagina_ubicacion(), pagina_contacto(),
+               pagina_glosario(), pagina_404()]
+    return hechas
+
+
+def genera_euskera():
+    """Versión en euskera en /eu/, traduciendo el HTML con i18n/eu.json."""
+    from i18n import Traductor
+    tr = Traductor("eu")
+    for archivo, html in PAGINAS:
+        escribe(archivo, tr.traduce(html), "eu")
+    return tr.guarda_pendientes("eu")
+
+
+if __name__ == "__main__":
+    hechas = genera()
+    faltan = genera_euskera()
+    print(f"{len(hechas)} páginas generadas (+{len(hechas)} en euskera · {faltan} textos sin traducir en i18n/pendientes-eu.txt)")

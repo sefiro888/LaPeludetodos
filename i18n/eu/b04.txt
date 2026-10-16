@@ -1,0 +1,280 @@
+820	Zaindu zure puntak: aldizkako mozketak forma mantentzeko.
+821	Nire kizkurrak ez dira definitzen
+822	Mitoa
+823	Mitoak
+824	Mitoak eta errealitateak
+825	Asteazkena
+826	Mocha mousse, gurin-horia, gerezi-gorria, kobrea… aukeratzen laguntzen dizugu.
+827	Moldeatua
+828	Mugimendu naturala
+829	Eraldaketa asko hobeto ateratzen dira bizpahiru bisitatan, batez ere kolorea asko argitu edo aldatu behar bada.
+830	Emakume bat buru
+831	Emakumea, gizona, unisex, txikiak. Etiketarik gabe.
+832	Aldaketa bat nahi duten edo, besterik gabe, beren ile-mozketa ezin hobeto mantendu nahi duten emakumeak.
+833	Iritzien horma
+834	Jarraitasun handiagoa, emaitza hobeak eta prezio hobea.
+835	Erosoagoa eta merkeagoa, tratamendua jarraitasunez osatzeko.
+836	30 urtetik gorako ofizioa
+837	30 urtetik gorako teknika, prestakuntza eta ile-apainketarekiko maitasuna.
+838	Hiru hamarkada baino gehiago Euskal Herrian ilea mozten, koloreztatzen eta orrazten. Ile-mozketan eta kolorean espezialista.
+839	Dentsitate, distira eta indar gehiago aplikazio bakoitzarekin.
+840	Dentsitate eta gorputz gehiago, eta distira ikusgarria.
+841	Iraupen luzeagoa
+842	Mimatu zeure burua 5 € gehiagoren truke
+843	Mimatu zeure burua pixka bat gehiago
+844	Ikusi bideoan
+845	=
+846	Mugikorra
+847	Emakumeen jabetzako negozio gisa identifikatua, auzo-arimarekin.
+848	Neutralizatu edo berotu egiten dugu tonu zehatza lortzeko.
+849	Ez goian zapalduta ez behean triangelu itxuran.
+850	Neskak eta mutilak, baita urduriagoak ere: esku ona dugu txikiekin.
+851	Ez du amoniakorik, PPDrik ez erresortzinolik.
+852	Ez dugu hitz hori aurkitu. Idatziguzu eta azalduko dizugu.
+853	Ez da tratamendu estetiko bat bakarrik: osasuna eta ongizatea ere bada. Odol- eta linfa-zirkulazioa estimulatzen du, likido-atxikipena murrizten du, zelulitisari eta hanka nekatuen sentsazioari aurre egiten laguntzen du, toxinak kentzea errazten du eta gorputza lasaitu eta arintzen du.
+854	Ez da pisua galtzeko tratamendu bat; atxikitako likidoak kentzen laguntzen du eta azalaren itxura hobetzen du.
+855	Ez dago mirakulurik, baina bai ezagutza, esperientzia eta produktu eraginkorrak. Eta gure % 100 produktu naturalekin, zure ileak elikadura, distira eta leuntasuna jasotzen ditu, zure osasuna eta planetarena zaintzen dituzun bitartean.
+856	Ez dago mirakulurik, baina bai ezagutza, esperientzia eta produktu eraginkorrak. Benetako aholkularitza, kerik gabe.
+857	Ez dugu aurkitu, baina gainerako guztia bere tokian dago.
+858	Ez da ezer gertatzen. Gaur aldaketa leunagoa egin dezakegu eta hurrengo bisitan aurrera egin. Hemen inork ez zaitu bultzatzen.
+859	Ez, tratamendu erosoa eta minik gabea da.
+860	Ez. Ile-laserrak buruko ilea estimulatzen du; laser bidezko depilazioak gorputzeko iletxoak kentzen ditu. Teknologia desberdinak dira.
+861	Ez. Azterketa estetikoa eta ile-zaintzakoa da. Behar duen zerbait ikusten badugu, mediku espezialista batekin kontsultatzea gomendatuko dizugu.
+862	Ez. Buru-larruazalaren eta ilearen behaketa bat da, ezer inbaditzailerik gabe.
+863	Ez. Zerbitzua, luzera eta lana dira kontuan hartzen direnak, inoiz ez generoa.
+864	Ez. Lehen ileurdinetarako gure zerbitzuak ileurdina bakarrik estaltzen du, zure kolore naturala aldatu gabe.
+865	Ez: landare-koloreztatzeak ez du zure kolore naturala argitzen. Bai, ordea, zure oinarriaren gainean tonu eta ñabardura asko lortzea.
+866	Ez: depilazioak gorputzeko iletxoak kentzen ditu, eta ile-laserrak buruko ilea estimulatzen du.
+867	Zer bilatzen duzun kontatzen diguzu, argazkiak badituzu erakusten dizkiguzu eta zure errutinaz hitz egiten dugu.
+868	Berritasuna
+869	Berritasunak
+870	Ezkongaiak eta gonbidatuak
+871	Itxura natural, dotore eta beren estiloari leiala bilatzen duten ezkongaiak.
+872	Ezkongaiak eta ekitaldiak
+873	Gure filosofia
+874	Gure historia
+875	Gure konpromisoa
+876	Gure apaindegia ideia argi batekin jaio zen: ile-apaindegi zurrunekin haustea eta bezeroarekiko tratua entzute aktiboan eta elkarrenganako konfiantzan oinarritzen den topagune bat sortzea. Urteekin, gure bezeroak ez dira erabiltzaile hutsak: lagunak dira.
+877	Gure zerbitzu izarra · % 100 naturala
+878	Ile-osasuneko gure tratamendu izarra. % 100 landare-koloreztatzea, zuntza kaltetu beharrean inguratzen duena: ileurdinak isla naturalekin estaltzen ditu eta distira terapeutiko ikusgarria itzultzen du.
+879	Gure balioak
+880	Elikadura intentsiboa
+881	Elikadura intentsiboa / elikadura extra
+882	Buru-larruazalaren eta ilearen behaketa handitua, mikrokamera batekin. Ile-diagnostikoaren oinarria da.
+883	Buru-larruazalaren behaketa
+884	Aldizkako eskaintzak: galdetu.
+885	Ofizioa
+886	=
+887	Uhinak eta gorputza, akabera naturalarekin.
+888	Uhinak, leun leundua, erdi-bildumak…
+889	Gorputza ematen duen uhindura leun eta iraunkorra. Permanente bat baino arinagoa da.
+890	Aukerakoa
+891	Aukerak
+892	Zerbitzuaren aukerak
+893	Zure etxera edo ekitaldiaren lekura joateko aukera (kontsultatu).
+894	Iritziak
+895	Benetako iritziak
+896	La Pelu de Tod@s-i buruzko benetako iritziak Bilbon: 4,8 ★ Googlen 26 iritzirekin, 5,0 Treatwellen eta Facebooken.
+897	Iritziak · 4,8 ★ Googlen · La Pelu de Tod@s
+898	Oxidatzailea
+899	=
+900	Ezkongaien pack-a
+901	Hitzorduan entzungo dituzun hitzak
+902	Letoi paleta
+903	Papera, eskuz margotua edo teknika mistoak, bilatzen den efektuaren arabera.
+904	Bateragarritasuna ziurtatzeko, batez ere aurretik landareak edo henna erabili badira.
+905	Ohiko bezeroentzat: erosoa, merkea eta zure erritmora egokitua.
+906	Itxura akabera ezin hobe batekin osatzeko.
+907	Mugimendua emateko, pisua kentzeko eta aurpegia markoan jartzeko.
+908	Udarako edo udazken hezerako: agur frizzari.
+909	Hasteko eta zure buru-larruazalak nola erantzuten duen baloratzeko.
+910	Forma finkatzeko, ilea harrotu gabe.
+911	Ohiko bezeroentzat
+912	Ezkongaientzat beti gomendatzen dugu: horrela xehetasun guztiak doitzen ditugu eta ezkontza-egunean lasai joaten zara.
+913	Gure ezkongaientzat espazio berezi bat dugu: orrazkera eta kolore proba, aholkularitza pertsonalizatua eta bildumak klasikoak, erromantikoak edo modernoak. Zure ezkontza-egunean zu zeu sentitzea merezi duzulako, baina inoiz baino distiratsuago. Eta behar baduzu, kontsultatu lekualdatzeko aukera.
+914	Ile lehor, itzali edo deshidratatuarentzat.
+915	Txikientzat eta familientzat, maitasun handiz.
+916	Emaitzak indartzeko
+917	Zure tratamendua indartzeko
+918	Probatzeko edo hanka nekatuen egun baterako.
+919	Zure leuntzeak gehiago iraun dezan
+920	Zure ile-mozketak gehiago iraun dezan
+921	Zure fantasiak iraun dezan
+922	Fantasiazko kolore batek distira dezan teknika behar da: oinarria prestatzea (batzuetan argituz), pigmentu egokia aukeratzea eta modu uniformean aplikatzea. Horrela, kolorea bizia geratzen da eta denbora gehiagoz mantentzen da polit.
+923	Aldizka tindatzen denarentzat: erosoak, merkeak eta zure erritmora egokituak.
+924	Norentzat
+925	Norentzat da
+926	Pertsona guztientzat
+927	Oinarri ilunen gaineko tonu pastel edo argietarako, normalean bai. Zurekin baloratzen dugu eta zuntza zaintzen dugu.
+928	Zure itxaronaldietarako eta esposizio-denboretarako.
+929	Zure itxaronaldietarako eta prozesu teknikoetarako.
+930	Brontzeztatze polit eta seguru baterako
+931	Noizbehinkako kolore-ukitu baterako.
+932	Parafenilendiamina: tindagai kimiko askoren pigmentua eta alergien ohiko arrazoia. Landare-koloreztatzeak ez du.
+933	Zure azalera eta iletxoetara egokitutako parametroak.
+934	Tonu batetik bestera igarotzea, argiztatzea edo zure ileurdinak pixkanaka erakustea.
+935	Urratsez urrats
+936	Jarraibidea
+937	Zaintza-jarraibideak
+938	Jarraibideak zure azal motaren arabera.
+939	Jarraibideak eta jarraipena
+940	Eskatu hitzordua
+941	Eskatu hitzordua WhatsAppez
+942	Orrazkera
+943	Jaunartzeko orrazkera
+944	Ilea eusten den orrazkera (mototsa, txirikordak, erdi-bilduma). Ezteietan eta ekitaldietan ohikoa.
+945	Orrazkera azkarragoa
+946	Orrazkera eta makillajea
+947	Orrazkera eta makillajea lasai, presarik gabe.
+948	Orrazkera eta jarraibideak
+949	Orrazkera, makillajea eta aurretiko proba
+950	Jai-orrazkerak
+951	Ezkongaien orrazkerak, bildumak eta makillajea Bilbon ezteietarako, jaunartzeetarako eta ekitaldietarako. Aurretiko proba eta lekualdatzeko aukera.
+952	Gorputza, bolumena eta uhin iraunkorrak bilatzen dituen ile leun eta mehea.
+953	Ile-apaindegia
+954	Egile-ile-apainketa, ile-terapiak eta gorputzaren ongizatea apaindegi berean.
+955	Cova Izquierdoren ile-apaindegia Errekalden (Bilbo): ile-mozketa, kolorea, landareekin koloreztatzea, ile-diagnostikoa eta ile-laserra, presoterapia eta solariuma. Espazio inklusiboa. 4,8 ★ Googlen.
+956	Ile-apaindegia eta ongizatea · Errekalde, Bilbo
+957	Ile-apainketa eta estilismoa
+958	Ile-apainketa eta estilismoa, ile-terapia aurreratuak eta estetika eta gorputzaren ongizatea. Zerbitzu bakoitza gauza berarekin hasten da: zu entzutearekin.
+959	Ile-apaindegia · Frizzaren aurkakoa
+960	Ile-apaindegia · Itxura-aldaketa
+961	Ile-apaindegia · Kolorea
+962	Ile-apaindegia · Kolore sortzailea
+963	Ile-apaindegia · Ile-mozketak
+964	Ile-apaindegia · Ile-zaintza
+965	Ile-apaindegia · Argiztatzea
+966	Ile-apaindegia · Une bereziak
+967	Ile-apaindegia · Testurak
+968	Ile-apaindegia, landareekin koloreztatze naturala, ile-terapiak eta ongizatea Errekalden, Bilbon. Apaindegi inklusiboa, segurua eta hurbila, non pertsona oro ongi etorria den.
+969	Egun handiko itxura denboraz eta aurretiko probarekin pentsatzea.
+970	Azaleko barrunbe txikia, ile bakoitza jaio eta hazten den lekua.
+971	Atea zeharkatzen duzunetik etxean bezala sentiarazten zaituzten keinu txikiak.
+972	=
+973	Permanenteak eta moldeatuak, gorputza eta uhinak emateko.
+974	Pertsonalizatua
+975	Kontraindikazio dermatologikorik ez duten heldu guztiak.
+976	Buru-larruazal sentikorra, narritadurak edo ohiko tindagaiekiko alergiak dituzten pertsonak.
+977	Irtenbide iraunkor eta erosoa bilatzen duten pertsonak.
+978	Denbora asko lehorgailuarekin eta plantxarekin ematen duten pertsonak.
+979	Unisex ile-mozketak edo ohikoaz kanpokoak nahiago dituzten pertsonak.
+980	Eskatu hitzordua La Pelu de Tod@s-en WhatsAppez (676 67 98 07) edo telefonoz (946 24 04 79). Circunvalación errepidea 15, Errekalde, Bilbo.
+981	Eskatu zure hitzordua
+982	Eskatu hurrengo hitzordua irtetean: horrela zure ile-mozketak ez du inoiz forma galtzen.
+983	Azal leuna
+984	Azal leuna, garbia eta iletxorik gabea
+985	Pentsatu goizero zenbat denbora eman nahi diozun: bost minutuk edo ordu erdiak diseinua aldatzen dute.
+986	Hanka nekatuak edo puztuak
+987	Egunaren amaieran hanka nekatuak, astunak edo puztuak.
+988	Hanka arinak eta drainatze linfatikoa
+989	Hanka arinak, gorputza atseden hartuta
+990	Hankak, bizkarra, besoak…
+991	Pigmentu profesionalak tonu bizi eta uniformeetarako.
+992	Saio-plana
+993	Landarea (Lawsonia inermis), tonu gorrixka eta kobrekaretan tindatzen duena, indartzen duena eta distira ematen duena. Landare-nahasketa askoren oinarria da.
+994	«Henna neutroa» izenez ezagutzen den landarea. Distira eta gorputza ematen ditu eta, nahasketan, isla urrekarak ileurdinen gainean.
+995	Tonu hotz eta ilunak ematen dituen landarea. Hennarekin nahastuta, gaztainkarak eta beltzak ematen ditu.
+996	WhatsAppez 676 67 98 07 zenbakira edo telefonoz 946 24 04 79 zenbakira. Larunbatetan, aurretiko hitzorduarekin bakarrik.
+997	Zergatik aukeratu
+998	Zergatik «Tod@s»
+999	Noski. La Pelu de Tod@s gara: ile-mozketa daramanarentzat da.
+1000	Porositatea
+1001	Porositatea, elastikotasuna, puntak eta aurreko prozesuen kalteak.
+1002	Landare-koloreak denbora horretan zehar oxidatzen jarraitzen duelako; horrela tonua finkatu eta bizitu egiten da.
+1003	Galdetu WhatsAppez
+1004	Galdetu bonuei buruz
+1005	Galderak
+1006	Ohiko galderak
+1007	Leuntzeei eta frizzaren aurkako keratinari buruzko galderak
+1008	Irudi-aholkularitzari eta bisajismoari buruzko galderak
+1009	Landareekin eta buztinekin egindako landare-koloreztatzeari buruzko galderak
+1010	Koloreztatzeari eta ileurdinen estaldurari buruzko galderak
+1011	Fantasiazko koloreei buruzko galderak
+1012	Emakume, gizon eta txikientzako ile-mozketei buruzko galderak
+1013	Laser bidezko depilazioari buruzko galderak
+1014	Ile-diagnostiko pertsonalizatuari buruzko galderak
+1015	Ile-laser bioestimulatzaileari buruzko galderak
+1016	Metxei, balayageari eta islei buruzko galderak
+1017	Presoterapiari buruzko galderak
+1018	Bildumei, ezkongaiei eta ekitaldiei buruzko galderak
+1019	Kizkurrei, permanenteei eta moldeatuei buruzko galderak
+1020	Solariumari buruzko galderak
+1021	Elikadura- eta hidratazio-tratamenduei buruzko galderak
+1022	Galdetu hurrengo saioko promozioei buruz.
+1023	Prestatu zure hitzordu-mezua
+1024	Prestaketa
+1025	Ilearen prestaketa
+1026	Oinarria prestatzen dugu koloreak gehiago iraun dezan.
+1027	Azala prestatzea uda edo opor batzuk baino lehen.
+1028	=
+1029	Presoterapia + kolorea
+1030	Presoterapia + kolorea (5 € gehiago)
+1031	Presoterapia Bilbon · La Pelu de Tod@s
+1032	Presoterapia Bilbon: drainatze linfatikoa, hanka nekatuak, likido-atxikipena eta zelulitisa. Gehitu zure kolore-zerbitzuari 5 € gehiagoren truke soilik.
+1033	Presoterapia La Pelu de Tod@s-en
+1034	Presoterapia zure kolorea finkatzen den bitartean
+1035	Presoterapia 5 € gehiagoren truke soilik
+1036	Lehen solasaldia
+1037	Lehen ileurdinak
+1038	Lehenik zaindu egiten dugu. Tratamendu bat edo osasuntze-mozketa bat proposatuko dizugu edozein prozesu gogorren aurretik.
+1039	Nagusia
+1040	Probatu eta doitu egiten dugu, asko gustatu arte.
+1041	Ilearen forma modu iraunkorrean leunetik kizkurrera aldatzen duen prozesua.
+1042	Ilearen pigmentua kentzen duen prozesua, argitzeko. Zuntza babesteko kontrolatzen da.
+1043	Apaindegian grabatutako benetako prozesuak eta emaitzak.
+1044	Apaindegian grabatutako prozesuak, trikimailuak eta emaitzak. Sakatu ikusteko.
+1045	Tindagaiarekin nahasten den produktua, kolorea gara dadin. Haren bolumenak zenbat argitzen duen adierazten du.
+1046	Produktu egokiak: krema definitzaileak, gel leunak edo olio arinak, zure kizkurraren arabera.
+1047	Hezetasuna atxikitzen duten produktu espezifikoak.
+1048	Produktu eta ohitura zehatzak, azalduta.
+1049	Produktuak eta teknika etxean errepikatzeko.
+1050	Presio-programa
+1051	Promozioak
+1052	Proposamena
+1053	Babes termikoa beti plantxaren edo kizkurgailuaren aurretik.
+1054	Babestu kloroaren eta ur gaziaren aurka produktu espezifiko batekin.
+1055	Babestu ilea eguzkitik eta klorotik, batez ere udan.
+1056	Zuntza babesten du
+1057	Babestu ilea eguzkitik eta klorotik: landare-kolorea garaiz aurretik argi dezakete.
+1058	Argitzean zehar zuntza babesten dugu.
+1059	Ilearen proteina. Keratina-tratamenduak zuntza bete eta leuntzen du, bolumena eta frizza kontrolatzeko.
+1060	Orrazkera-proba (eta makillajea)
+1061	Aurretiko proba
+1062	Aurretiko proba, orrazkera, makillajea eta aholkularitza pertsonalizatua.
+1063	@lapeludet2-ren argitalpena
+1064	Sakatu eta entzun Covari nola lan egiten duen kontatzen.
+1065	Punta osasuntsuak
+1066	Ez da orria aurkitu · La Pelu de Tod@s
+1067	Ez da orria aurkitu.
+1068	Edertasun kontzienteagoa eta ingurumenarekiko errespetuzkoagoa bilatzen duena.
+1069	Labanaz, argizariaz eta ile txertatuez nekatuta dagoena.
+1070	Ileurdinak modu naturalean estali nahi dituena, kolore-bloke baten ordez islekin.
+1071	Orrazkera desberdin bat nahi duena, besterik gabe gogoa duelako.
+1072	Urteetan plantxa erabili ondoren bere kizkur naturalera itzuli nahi duena.
+1073	Landare-kolorea erabiltzen duena eta hidratazio naturala nahi duena.
+1074	Ileurdinak produktu kimikorik gabe estali nahi ditut
+1075	Beltzaran jarri nahi dut
+1076	Erabateko aldaketa nahi dut
+1077	Nor dago atzean
+1078	Zer da
+1079	Zer egiten dugun
+1080	Zer falta zaion zure ileari: ura, elikadura, indarra edo oreka.
+1081	Zer nahi duzun, zerk molestatzen zaituen zure egungo ile-mozketan eta nola orrazten zaren.
+1082	Bizarra kendu (inoiz ez argizariarekin) eremuan 24 ordu lehenago.
+1083	Bizarra kendu eremuan aurreko egunean eta saihestu eguzkia aurreko asteetan.
+1084	Kolore-izpiak zure oinarri naturalaren gainean.
+1085	Erroa edo osoa, esposizio-denbora kontrolatuarekin.
+1086	Errealitatea
+1087	Besaulkitik atera berriak
+1088	Bilduma
+1089	Bildumak
+1090	Festa osoan irauten duten bildumak.
+1091	Bildumak, ezkongaiak eta ekitaldiak
+1092	Bildumak, ezkongaiak eta ekitaldiak Bilbon · La Pelu de Tod@s
+1093	Bildumak, ezkongaiak eta ekitaldiak La Pelu de Tod@s-en
+1094	Bildumak, orrazkerak eta makillajea ezteietarako, jaunartzeetarako, bataioetarako eta ospakizunetarako. Ezkongaientzat, aurretiko proba eta aholkularitza pertsonalizatua. Naturala, dotorea eta estresik gabe.
+1095	Moztu puntak 6–8 astean behin ilea laburra baduzu, eta 2–3 hilean behin luzea baduzu.
+1096	Aldizkako mozketek, 2–3 hilean behin, forma mantentzen dute eta punta irekiak saihesten dituzte.
+1097	Udaren ondorengo berreskurapena (eguzkia, itsasoa, kloroa).
+1098	Ilearen berreskurapen sakona
+1099	Berreskurapen sakona ile kaltetuentzat, udaren ondoren edo udazkenean.

@@ -6,13 +6,17 @@ const path = require('node:path');
 const fs = require('node:fs');
 const { chromium } = require(path.join(process.env.APPDATA, 'npm/node_modules/playwright'));
 const only = process.argv[2];
-const pages = fs.readdirSync(path.join(__dirname, '..')).filter(f => f.endsWith('.html') && (!only || f.startsWith(only)));
+// «eu/» como prefijo revisa la versión en euskera
+const sub = only && only.startsWith('eu/') ? 'eu/' : '';
+const pref = sub ? only.slice(3) : only;
+const pages = fs.readdirSync(path.join(__dirname, '..', sub)).filter(f => f.endsWith('.html') && (!pref || f.startsWith(pref))).map(f => sub + f);
 const views = [['escritorio', { width: 1440, height: 900 }, false], ['móvil', { width: 390, height: 844 }, true]];
 (async () => {
   const browser = await chromium.launch();
   let fallos = 0;
   for (const file of pages) for (const [name, vp, mobile] of views) {
     const page = await browser.newPage({ viewport: vp, isMobile: mobile, hasTouch: mobile });
+    await page.addInitScript(() => { try { sessionStorage.setItem('lpdt-intro', '1'); } catch (e) {} });
     await page.addInitScript(() => {
       window.__cls = 0;
       new PerformanceObserver(l => l.getEntries().forEach(e => { if (!e.hadRecentInput) window.__cls += e.value; }))

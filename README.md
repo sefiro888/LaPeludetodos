@@ -9,7 +9,7 @@ Peluquería y bienestar de **Covadonga «Cova» Izquierdo**, en Carretera Circun
 - **Tipografías:** Fraunces para los titulares editoriales, Oswald para las etiquetas (recuerda al «Covadonga Izquierdo» del sello) y Manrope para el texto.
 - **Logo:** versión negra y versión clara (invertida en tono hueso) en `assets/img/brand/`.
 
-## Páginas (24)
+## Páginas (25 en castellano + 25 en euskera)
 - `index.html`: portada con
   - cabecera panorámica y estado «abierto ahora»
   - cinta de servicios en movimiento
@@ -20,8 +20,10 @@ Peluquería y bienestar de **Covadonga «Cova» Izquierdo**, en Carretera Circun
   - Cova
   - franja «Espacio para tod@s»
   - promociones (presoterapia por 5 €, color exprés, bonos)
-  - fotos de Instagram en movimiento
-  - reseñas reales en carrusel
+  - **antes y después** con barra deslizante
+  - **reels** de Instagram con reproductor
+  - **muro de Instagram** (preparado para ir en directo)
+  - reseñas reales en carrusel, con enlace directo para valorar en Google
   - preguntas frecuentes, horario y mapa
 - `servicios.html`: carta completa por categorías, con los bonos y las ventajas.
 - **15 páginas de servicio.** Cada una tiene:
@@ -31,6 +33,8 @@ Peluquería y bienestar de **Covadonga «Cova» Izquierdo**, en Carretera Circun
   - 6 beneficios
   - para quién es y la cita paso a paso
   - opciones, cada una con su botón de WhatsApp
+  - «Palabras que oirás en la cita», que enlazan al glosario
+  - antes y después, y reels del servicio cuando los hay
   - trabajos reales con visor
   - consejos de cuidado, y mitos y realidades
   - preguntas frecuentes
@@ -39,7 +43,8 @@ Peluquería y bienestar de **Covadonga «Cova» Izquierdo**, en Carretera Circun
   - Peluquería: asesoría de imagen, cortes, coloración, mechas y balayage, colores fantasía, **coloración vegetal (estrella)**, alisados y keratina, rizos y permanentes, novias y eventos, tratamientos de nutrición.
   - Terapias capilares: diagnóstico capilar y láser capilar.
   - Estética: presoterapia, solárium y depilación láser (sesión mensual).
-- `sobre-cova.html` (historia, trayectoria, valores, marcas), `espacio-para-todos.html` (LGBTQ+ friendly, safe space trans), `galeria.html` (51 trabajos con filtro y visor), `opiniones.html` (nota, palabras clave y muro de reseñas), `ubicacion.html` (mapa, cómo llegar, horario), `contacto.html` (canales, reserva guiada y preguntas frecuentes) y `404.html`.
+- `sobre-cova.html` (historia, trayectoria, valores, marcas), `espacio-para-todos.html` (LGBTQ+ friendly, safe space trans), `galeria.html` (51 trabajos con filtro y visor), `opiniones.html` (nota, palabras clave y muro de reseñas), `ubicacion.html` (mapa, cómo llegar, horario), `contacto.html` (canales, reserva guiada y preguntas frecuentes), **`glosario.html`** (42 palabras de la pelu con buscador e índice A–Z) y `404.html`.
+- **`eu/`**: la web entera en **euskera**, con selector ES/EU en la barra superior, en el menú móvil y en el pie. Los mensajes de WhatsApp, el horario «abierto ahora» y el asistente de cita también salen en euskera.
 
 ## Menú
 - **Escritorio:** barra superior con estado del horario, cabecera transparente que se vuelve sólida al bajar y se esconde al seguir bajando, y **mega menú** de servicios con vista previa de foto en cada servicio. Desplegable «La Pelu».
@@ -59,11 +64,37 @@ Ahora mismo, las 10 páginas de **peluquería y estilismo** llevan una cabecera 
 
 No se ha borrado nada: los trípticos originales siguen en `assets/img/hero/` y los de banco en `assets/img/stock/`. Para cambiar alguna foto de banco, edita `scripts/prepare_stock.py` y ejecuta `python scripts/prepare_stock.py`. Los créditos están en `CREDITOS-IMAGENES.md`.
 
+## Mejoras de la segunda ronda
+| Mejora | Dónde | Guía |
+| --- | --- | --- |
+| Muro de Instagram «en directo» | Portada y galería | `INSTAGRAM-EN-DIRECTO.md` |
+| Reels integrados | Portada, Sobre Cova y 4 servicios | `INSTAGRAM-EN-DIRECTO.md` |
+| Antes y después (con ejemplos de demostración) | Portada, galería y servicios | `ANTES-DESPUES.md` |
+| Ficha de Google: botón directo de reseña + datos estructurados | Pie, opiniones y carrusel | `FICHA-GOOGLE.md` |
+| Glosario | `glosario.html` y enlaces desde los servicios | — |
+| Versión en euskera | `eu/` | más abajo |
+| Detalles de autor | Animación de entrada con tijeras (solo en la primera visita de la sesión), sello «La Pelu de Tod@s · desde 1983» que gira al hacer scroll y tijeras que «cortan» una línea entre secciones | — |
+
+Todas respetan la opción del sistema «reducir movimiento».
+
+## Al compartir el enlace (WhatsApp, Facebook, X…)
+Cada página lleva imagen de 1200×630 con el logo (`assets/img/brand/og.jpg`, y `og-eu.jpg` en euskera; se regeneran con `python scripts/og.py`), título y descripción propios, con direcciones completas para que WhatsApp los cargue.
+
+## Euskera
+- `python build.py` genera `/eu/` traduciendo el HTML con `i18n/eu.json`.
+- Las traducciones están en `i18n/eu/b*.txt` (número de texto según `i18n/cadenas-bloques.json`) y en `i18n/eu/extra.tsv` (castellano⇥euskera, para textos nuevos). Se unen con `python scripts/compila_eu.py`.
+- Si añades textos nuevos, `python build.py` los lista en `i18n/pendientes-eu.txt`: cópialos a `extra.tsv` con su traducción. Hasta entonces se ven en castellano.
+- Las reseñas de clientas se mantienen en el idioma original.
+- **Conviene que una persona euskaldun revise la traducción antes de publicar.**
+
 ## Editar
 - Textos y datos: `scripts/content.py`
 - Plantillas: `build.py`. Después ejecuta `python build.py`.
 - Estilos: `assets/css/site.css` · interacción: `assets/js/site.js`
-- Revisión: `python scripts/check.py` (enlaces e imágenes) y `node scripts/shots.cjs <carpeta>` (capturas y desbordes; usa Playwright global).
+- Revisión (usa Playwright global y el servidor local en 5240):
+  - `python scripts/check.py`: enlaces e imágenes de las 50 páginas
+  - `node scripts/shots.cjs <carpeta> [eu/]`: capturas y desbordes
+  - `node scripts/scrolltest.cjs [eu/]`: rebotes de scroll y saltos de contenido
 
 ## Fuentes de información
 - Material facilitado por el cliente.

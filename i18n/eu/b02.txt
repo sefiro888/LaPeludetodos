@@ -1,0 +1,280 @@
+260	Koloreztatzea eta ileurdinen estaldura Bilbon · La Pelu de Tod@s
+261	Koloreztatzea eta ileurdinen estaldura La Pelu de Tod@s-en
+262	Denboraldiko koloreak
+263	Fantasiazko koloreak
+264	Fantasiazko koloreak Bilbon · La Pelu de Tod@s
+265	Fantasiazko koloreak Bilbon: arrosa, urdina, lila, gorria eta fantasiazko metxak, teknika profesionalarekin eta ilearen osasuna zainduz.
+266	Fantasiazko koloreak La Pelu de Tod@s-en
+267	Fantasiazko koloreak, aldaketa erradikalak edo klasikoena: zure irudia, zure arauak.
+268	Konbinatu biak emaitza orekatu eta begi-bistakoa lortzeko.
+269	Ondo konbinatzen da honekin
+270	Konbinagarria
+271	Ile-mozketa batekin konbinatuta, emaitza ikusgarria da.
+272	Henna, indigoa, cassia edo amla konbinatzen ditugu nahi den tonuaren arabera.
+273	Ebakuntzen ondoren osagarri gisa, beti zure medikuaren oniritziarekin.
+274	Erosotasuna eta pribatutasuna
+275	Bilakaera hurrengo bisitetan alderatzen dugu.
+276	Osagarri ezin hobea
+277	Zure ilea kolorerako edo leuntzerako prest dagoela egiaztatzen dugu.
+278	Prestaketa onarekin eta etxeko zaintzekin askoz gehiago irauten dute.
+279	Maitasunez, pazientziaz eta txikientzat esperientzia dibertigarri batekin.
+280	Denborarekin, tratua adiskidetasun bihurtzen da. Hemen etxean bezala sentitzen zara.
+281	Buru-larruazalaren handitze-irudiarekin eta ile-hariaren azterketarekin arazoak identifikatzen ditugu: ile lehorra edo hauskorra, punta irekiak, hauts-ezkatak edo narritadura, koipe gehiegi, azkura edo bolumen eta dentsitate falta. Hortik abiatuta, zuretzako tratamendu eta zaintza ezin hobeak gomendatzen dizkizugu.
+282	Keratinarekin ile leunagoa, hidratatuagoa eta mugimenduduna lortzen dugu: frizza kontrolatzen du, distira eta leuntasuna ematen ditu, bolumena modu naturalean murrizten du eta goizero orraztea askoz errazagoa egiten du. Ile kizkur, uhindun, bihurri edo kaltetuentzat aproposa da.
+283	Moldeatuarekin, saihestu tratamendu gogorrak lehen egunetan eta mantendu hidratazioa.
+284	Zerekin lan egiten dugun
+285	Zure oinarrizko tonuarekin bat egiten duten islekin.
+286	Guraizeekin eta labanarekin, estiloaren arabera, bolumena eta erorketa berrikusiz.
+287	Tratamendu topikoekin eta etxeko errutinarekin.
+288	Diagnostiko on batekin eta egungo produktuekin, emaitza leuna eta zaindua da.
+289	Formula egokiarekin, teknika onarekin eta ondorengo zaintzekin, ilea lehen baino distiratsuago gera daiteke.
+290	Konfiantza
+291	Ezagutu Cova
+292	Ezagutu Covadonga «Cova» Izquierdo, 30 urtetik gorako esperientzia duen estilista eta Bilboko Errekaldeko La Pelu de Tod@s-en arima.
+293	Covaren aholkuak
+294	Ile bihurria menderatzeko aholkuak
+295	Iraunkortasuna eta diagnostikoa: ile-erorketaren tratamendu batek benetan funtziona dezan bi gakoak.
+296	Kontsultatu aurretik botika fotosentsibilizatzailerik hartzen baduzu edo aldatzen diren orinik badituzu.
+297	Ordutegia kontsultatzen…
+298	Kontsultatu aukera hau
+299	Kontaktua
+300	Kontaktua eta hitzordua
+301	Kontaktua eta hitzordua · La Pelu de Tod@s · Bilbo
+302	Zuntzaren kontrola
+303	Harrotzea kontrolatzen du
+304	Kopiatu helbidea
+305	Moztu puntak: lehortasuna kenduko duzu eta ilea osasuntsuago ikusiko da.
+306	Kaltetutako puntak bakarrik moztea, ilea indartsu ikus dadin eta osasuntsu hazi dadin.
+307	Ile-mozketa
+308	Masailezurraren altuerako ile-mozketa (bob) edo masailezurraren eta sorbalden artekoa (long bob). Zuzena, testuraduna edo kopetearekin.
+309	Kizkurrari egokitutako ile-mozketa edo moldeatzerako prestaketa.
+310	Asmoa duen ile-mozketa
+311	Ile-mozketa laburra fantasiazko kolore arrosa eta lilarekin
+312	Mutilentzako ile-mozketa: freskoa, definitua eta zure estilokoa.
+313	Ile-mozketa espezifikoa
+314	Haurrentzako ile-mozketa
+315	Ile-mozketa edo prestaketa
+316	Mutilentzako ile-mozketa
+317	Kizkurrentzako ile-mozketa
+318	Garondoan eta alboetan oso laburretik goian luzeagora igarotzen den ile-mozketa, jauzirik gabe.
+319	Unisex ile-mozketa
+320	Ile-mozketa eta kolorea
+321	Ile-mozketa, kolorea eta orrazkera, benetako aholkularitzarekin
+322	Ile-mozketak
+323	Ofizioa duten ile-mozketak guztiontzat
+324	Emakume, gizon eta txikientzako ile-mozketak
+325	Emakume, gizon eta txikientzako ile-mozketak Bilbon · La Pelu de Tod@s
+326	Emakume, gizon eta txikientzako ile-mozketak La Pelu de Tod@s-en
+327	Ile-mozketak Bilbon emakume, gizon eta haurrentzat: bob, geruzak, fade, testuradun mozketak eta unisex, 30 urtetik gorako esperientziarekin.
+328	Kizkur naturalerako ile-mozketak, permanenteak eta iraupen luzeko moldeatuak. Badakigu ile kizkurrak mimoa, teknika eta produktu espezifikoak behar dituela.
+329	Etiketarik gabeko ile-mozketak
+330	Unisex ile-mozketak, etiketarik gabe
+331	Ile-mozketak · La Pelu de Tod@s
+332	Ile-mozketak, koloreztatzea, metxak, landare-koloreztatzea, leuntzeak, kizkurrak, ezkongaiak, ile-diagnostikoa eta ile-laserra, presoterapia, solariuma eta laser bidezko depilazioa Bilbon.
+333	Laburrak, 4–6 astean behin; ile erdi-luzeak, 6–8 astean behin; ile luzeak, 2–3 hilean behin osasuntzeko.
+334	Kosmetika naturala
+335	Kosmetika naturala La Pelu de Tod@s-en
+336	Cova bezero eta lagunekin
+337	Cova bezero batekin
+338	Cova bezero bati ilea mozten
+339	Covak hiru hamarkada baino gehiago daramatza ilea mozten, eta xehetasunetan nabaritzen da: zurrunbiloak errespetatzeko moduan, soberan dagoen bolumena kentzeko moduan eta puntak uzteko moduan, mozketa polit hazi dadin.
+340	Covak ongietorria ematen dizu
+341	Covak pozik azalduko dizu edozein zerbitzu hasi aurretik.
+342	Cova, lehen pertsonan
+343	Cova: hiru hamarkada moztu aurretik entzuten
+344	=
+345	Covadonga Izquierdo · 1983tik
+346	Covadonga «Cova» Izquierdo, Euskal Herrian estetikaren sektorean hiru hamarkada baino gehiagoko ibilbidea duen estilista sutsua.
+347	Polit hazten da
+348	Krema definitzaileak, gel leunak edo olio arinak, zure kizkurraren arabera. Zuretzat pertsonalizatzen dugu.
+349	Edozein argitzek eragina du zuntzean, baina prozesuan zehar eta ondoren hidratazioa zaintzen dugu, kaltea ahalik eta txikiena izan dadin.
+350	Zenbat eta lehenago hobe, batez ere maiatzetik irailera eta Gabonetan.
+351	Ileurdinak estaltzen ditu
+352	Ileurdina bakarrik estaltzen dugu, zure kolore naturala aldatu gabe: azkarra, diskretua eta naturala.
+353	Zure ileurdinak denbora gutxian estaltzen ditugu, kalitateari uko egin gabe.
+354	Buru-larruazala + zuntza + plan pertsonalizatua.
+355	Buru-larruazal koipetsua, narritatua edo desorekatua.
+356	Buru-larruazal garbia eta argia jasotzeko prest.
+357	Buru-larruazal osasuntsua
+358	Galdetegia
+359	Planeta zaintzen du
+360	Zaindu elikadura eta atsedena; estresak eragina du ile-erorketan.
+361	Zaindu zure kolorea etxean
+362	Kontuz burko-azal eta eskuoihal argiekin lehen egunetan.
+363	Etxeko zaintza
+364	Zaintzak
+365	Gorputzaren zaintzak, apaindegi berean
+366	Argitze bakoitzean zuntza zaintzen dugu.
+367	Kutikula
+368	Noiz etorri
+369	Kolore batek zenbat ileurdin estaltzen dituen: denak, zati bat (urtze naturala) edo lehenengoak bakarrik.
+370	Kontaiguzu nolako esperientzia izan duzun
+371	Kontaiguzu aurreko tratamenduak (tindagaiak, leuntzeak, henna): egin dezakeguna baldintzatzen dute.
+372	Kontaiguzu. Zure erritmoan goaz, urrats bakoitza azaltzen dugu eta nahi duzunean gelditzen gara.
+373	Plus kodea
+374	Nola zaindu zure ile kizkurra (naturala edo moldeatuarekin)
+375	Nola zaindu zure ile kizkurra, naturala edo moldeatuarekin.
+376	Nola zaindu zure landare-koloreztatzea etxean
+377	Nolakoa da saioa
+378	Nola iritsi
+379	Nola iritsi · La Pelu de Tod@s · Errekalde, Bilbo
+380	Nola prestatu itxura-aldaketako zure hitzordua
+381	Nola zaintzen zaitugun
+382	Eroso, jarrera lasaian.
+383	Modu naturalean, ohol-efekturik gabe, nahi ez baduzu.
+384	Beste tratamendu estetiko eta osasun-tratamendu batzuena.
+385	Tonu uniforme eta ilun batetik argia eta dimentsioa dituen ile batera.
+386	Ile itzali batetik islak, distira eta gorputza dituen gaztainkara batera.
+387	Dekoloratzea
+388	Definizioa
+389	Degradatua (fade)
+390	Degradatu argitsua, aproposa ukitu etengaberik gabeko akabera naturala bilatzen baduzu.
+391	Erro ilunetik punta argietara doan degradatu nabarmena. Bertsio leunari sombré deitzen zaio.
+392	Produktuak itsu-itsuan probatzeari uzten diozu.
+393	Harrotutik ispilu-leunera
+394	Eremuaren, zure azalaren eta zure iletxoen araberakoa da. Lehen hitzorduan baloratzen dizugu.
+395	Kolorea barne hartzen duen ala ez. WhatsApp bidez hitzordua eskatzean, kontaiguzu zer egin nahi zenukeen eta behar den denbora gordeko dizugu.
+396	Zure ilearen, garbiketen eta erabiltzen dituzun produktuen araberakoa da. Ahalik eta gehien luzatzeko jarraibideak ematen dizkizugu.
+397	Ile-mozketaren araberakoa da, ez luzeraren araberakoa. Badira mozketa labur leunak, testuradunak edo kopetedunak, ia aurpegi guztiei ondo datozkienak.
+398	Diagnostikoaren araberakoa da. Zure neurriko plana proposatzen dizugu.
+399	Zure ilearen egoeraren araberakoa da. Batzuetan saio bat eta etxeko errutina ona nahikoak dira.
+400	Helburuaren araberakoa da. Likido-atxikipenerako edo zelulitiserako, bonu batekin jarraitasuna izatea da onena.
+401	Kizkurraren eta mozketaren araberakoa da. Zurekin baloratzen dugu kizkurraren forma naturala errespetatzeko.
+402	Ile motaren eta zaintzen araberakoa da. Nola luzatu azaltzen dizugu.
+403	Tonuaren eta zure oinarriaren araberakoa da; askotan nahikoa da koloreztatu beharreko guneak bakarrik argitzea.
+404	Tonuaren, zure porositatearen eta garbiketen araberakoa da. Luzatzeko jarraibideak ematen dizkizugu.
+405	Laser bidezko depilazioa
+406	Azken belaunaldiko laser bidezko depilazioa gure hileko saioan (astelehen goiz batean). Azal mota guztietarako tratamendu pertsonalizatuak. Plaza mugatuak.
+407	Laser bidezko depilazioa Bilbon · La Pelu de Tod@s
+408	Laser bidezko depilazioa Bilbon: hileko saioa La Pelu de Tod@s-en, azal mota guztietarako tratamendu pertsonalizatuak eta promozioak.
+409	Laser bidezko depilazioa La Pelu de Tod@s-en
+410	Berehalako atsedena
+411	Asteko atsedena
+412	Ezagutu
+413	Ezagutu landare-koloreztatzea
+414	Orduz geroztik guraizeak eskuan
+415	Errekaldeko merkataritza-gunetik (Gordoniz, Altube) minutu gutxitan igotzen zara. Lokala Betolatza parkearen ondoan dago.
+416	Metxa ezkutu batetik ile osora arte.
+417	Mugitu barra alderatzeko.
+418	Mugitu barra eta alderatu. Horrela aldatzen da ilea Covaren eskuetan.
+419	Mugitu lehena eta ondorengoa alderatzeko
+420	Mugitu alderatzeko.
+421	Mugitu eta alderatu
+422	Lekualdatzea
+423	Puntak moztea edo osasuntzea
+424	Orain
+425	Oporren edo bidaia luzeen ondoren.
+426	Ile-erorketako aldi baten ondoren (erditu ondoren, aldaketak, dietak), berreskurapenari laguntzeko.
+427	Udaren ondoren, eguzkiak, itsasoak eta kloroak arrastoa uzten dute; udazkenarekin, ileak erorketa, lehortasun eta distira falta handiagoa izaten ditu. Gure elikadura extra zerbitzuak indarra, leuntasuna eta bizitasuna itzultzen dizkio ileari, sakon hidratatzen du eta hotzetik eta urtaro-aldaketetatik babesten du.
+428	Orain: Distira eta kolorea landareekin
+429	Orain: Harrotutik ispilu-leunera
+430	Orain: Argia balayagearekin
+431	Ondoren: hidratazioa eta eguzki-babesle altua.
+432	La Pelu de Tod@s-en atzean Covadonga «Cova» Izquierdo dago, Euskal Herrian estetikaren sektorean hiru hamarkada baino gehiagoko ibilbidea duen estilista sutsua.
+433	La Pelu-ren atzean Cova dago
+434	Ileak galdu duen ura itzultzen du.
+435	Diagnostikoa
+436	Ile-diagnostikoa
+437	Ile-diagnostiko osoa
+438	Ile-diagnostikoa Bilbon: buru-larruazalaren eta zuntzaren azterketa, ile-erorketa, hauts-ezkatak, koipea, lehortasuna edo dentsitate falta tratatzeko.
+439	Ile-diagnostiko pertsonalizatua
+440	Ile-diagnostiko pertsonalizatua Bilbon · La Pelu de Tod@s
+441	Ile-diagnostiko pertsonalizatua La Pelu de Tod@s-en
+442	Kolorearen diagnostikoa
+443	Kizkurraren diagnostikoa
+444	Aurretiko diagnostikoa
+445	Kolorearen aurretiko diagnostikoa
+446	Diagnostikoa eta teknologia buru-larruazal osasuntsu baterako
+447	Diagnostikoa, kosmetika errespetuzkoa eta % 100 aukera naturalak.
+448	Difusorea
+449	Difusorea, zure aliaturik onena: tenperatura baxu-ertainean, ilea ez harrotzeko eta uhina ez irekitzeko.
+450	Helbidea
+451	Helbidea, mapa, ordutegia eta nola iritsi La Pelu de Tod@s-era: Circunvalación errepidea 15, 5. lokala, Errekalde / Uretamendi, 48002 Bilbo.
+452	Diziplina, distira eta bolumen-murrizketa, ile maneiagarri baterako.
+453	Zure benetako errutina kontuan hartuta diseinatzen dugu, ez errepikatu ezin den aldizkari-orrazkera bat.
+454	Etiketarik gabeko diseinuak, zaren bezala adierazteko.
+455	Gozatu: zure koloreak eragiten duen bitartean egin dezakezu.
+456	Igandeak
+457	Osagai aktiboen dosi kontzentratua (elikadura, erorketaren aurkakoa, distira), garbitu ondoren aplikatzen dena.
+458	Drainatze linfatikoa
+459	Zalantzak
+460	Ohiko zalantzak
+461	Gomendatutako iraupena eta maiztasuna.
+462	Utzi zure iritzia Googlen
+463	Esaguzu konfiantza osoz. Hobetzeko jakin nahi dugu.
+464	Non eta noiz
+465	=
+466	=
+467	Aurpegi onaren efektua
+468	Erakusketa-adibidea
+469	Erakusketa-adibidea.
+470	Balayagea polit hazten da eta ukitu gutxiago behar ditu.
+471	Balayagea gure gogokoenetako bat da: eskuz margotutako degradatu leuna, erroa markatu gabe argiztatzen duena. Gaztetu egiten du, «aurpegi onaren efektua» ematen du eta mantentzea erosoagoa eta merkeagoa da, modu naturalean hazten delako.
+472	Brontzeztatzeak atsedena behar du saioen artean; gehiegikeriak ez du kolore hobea ematen.
+473	Ile kizkurra zoragarria da… eta oso berezia ere bai. Hezetasuna galtzeko joera du, erraz harrotzen da eta bere forma errespetatzen duen ile-mozketa behar du. Horregatik, La Pelu de Tod@s-en kizkurra arretaz lantzen dugu, ondo definituta egon dadin, hidratazioa mantendu dezan eta bolumenarekin eta mugimenduarekin distira dezan.
+474	Beroak, hezetasunak, eguzkiak, hondartzak, udazkeneko haizeak… asko gustatzen zaigun horrek guztiak ile asko harrotze-hodei bihurtzen ditu. Gure frizzaren aurkako tratamenduek ilearen kutikula zigilatzen dute, hezetasunetik eta kanpoko erasoetatik babesteko.
+475	Ilearen zikloa motela da; aldaketak hainbat asteko jarraitasunaren ondoren baloratzen dira.
+476	Kolorea da Covaren espezialitatea. Ileurdinak estaltzen dituen gaztainkara natural bat, kobre bizi bat, ilehori bero bat edo izaera duen gorri bat izan, helburua beti bera da: tonu polit bat, ondo datorkizuna eta zure ilea kaltetzen ez duena.
+477	Kolore perfektuak bere denbora behar du: zenbat eta lehenago erreserbatu, orduan eta hobeto antola dezakegu.
+478	Bob ile-mozketa ez da inoiz modatik pasatzen, ia denei ondo datorkielako: zuzena, testuraduna, long bob… zuri egokitzen dizugu.
+479	Ile-mozketa pertsonarentzat da: emakumea, gizona, ez-bitarra… berdin da. Zu ordezkatzen zaituena.
+480	Egun handia
+481	Ile-laserra argi-tresneria bidezko tratamendu estimulatzailea da. Intentsitate baxuko argiak buru-larruazalean eragiten du mikrozirkulazioa aktibatzeko eta ile-folikulua estimulatzeko, zuntza birsortzen eta ile-erorketa geldiarazten lagunduz.
+482	Ile-laserrak metatuz funtzionatzen du: jarraitasuna da gakoa.
+483	Jatorria
+484	Ilea errotik hazten da. Mozteak ez du hazkundea azkartzen, baina punta irekiak gora ez egitea eta gehiago moztu behar ez izatea bai.
+485	Ilea bera: kutikula, kortexa eta medula. Hura zaintzea bere elastikotasuna, distira eta erresistentzia zaintzea da.
+486	Emaitza: ile leunagoa, hidratatuagoa eta mugimenduduna. Erosotasuna eta egunero akabera polita bilatzen dituenarentzat ezin hobea.
+487	Apaindegia ideia argi batekin jaio zen: ile-apaindegi zurrunekin haustea eta entzute aktiboan eta elkarrenganako konfiantzan oinarritutako tratua duen topagune bat sortzea. Urteekin, bezeroak ez dira erabiltzaile hutsak: lagunak dira.
+488	Denborak ere erabakitzen du tonua. Eragiten duen bitartean presoterapiarekin lasai zaitezke.
+489	Bisajismoa aurpegiaren proportzioak ile-mozketarekin, bolumenarekin eta kolorearekin orekatzeko artea da. Ondo jarritako kopete batek bekoki zabala leuntzen du; altuera egokian jarritako geruzek masailak argiztatzen dituzte; puntu bat beroagoa den tonu batek aurpegia altxatzen du. Erabaki txikiak dira, baina batera, ispiluan nola ikusten zaren aldatzen dute.
+490	Tonua, ñabardura eta teknika aukeratzen ditugu. Karta erakusten dizugu eta elkarrekin erabakitzen dugu.
+491	Teknika eta tonua aukeratzen ditugu zure oinarriari, azalari eta estiloari begiratuta.
+492	Altxatu hankak egunaren amaieran.
+493	Aukeratu
+494	Aukeratu gurekin hitz egiteko modua
+495	Aukeratu nola etorri
+496	Aukeratu zerbitzua, egunak eta ordutegia. Guk hutsunea WhatsAppez berretsiko dizugu.
+497	Haurdunak edo produktu kimikoak saihestu nahi dituzten pertsonak (kontsultatu beti zure medikuarekin).
+498	Circunvalación errepidean, 15. zk., 5. lokala, Errekalde / Uretamendi auzoan, 48002 Bilbo. Kale mailako lokala.
+499	La Pelu de Tod@s-en solarium zerbitzua ere badugu. Azala pixkanaka eta modu kontrolatuan brontzeztatzeko kabina bat, giro lasaian eta pribatutasun osoz.
+500	Autoz
+501	Zuzenean
+502	Errekalderen bihotzean
+503	Logoan «La Pelu de Todos» jartzen du, baina aspalditik La Pelu de Tod@s deitzen diogu. A bildua ez da apaingarri bat: apaindegi hau edonorentzat dela esateko modua da, edozein dela ere bere generoa, adina, estiloa edo historia.
+504	Orri honetan
+505	Jai egunetan eta oporretan, ordutegi bereziak Instagramen eta Facebooken argitaratzen ditugu.
+506	Praktikan
+507	Egia esan, bai, baina komeni da denbora bat itxarotea eta aurretik diagnostiko bat egitea bateragarritasuna ziurtatzeko.
+508	Kizkurretan, ez igurtzi eskuoihalarekin: sakatu mikrozuntzezko oihal batekin edo kotoizko kamiseta batekin.
+509	Haien hitzetan
+510	Garraio publikoan
+511	Errekaldeko zure ile-apaindegi konfiantzazkoan.
+512	Bideoan · @lapeludet2
+513	Bidali WhatsAppez
+514	Ilea inguratu eta babestu egiten du, kaltetu beharrean.
+515	Proportzioak orekatzen ditugu zuretzat pentsatutako luzera, geruza eta kopeteekin.
+516	=
+517	=
+518	Errekalde / Uretamendi · 48002 Bilbo (Bizkaia)
+519	Errekalde, Bilbo
+520	Gure ile-terapien abiapuntua da (ile-laserra, adibidez), eta baita berme bat ere kolore-aldaketa handi baten aurretik edo landare-koloreztatzera igaro aurretik.
+521	Zerbitzu ezin hobea da buru-larruazal sentikorrentzat, ohiko tindagaiekiko alergia duten pertsonentzat edo, besterik gabe, bere ilea, osasuna eta ingurumena zaindu nahi dituenarentzat. Eta kosmetika naturalarekin osatzen dugu: olio puruak, silikonarik gabeko maskarak eta anpoila naturalak.
+522	Buru-larruazal sentikorrentzat eta ohiko tindagaiekiko alergientzat gomendatutako aukera da. Alergiaren bat baduzu, kontaiguzu aurretik.
+523	Intentsitate baxuko argia da: ez du erretzen ez eta molestatzen ere.
+524	Zuretzako tarte bat da, deskonektatzeko espazio segurua eta denborarekin adiskidetasunez betetzen den harremana. Bisita bakoitzak, berriketaldi bakoitzak, itxura-aldaketa bakoitzak eta irribarre bakoitzak lan hau berezi bihurtzen dute.
+525	Tratamendu erosoa eta minik gabea da, saiotan egiten dena eta oso ondo konbinatzen dena tratamendu topikoekin eta etxeko errutina on batekin. Ile-erorketa lantzeaz gain, buru-larruazala osasuntzen eta koipe gehiegia edo narritadura bezalako arazoei aurre egiten laguntzen du.
+526	Idatzi nire iritzia Googlen
+527	Idatzi WhatsAppez
+528	Idatziguzu WhatsAppez 676 67 98 07 zenbakira edo deitu 946 24 04 79 zenbakira, eta bidea erakutsiko dizugu.
+529	Idatziguzu WhatsAppez erabiltzea nahi duzun izenarekin. Horrela idatziko dugu, eta hori erabiliko dugu beti.
+530	Idatziguzu WhatsAppez eta besaulkian dagoen bezeroarekin amaitu bezain laster erantzungo dizugu.
+531	Entzute aktiboa
+532	Entzutea, asmatzea eta maitasuna
+533	Espazio inklusibo eta segurua
+534	Guztientzako espazioa
+535	Espazio segurua
+536	Itxaron 48 ordu lehen garbiketa egin aurretik, kolorea finka dadin.
+537	Orri hau puntak moztera joan da
+538	Circunvalación errepidean bertan gaude (Circunvalacion Errepidea), Errekalderen goialdean. Erabili «Nola iritsi» botoia, eta Google Mapsek atariraino eramango zaitu.
+539	Hitzordu hauek hegan doaz: erreserbatu zure tokia hurrengo hileko saioan ahalik eta lehenen.

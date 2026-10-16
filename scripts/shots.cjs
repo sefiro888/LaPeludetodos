@@ -7,12 +7,16 @@ const out = process.argv[2] || '.';
 const only = process.argv[3];
 const which = process.argv[4];
 fs.mkdirSync(out, { recursive: true });
-const pages = fs.readdirSync(path.join(__dirname, '..')).filter(f => f.endsWith('.html') && (!only || f.startsWith(only)));
+// «eu/» como prefijo revisa la versión en euskera
+const sub = only && only.startsWith('eu/') ? 'eu/' : '';
+const pref = sub ? only.slice(3) : only;
+const pages = fs.readdirSync(path.join(__dirname, '..', sub)).filter(f => f.endsWith('.html') && (!pref || f.startsWith(pref))).map(f => sub + f);
 const views = [['d', { width: 1440, height: 900 }, false], ['m', { width: 390, height: 844 }, true]].filter(v => !which || v[0] === which);
 (async () => {
   const browser = await chromium.launch();
   for (const file of pages) for (const [name, vp, mobile] of views) {
     const page = await browser.newPage({ viewport: vp, isMobile: mobile, hasTouch: mobile, deviceScaleFactor: 1 });
+    await page.addInitScript(() => { try { sessionStorage.setItem('lpdt-intro', '1'); } catch (e) {} });
     const errors = [];
     page.on('pageerror', e => errors.push(e.message));
     page.on('console', m => m.type() === 'error' && !/maps|google|ERR_|favicon/i.test(m.text()) && errors.push(m.text()));
@@ -29,7 +33,7 @@ const views = [['d', { width: 1440, height: 900 }, false], ['m', { width: 390, h
     });
     await page.waitForTimeout(1200);
     const ow = await page.evaluate(() => document.documentElement.scrollWidth - innerWidth);
-    await page.screenshot({ path: path.join(out, `${file.replace('.html', '')}-${name}.png`), fullPage: true });
+    await page.screenshot({ path: path.join(out, `${file.replace('.html', '').replace('/', '_')}-${name}.png`), fullPage: true });
     console.log(file, name, ow > 0 ? `DESBORDE ${ow}px` : 'ok', errors.length ? errors.join(' | ') : '');
     await page.close();
   }
